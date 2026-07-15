@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .montbois {
+ city: montbois
+ prefab: dlc_balt_214
+}
+}

@@ -1,0 +1,514 @@
+SiiNunit
+{
+sign_board_template : _nameless.1ea.3211.7e60 {
+ board_name: "mygo b041"
+ width: 4
+ height: 3
+ model_name: ""
+ items: 25
+ items[0]: _nameless.1ea.3b11.50b0
+ items[1]: _nameless.1e9.f8be.cd30
+ items[2]: _nameless.1e9.f8be.d5f0
+ items[3]: _nameless.1e9.f8be.d190
+ items[4]: _nameless.1ea.3211.75f0
+ items[5]: _nameless.1ea.3b11.4ff0
+ items[6]: _nameless.1ea.3b11.5170
+ items[7]: _nameless.1ea.3b11.5230
+ items[8]: _nameless.1ea.3b11.5cb0
+ items[9]: _nameless.1ea.3b11.5e30
+ items[10]: _nameless.1ea.3ba1.dde0
+ items[11]: _nameless.1ea.3ba1.e1a0
+ items[12]: _nameless.1ea.3ba1.b9e0
+ items[13]: _nameless.1ea.3ba1.d7e0
+ items[14]: _nameless.1ea.3ba1.c6a0
+ items[15]: _nameless.1ea.3211.66c0
+ items[16]: _nameless.1ea.3211.73b0
+ items[17]: _nameless.1ea.3ba1.c820
+ items[18]: _nameless.1e9.f8be.c150
+ items[19]: _nameless.1e9.f8be.bb10
+ items[20]: _nameless.1ea.3211.6750
+ items[21]: _nameless.1ea.3211.77a0
+ items[22]: _nameless.1ea.3211.6990
+ items[23]: _nameless.1e9.f8be.d370
+ items[24]: _nameless.1ea.3ba1.bce0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1ea.3b11.50b0 {
+ text: "150 m"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e800000
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ccccccd
+ id: 2049441791
+ area_name: ""
+ area_idx: nil
+ coords_l: &404b5528
+ coords_r: 4
+ coords_t: &3e9c8469
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1e9.f8be.cd30 {
+ atlas_path: "/def/sign/atlas/single_line_horizontal_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 383254528
+ area_name: ""
+ area_idx: nil
+ coords_l: &4048f284
+ coords_r: 4
+ coords_t: &3ecee5c8
+ coords_b: &3e807f18
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1e9.f8be.d5f0 {
+ atlas_path: "/def/sign/atlas/single_line_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3783131134
+ area_name: ""
+ area_idx: nil
+ coords_l: &404508fd
+ coords_r: &404ed5d2
+ coords_t: &3eb1d114
+ coords_b: 0
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.1e9.f8be.d190 {
+ atlas_path: "/def/sign/atlas/round_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 1709703167
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f72cfb2
+ coords_r: &404335b8
+ coords_t: &40132bf0
+ coords_b: &3e4aa248
+ z_order: 4
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.3211.75f0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 2500134
+ opacity: 1
+ id: 45088768
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff96ee7
+ coords_r: &40031dda
+ coords_t: &3f3ca8da
+ coords_b: 0
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3b11.4ff0 {
+ text: "SAINT-AMAND-TALLENDE<br>COUDES"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2714238975
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: 4
+ coords_t: 3
+ coords_b: &40107d2d
+ z_order: 11
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3b11.5170 {
+ text: " LAPS"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2919235582
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &400004cb
+ coords_t: &3fbc5243
+ coords_b: &3f829a3d
+ z_order: 12
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3b11.5230 {
+ text: "AYDAT  "
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2238185471
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ffff668
+ coords_r: &407fffff
+ coords_t: &3fbc5243
+ coords_b: &3f829a3d
+ z_order: 13
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3b11.5cb0 {
+ text: " ISSOIRE"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 1703804927
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &400004cb
+ coords_t: &3f875617
+ coords_b: &3f328414
+ z_order: 14
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3b11.5e30 {
+ text: "ST-JEAN  "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 3389652990
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ffff668
+ coords_r: &407fffff
+ coords_t: &3f8815be
+ coords_b: &3f340363
+ z_order: 15
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3ba1.dde0 {
+ text: " Gendarmerie"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 3239837694
+ area_name: ""
+ area_idx: nil
+ coords_l: &34800000
+ coords_r: &400004cc
+ coords_t: &3f2f2efb
+ coords_b: 0
+ z_order: 16
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3ba1.e1a0 {
+ text: "D\xc3\xa9chetterie  "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 1342701568
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ffff66a
+ coords_r: 4
+ coords_t: &3f37463a
+ coords_b: &3eb63c43
+ z_order: 17
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3ba1.b9e0 {
+ text: ALBERTVILLE
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2697986047
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407fffff
+ coords_t: &40281245
+ coords_b: &40107d2d
+ z_order: 18
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3ba1.d7e0 {
+ text: ANNECY
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2871263230
+ area_name: ""
+ area_idx: nil
+ coords_l: &34800000
+ coords_r: 4
+ coords_t: 3
+ coords_b: &40286ae8
+ z_order: 19
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3ba1.c6a0 {
+ text: LIMOGES
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2144075775
+ area_name: ""
+ area_idx: nil
+ coords_l: &402095bb
+ coords_r: &407b2bd6
+ coords_t: &3ff7a228
+ coords_b: &3fc80ecd
+ z_order: 20
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.3211.66c0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 1
+ id: 1421737984
+ area_name: ""
+ area_idx: nil
+ coords_l: &402035e8
+ coords_r: &407b8baa
+ coords_t: &3ff70dbe
+ coords_b: &3fc723e7
+ z_order: 6
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.3211.73b0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 1
+ id: 142344192
+ area_name: ""
+ area_idx: nil
+ coords_l: &3da3d700
+ coords_r: &3fc0e8f4
+ coords_t: &3ff842d8
+ coords_b: &3fc85901
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3ba1.c820 {
+ text: "COURPI\xc3\x88RE"
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 3886284798
+ area_name: ""
+ area_idx: nil
+ coords_l: &3dafd160
+ coords_r: &3fc0294c
+ coords_t: &3ff8d742
+ coords_b: &3fc943e7
+ z_order: 21
+ tag: ""
+}
+
+sign_template_image : _nameless.1e9.f8be.c150 {
+ atlas_path: "/def/sign/atlas/highway2_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 4188930046
+ area_name: ""
+ area_idx: nil
+ coords_l: &40251b8f
+ coords_r: &40351b8f
+ coords_t: &3fef03c8
+ coords_b: &3fcf03c8
+ z_order: 22
+ tag: ""
+}
+
+sign_template_image : _nameless.1e9.f8be.bb10 {
+ atlas_path: "/def/sign/atlas/highway2_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 4119461886
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2cea30
+ coords_r: &3ed67518
+ coords_t: &3ff02d64
+ coords_b: &3fd02d64
+ z_order: 23
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.3211.6750 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 0
+ id: 2277769215
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fa5381c
+ coords_r: &402df1d0
+ coords_t: &40339c4b
+ coords_b: &401ba760
+ z_order: 10
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.3211.77a0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 0
+ id: 1441398783
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f78f344
+ coords_r: &4041801b
+ coords_t: &40340657
+ coords_b: &401c116c
+ z_order: 8
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.3211.6990 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 0
+ id: 3190030334
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ea91830
+ coords_r: &406a99e5
+ coords_t: &40340657
+ coords_b: &401c116c
+ z_order: 9
+ tag: ""
+}
+
+sign_template_image : _nameless.1e9.f8be.d370 {
+ atlas_path: "/def/sign/atlas/highway2_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 3532128254
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fb02721
+ coords_r: &3fd02721
+ coords_t: &40300be1
+ coords_b: &40200be1
+ z_order: 24
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.3ba1.bce0 {
+ text: "  A 71"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 1155661824
+ area_name: ""
+ area_idx: nil
+ coords_l: &3faa7df2
+ coords_r: &402ad763
+ coords_t: &4033f0b8
+ coords_b: &401c270a
+ z_order: 25
+ tag: ""
+}
+
+}

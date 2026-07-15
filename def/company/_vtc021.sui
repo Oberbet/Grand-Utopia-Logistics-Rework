@@ -1,0 +1,6 @@
+company_permanent: company.permanent._vtc021
+{
+	name: "Transports Ronchon"
+	sort_name: "transports ronchon"
+	trailer_look: _vtc021
+}

@@ -1,0 +1,6 @@
+company_permanent: company.permanent.underground
+{
+	name: "Utopia Underground"
+	sort_name: "underground"
+	trailer_look: cjtrans
+}

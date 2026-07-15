@@ -1,0 +1,6 @@
+company_permanent: company.permanent.winch_tps
+{
+	name: "Winchtransport"
+	sort_name: "winchtransport"
+	trailer_look: winch_tps
+}

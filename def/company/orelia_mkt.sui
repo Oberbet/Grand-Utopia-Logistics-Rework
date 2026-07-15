@@ -1,0 +1,6 @@
+company_permanent: company.permanent.orelia_mkt
+{
+	name: "Orelia Hypermarket"
+	sort_name: "orelia hypermarket"
+	trailer_look: orelia_mkt
+}

@@ -1,0 +1,6 @@
+company_permanent: company.permanent.pig_lunettes
+{
+	name: "Le Cochon à Lunettes"
+	sort_name: "cochon à lunettes"
+	trailer_look: gu_express
+}

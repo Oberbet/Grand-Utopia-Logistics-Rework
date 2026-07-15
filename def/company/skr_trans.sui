@@ -1,0 +1,6 @@
+company_permanent: company.permanent.skr_trans
+{
+	name: "SKR Transports"
+	sort_name: "SKR Transports"
+	trailer_look: skr_trans
+}

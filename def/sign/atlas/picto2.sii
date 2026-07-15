@@ -1,0 +1,51 @@
+SiiNunit
+{
+image_atlas : atlas.picto2
+{
+  atlas_name: "ADYOX - Pictogrammes"
+  material_path: "/material/sign/atlas/dyx/picto2.mat"
+  
+  # names
+  images_names: 15
+  images_names[0]: "fleuve"
+  images_names[1]: "flechet5"
+  images_names[2]: "flechet6"
+  images_names[3]: "flechet7"
+
+  images_names[4]: "flechet8"
+  images_names[5]: "echangeur"
+  images_names[6]: "bus_fr"
+  images_names[7]: "camion_fr"
+
+  images_names[8]: "voiture_fr"
+  images_names[9]: "caravane_fr"
+  images_names[10]: "moto_fr"
+  images_names[11]: "parking_fr"
+
+  images_names[12]: "telepeage"
+  images_names[13]: "bis_fr"
+  images_names[14]: "sortie"
+
+ 
+  # left right bottom top
+  images_coords: 15
+  images_coords[0]: (1, 254, 254, 1)
+  images_coords[1]: (257, 510, 254, 1)
+  images_coords[2]: (513, 766, 254, 1)
+  images_coords[3]: (769, 1022, 140, 1)
+
+  images_coords[4]: (1, 254, 510, 257)
+  images_coords[5]: (257, 510, 510, 257)
+  images_coords[6]: (513, 766, 510, 257)
+  images_coords[7]: (769, 1022, 510, 257)
+
+  images_coords[8]: (1, 254, 766, 513)
+  images_coords[9]: (257, 510, 766, 513)
+  images_coords[10]: (513, 766, 766, 513)
+  images_coords[11]: (769, 1022, 766, 513)
+
+  images_coords[12]: (1, 254, 1022, 769)
+  images_coords[13]: (257, 510, 1022, 769)
+  images_coords[14]: (513, 1022, 1022, 769)
+}
+}

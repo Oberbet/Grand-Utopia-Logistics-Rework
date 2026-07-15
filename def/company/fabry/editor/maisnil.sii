@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .maisnil {
+ city: maisnil
+ prefab: dlc_balt_192
+}
+}

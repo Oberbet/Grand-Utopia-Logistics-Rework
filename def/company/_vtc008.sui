@@ -1,0 +1,6 @@
+company_permanent: company.permanent._vtc008
+{
+	name: "JM Trans"
+	sort_name: "jm trans"
+	trailer_look: _vtc008
+}

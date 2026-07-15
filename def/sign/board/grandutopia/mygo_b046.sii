@@ -1,0 +1,378 @@
+SiiNunit
+{
+sign_board_template : _nameless.1ea.73eb.ae40 {
+ board_name: "mygo b046"
+ width: &40200000
+ height: 2
+ model_name: ""
+ items: 18
+ items[0]: _nameless.1e9.f52d.2720
+ items[1]: _nameless.1eb.ba02.c200
+ items[2]: _nameless.1eb.ba02.cb60
+ items[3]: _nameless.1eb.ba02.b3a0
+ items[4]: _nameless.1e9.f52d.0f20
+ items[5]: _nameless.1e9.f52d.3ce0
+ items[6]: _nameless.1e9.f52d.2ae0
+ items[7]: _nameless.1eb.ba02.aa40
+ items[8]: _nameless.1e9.f52d.12e0
+ items[9]: _nameless.1e9.f52d.0e60
+ items[10]: _nameless.1e9.f52d.34a0
+ items[11]: _nameless.1e9.f52d.1520
+ items[12]: _nameless.1e9.f52c.c420
+ items[13]: _nameless.1ea.a2e2.6d90
+ items[14]: _nameless.1ea.a2e2.7b10
+ items[15]: _nameless.1ea.a5ec.29c0
+ items[16]: _nameless.1ea.a2e2.7840
+ items[17]: _nameless.1ea.a5ec.0e40
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1e9.f52d.2720 {
+ text: "150 m"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e2e147b
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3c75c28f
+ id: 1731330047
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff98c98
+ coords_r: &40200000
+ coords_t: &3e5b9a70
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1eb.ba02.c200 {
+ atlas_path: "/def/sign/atlas/single_line_horizontal_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 308936704
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff66e08
+ coords_r: &40200000
+ coords_t: &3e8fc0c8
+ coords_b: &3e33ace7
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1eb.ba02.cb60 {
+ atlas_path: "/def/sign/atlas/single_line_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2867986430
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff196e9
+ coords_r: &3ffe63b5
+ coords_t: &3e72100d
+ coords_b: 0
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.1eb.ba02.b3a0 {
+ atlas_path: "/def/sign/atlas/round_fr_gu1.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2992898046
+ area_name: ""
+ area_idx: nil
+ coords_l: &3dba3f98
+ coords_r: &3fd64643
+ coords_t: &3fcaa249
+ coords_b: 0
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.f52d.0f20 {
+ text: "SAINTE-AGN\xc3\x88S"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e666666
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3cb851ec
+ id: 4136108030
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40200000
+ coords_t: &3ffe67f1
+ coords_b: &3fc106ba
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.f52d.3ce0 {
+ text: " NOUILLORC"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e4ccccd
+ text_halign: left
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 439091200
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f924c57
+ coords_t: &3fa20511
+ coords_b: &3f899061
+ z_order: 8
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.f52d.2ae0 {
+ text: " ARCELOR   <br> DISTRIBUTION   "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e2e147b
+ text_halign: left
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 1536425983
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40200000
+ coords_t: &3f402722
+ coords_b: &3e7f0a0c
+ z_order: 9
+ tag: ""
+}
+
+sign_template_image : _nameless.1eb.ba02.aa40 {
+ atlas_path: "/def/sign/atlas/round_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1850867711
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f005530
+ coords_r: &400028de
+ coords_t: &3fc02722
+ coords_b: 0
+ z_order: 10
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.f52d.12e0 {
+ text: "SAINTE-AGN\xc3\x88S"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e4ccccd
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 3391094782
+ area_name: ""
+ area_idx: nil
+ coords_l: &34800000
+ coords_r: &40200000
+ coords_t: &3ffa4772
+ coords_b: &3fdabfa2
+ z_order: 12
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.f52d.0e60 {
+ text: "ARCELOR DISTRIBUTION"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e333333
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3c8f5c29
+ id: 950009856
+ area_name: ""
+ area_idx: nil
+ coords_l: &34800000
+ coords_r: &40200000
+ coords_t: &3fdfa3c4
+ coords_b: &3fc01bf4
+ z_order: 13
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.f52d.34a0 {
+ text: "CHANTURGUE  "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e333333
+ text_halign: right
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3c8f5c29
+ id: 23199744
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fadb3a9
+ coords_r: &40200000
+ coords_t: &3fa20511
+ coords_b: &3f899061
+ z_order: 16
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.f52d.1520 {
+ text: "Zone   <br>-commerciale   "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e333333
+ text_halign: right
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3c8f5c29
+ id: 2088108031
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fadb3a8
+ coords_r: &40200000
+ coords_t: &3f275212
+ coords_b: &3ea1b422
+ z_order: 17
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.f52c.c420 {
+ text: "  Z.I.<br>  P\xc3\x89TROVAL"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e333333
+ text_halign: left
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3c8f5c29
+ id: 1804337151
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f924c57
+ coords_t: &3f155aec
+ coords_b: &3daeaf38
+ z_order: 18
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.a2e2.6d90 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 0
+ id: 314966016
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0cdcae
+ coords_r: &3ff9eb54
+ coords_t: &3ff9aaef
+ coords_b: &3fdc8a01
+ z_order: 11
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.a2e2.7b10 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 0
+ id: 3584688126
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc8037e
+ coords_r: &401bcbf2
+ coords_t: &3fa54280
+ coords_b: &3f88b0c8
+ z_order: 14
+ tag: ""
+}
+
+sign_template_image : _nameless.1ea.a5ec.29c0 {
+ atlas_path: "/def/sign/atlas/highway2_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1655177215
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fcedca2
+ coords_r: &3fe33a9d
+ coords_t: &3fa1491c
+ coords_b: &3f8ceb21
+ z_order: 15
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ea.a2e2.7840 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 0
+ id: 2599813119
+ area_name: ""
+ area_idx: nil
+ coords_l: &3d938480
+ coords_r: &3f71995c
+ coords_t: &3fa41b4c
+ coords_b: &3f878994
+ z_order: 6
+ tag: ""
+}
+
+sign_template_image : _nameless.1ea.a5ec.0e40 {
+ atlas_path: "/def/sign/atlas/highway2_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 483262464
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e008b60
+ coords_r: &3e91bd9c
+ coords_t: &3fa021e8
+ coords_b: &3f8bc3ed
+ z_order: 7
+ tag: ""
+}
+
+}

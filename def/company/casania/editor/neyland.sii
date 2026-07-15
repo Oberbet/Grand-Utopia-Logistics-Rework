@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .neyland {
+ city: neyland
+ prefab: dlc_fr_39
+}
+}

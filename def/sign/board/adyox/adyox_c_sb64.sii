@@ -1,0 +1,100 @@
+SiiNunit
+{
+sign_board_template : _nameless.1af.b8cf.5c80 {
+ board_name: "adyox c sb64"
+ width: &40266666
+ height: &3f000000
+ model_name: ""
+ items: 4
+ items[0]: _nameless.1af.9484.1700
+ items[1]: _nameless.1af.95e3.cf00
+ items[2]: _nameless.1af.95e3.da40
+ items[3]: _nameless.1af.95e3.d800
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1af.9484.1700 {
+ text: XXXX
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3eb851ec
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3d4ccccd
+ id: 241172480
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40266666
+ coords_t: &3f000000
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.1af.95e3.cf00 {
+ text: "LA TRAVERSE MARTIN"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e800000
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 846069760
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40266666
+ coords_t: &3ee66e10
+ coords_b: &3e4d84c2
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.1af.95e3.da40 {
+ text: "       ROMBAS"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3c75c28f
+ id: 3753771006
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40266666
+ coords_t: &3e8c2056
+ coords_b: &3cc74a6c
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.1af.95e3.d800 {
+ text: "c<sup>ne</sup> de               "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3c75c28f
+ id: 1258553344
+ area_name: ""
+ area_idx: nil
+ coords_l: &34000000
+ coords_r: &40266666
+ coords_t: &3e8c2056
+ coords_b: &3cc74a70
+ z_order: 4
+ tag: ""
+}
+
+}

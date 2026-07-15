@@ -1,0 +1,6 @@
+company_permanent: company.permanent.grandouest
+{
+	name: "Transport Grand Ouest"
+	sort_name: "grandouest"
+	trailer_look: grandouest
+}

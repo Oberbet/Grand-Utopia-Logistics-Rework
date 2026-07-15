@@ -1,0 +1,6 @@
+company_permanent: company.permanent.crm
+{
+	name: "Crosstie Railfreight Mobility"
+	sort_name: "crosstie railfreight mobility"
+	trailer_look: crm
+}

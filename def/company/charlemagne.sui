@@ -1,0 +1,6 @@
+company_permanent: company.permanent.charlemagne
+{
+	name: "Charlemagne Air"
+	sort_name: "charlemagne"
+	trailer_look: charlemagne
+}

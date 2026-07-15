@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .courpiere {
+ city: courpiere
+ prefab: 13cust
+}
+}

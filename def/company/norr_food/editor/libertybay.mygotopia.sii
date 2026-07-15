@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .libertybay {
+ city: libertybay
+ prefab: 289
+}
+}

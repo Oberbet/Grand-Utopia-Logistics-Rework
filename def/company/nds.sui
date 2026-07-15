@@ -1,0 +1,6 @@
+company_permanent: company.permanent.nds
+{
+	name: "Transports NDS"
+	sort_name: "nds"
+	trailer_look: eviksi
+}

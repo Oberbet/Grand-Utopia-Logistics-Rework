@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.uport.ucentre {
+	price: 4
+	time: 2
+	distance: 2
+}
+}
+

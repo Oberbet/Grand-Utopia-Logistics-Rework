@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .sulikow {
+ city: sulikow
+ prefab: ibe250
+}
+}

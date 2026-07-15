@@ -1,0 +1,6 @@
+company_permanent: company.permanent.sjlog
+{
+	name: "S J Logistics"
+	sort_name: "sjlog"
+	trailer_look: sjlog
+}

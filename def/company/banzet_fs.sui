@@ -1,0 +1,6 @@
+company_permanent: company.permanent.banzet_fs
+{
+	name: "Banzet-Hoff Frais-Sec"
+	sort_name: "banzet hoff frais sec"
+	trailer_look: banzet_fs
+}

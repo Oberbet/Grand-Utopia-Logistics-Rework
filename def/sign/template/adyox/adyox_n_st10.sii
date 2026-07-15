@@ -1,0 +1,20 @@
+SiiNunit
+{
+sign_template : _nameless.1e3.f944.6ba0 {
+ template_name: adyox_n_st10
+ model_name: dyxgu_s308
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 1
+ boards[0]: _nameless.1e0.f0aa.7b10
+ traffic_rule_lane_count: nil
+ items: 0
+ dynamic_attributes: 0
+}
+
+sign_template_board_binding : _nameless.1e0.f0aa.7b10 {
+ area_name: 3lp
+ linked_board: sign_board.adyox_0000t
+}
+
+}

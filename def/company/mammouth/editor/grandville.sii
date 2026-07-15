@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .grandville {
+ city: grandville
+ prefab: 12cust
+}
+}

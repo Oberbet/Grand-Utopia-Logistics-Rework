@@ -1,0 +1,474 @@
+SiiNunit
+{
+sign_board_template : _nameless.255.b580.2180 {
+ board_name: "mygo b039"
+ width: &40600000
+ height: 3
+ model_name: ""
+ items: 24
+ items[0]: _nameless.256.9b88.9810
+ items[1]: _nameless.256.9b88.9090
+ items[2]: _nameless.257.65d9.b620
+ items[3]: _nameless.256.9b88.9630
+ items[4]: _nameless.255.b580.2ba0
+ items[5]: _nameless.256.d343.f3d0
+ items[6]: _nameless.256.8168.ee50
+ items[7]: _nameless.256.7559.4ea0
+ items[8]: _nameless.256.7559.44e0
+ items[9]: _nameless.256.7559.45a0
+ items[10]: _nameless.256.7559.5e60
+ items[11]: _nameless.256.9b88.9d10
+ items[12]: _nameless.255.b580.1e20
+ items[13]: _nameless.255.b580.1fd0
+ items[14]: _nameless.255.b580.0e60
+ items[15]: _nameless.255.b580.20f0
+ items[16]: _nameless.255.b580.2060
+ items[17]: _nameless.256.9b88.8ff0
+ items[18]: _nameless.256.7559.42a0
+ items[19]: _nameless.257.d834.d9f0
+ items[20]: _nameless.257.c44a.89f0
+ items[21]: _nameless.257.ba83.1810
+ items[22]: _nameless.257.ab98.0e20
+ items[23]: _nameless.256.71a9.d510
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.256.9b88.9810 {
+ atlas_path: "/def/sign/atlas/single_line_horizontal_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 450756608
+ area_name: ""
+ area_idx: nil
+ coords_l: &4029602a
+ coords_r: &40600000
+ coords_t: &3ec1c0c3
+ coords_b: &3e7e91c8
+ z_order: 5
+ tag: ""
+}
+
+sign_template_image : _nameless.256.9b88.9090 {
+ atlas_path: "/def/sign/atlas/single_line_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2330329087
+ area_name: ""
+ area_idx: nil
+ coords_l: &40263d50
+ coords_r: &402e8fe7
+ coords_t: &3ea7471d
+ coords_b: 0
+ z_order: 6
+ tag: ""
+}
+
+sign_template_text : _nameless.257.65d9.b620 {
+ text: "150 m"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e800000
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ccccccd
+ id: 2923429886
+ area_name: ""
+ area_idx: nil
+ coords_l: &402bae0a
+ coords_r: &40600000
+ coords_t: &3e9573c5
+ coords_b: &3ca8a930
+ z_order: 7
+ tag: ""
+}
+
+sign_template_image : _nameless.256.9b88.9630 {
+ atlas_path: "/def/sign/atlas/round_left_fr.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3656384510
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fa605ac
+ coords_r: &40325c47
+ coords_t: &401846bc
+ coords_b: &3ebe71d4
+ z_order: 10
+ tag: ""
+}
+
+sign_template_frame : _nameless.255.b580.2ba0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 2500134
+ opacity: 1
+ id: 2899312638
+ area_name: ""
+ area_idx: nil
+ coords_l: &40104c83
+ coords_r: &4016b2e9
+ coords_t: &3f6545f7
+ coords_b: 0
+ z_order: 11
+ tag: ""
+}
+
+sign_template_text : _nameless.256.d343.f3d0 {
+ text: GANNAT
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3eb33333
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d0f5c29
+ id: 1946550271
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40600000
+ coords_t: &3fcf98b6
+ coords_b: &3f903bd6
+ z_order: 12
+ tag: ""
+}
+
+sign_template_text : _nameless.256.8168.ee50 {
+ text: "CLERMONT-FERRAND"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3eb33333
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d0f5c29
+ id: 2729836543
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40600000
+ coords_t: 3
+ coords_b: &40189229
+ z_order: 13
+ tag: ""
+}
+
+sign_template_text : _nameless.256.7559.4ea0 {
+ text: "Zone d'activit\xc3\xa9s des Corps  "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3cf5c28f
+ id: 851312640
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40600000
+ coords_t: 3
+ coords_b: &40189229
+ z_order: 14
+ tag: ""
+}
+
+sign_template_text : _nameless.256.7559.44e0 {
+ text: " Zone portuaire  "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 1929510911
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40600000
+ coords_t: &3f903bd6
+ coords_b: &3f416c5b
+ z_order: 15
+ tag: ""
+}
+
+sign_template_text : _nameless.256.7559.45a0 {
+ text: " P\xc3\x89TROVAL  "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2104098815
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40600000
+ coords_t: &3f3eec0f
+ coords_b: &3ebfc17c
+ z_order: 16
+ tag: ""
+}
+
+sign_template_text : _nameless.256.7559.5e60 {
+ text: " LA PALMYRE  "
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3d0f5c29
+ id: 1555562495
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40600000
+ coords_t: &3fff8915
+ coords_b: &3fd07c60
+ z_order: 17
+ tag: ""
+}
+
+sign_template_image : _nameless.256.9b88.9d10 {
+ atlas_path: "/def/sign/atlas/round_right_fr.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 593362944
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0a448c
+ coords_r: &4001ea94
+ coords_t: &4018aaf6
+ coords_b: &3ec193a1
+ z_order: 18
+ tag: ""
+}
+
+sign_template_frame : _nameless.255.b580.1e20 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 2500134
+ opacity: 0
+ id: 592052224
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f7bc030
+ coords_r: &3f8aace4
+ coords_t: &3f666adf
+ coords_b: &3b927400
+ z_order: 19
+ tag: ""
+}
+
+sign_template_frame : _nameless.255.b580.1fd0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 0
+ id: 239992832
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc3a583
+ coords_r: &40452cce
+ coords_t: &40388b0c
+ coords_b: &40202f83
+ z_order: 3
+ tag: ""
+}
+
+sign_template_frame : _nameless.255.b580.0e60 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 0
+ id: 1177419776
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f82130a
+ coords_r: &4056fb5f
+ coords_t: &4037d3fa
+ coords_b: &40202f83
+ z_order: 2
+ tag: ""
+}
+
+sign_template_frame : _nameless.255.b580.20f0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 0
+ id: 1628438527
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2168a0
+ coords_r: &40578452
+ coords_t: &4038223c
+ coords_b: &40207dc6
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.255.b580.2060 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 0
+ id: 2834956287
+ area_name: ""
+ area_idx: nil
+ coords_l: &3dd73610
+ coords_r: &3fa785b8
+ coords_t: &4000165c
+ coords_b: &3fd07c60
+ z_order: 4
+ tag: ""
+}
+
+sign_template_image : _nameless.256.9b88.8ff0 {
+ atlas_path: "/def/sign/atlas/highway2_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3249930238
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e4228b8
+ coords_r: &3eece480
+ coords_t: &3ff9ce90
+ coords_b: &3fd6da87
+ z_order: 20
+ tag: ""
+}
+
+sign_template_text : _nameless.256.7559.42a0 {
+ text: "A 711"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2358378495
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ef21cd0
+ coords_r: &3fa64cb0
+ coords_t: &3fff7adb
+ coords_b: &3fcff532
+ z_order: 21
+ tag: ""
+}
+
+sign_template_frame : _nameless.257.d834.d9f0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 0
+ id: 214695936
+ area_name: ""
+ area_idx: nil
+ coords_l: &400d3b7b
+ coords_r: &405a44a6
+ coords_t: &3fffd3ca
+ coords_b: &3fd02372
+ z_order: 22
+ tag: ""
+}
+
+sign_template_image : _nameless.257.c44a.89f0 {
+ atlas_path: "/def/sign/atlas/highway2_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3388342270
+ area_name: ""
+ area_idx: nil
+ coords_l: &4012a456
+ coords_r: &40241e5a
+ coords_t: &3ff975a2
+ coords_b: &3fd68199
+ z_order: 23
+ tag: ""
+}
+
+sign_template_text : _nameless.257.ba83.1810 {
+ text: "A 711"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 452722688
+ area_name: ""
+ area_idx: nil
+ coords_l: &4024c564
+ coords_r: &4059a822
+ coords_t: &3fff21ed
+ coords_b: &3fcf9c44
+ z_order: 24
+ tag: ""
+}
+
+sign_template_frame : _nameless.257.ab98.0e20 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 0
+ id: 1435107327
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e809f30
+ coords_r: &3fe6dbe5
+ coords_t: &4038420c
+ coords_b: &401fe683
+ z_order: 8
+ tag: ""
+}
+
+sign_template_frame : _nameless.256.71a9.d510 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 0
+ id: 622198784
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e1b4b60
+ coords_r: &40157c76
+ coords_t: &40379f93
+ coords_b: &401ffb1c
+ z_order: 9
+ tag: ""
+}
+
+}

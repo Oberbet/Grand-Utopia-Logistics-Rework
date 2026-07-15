@@ -1,0 +1,94 @@
+SiiNunit
+{
+sign_board_template : _nameless.1ed.3b33.6cc0 {
+ board_name: "mygo b037b"
+ width: &3f0a3d71
+ height: &3f0a3d71
+ model_name: ""
+ items: 4
+ items[0]: _nameless.1ed.592a.e9c0
+ items[1]: _nameless.1ee.6678.5950
+ items[2]: _nameless.1ee.aeda.7720
+ items[3]: _nameless.1ef.343e.2ba0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1ed.592a.e9c0 {
+ text: "D\xc3\x89P\xc3\x94T DE<br>TOUTE NATURE"
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3da3d70a
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3c23d70a
+ id: 1884684287
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f0a3d71
+ coords_t: &3f0a3d71
+ coords_b: &3e9af175
+ z_order: 2
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ee.6678.5950 {
+ frame_path: "/def/sign/frame/white_rounded_ru.sii"
+ color: 2960869
+ opacity: 1
+ id: 629276672
+ area_name: ""
+ area_idx: nil
+ coords_l: &3bbf5740
+ coords_r: &3f08bec2
+ coords_t: &3f08bec2
+ coords_b: &3bbf5740
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.1ee.aeda.7720 {
+ text: INTERDIT
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3df5c28f
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3c75c28f
+ id: 2070937599
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f0a3d71
+ coords_t: &3ea576ff
+ coords_b: &3e38daba
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.1ef.343e.2ba0 {
+ text: "Article L541-46 du Code de l'Environnement "
+ font_face: "/font/sign/lu.font"
+ font_size: &3d4ccccd
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3b449ba6
+ id: 1494351871
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f0a3d71
+ coords_t: &3e380f5e
+ coords_b: &3bc7a880
+ z_order: 4
+ tag: ""
+}
+
+}

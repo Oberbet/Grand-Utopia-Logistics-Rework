@@ -1,0 +1,6 @@
+company_permanent: company.permanent.coteaux_br
+{
+	name: "Coteaux des Braises"
+	sort_name: "coteaux des braises"
+	trailer_look: coteaux_br
+}

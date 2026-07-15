@@ -1,0 +1,54 @@
+SiiNunit
+{
+sign_board_template : _nameless.1fb.4264.e110 {
+ board_name: "adyox c sb57"
+ width: &3f666666
+ height: &3e800000
+ model_name: ""
+ items: 2
+ items[0]: _nameless.1fb.4265.3230
+ items[1]: _nameless.1fb.549b.0560
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1fb.4265.3230 {
+ text: "  XXXX"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e3851ec
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 1190133760
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f666666
+ coords_t: &3e800000
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1fb.549b.0560 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 0
+ color: 15263976
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3520462846
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3e50456c
+ coords_t: &3e6da7b1
+ coords_b: &3cb3de50
+ z_order: 2
+ tag: ""
+}
+
+}

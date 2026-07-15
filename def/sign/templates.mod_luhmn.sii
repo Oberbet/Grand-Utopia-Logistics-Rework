@@ -1,0 +1,151 @@
+SiiNunit
+{
+sign_template_def : sign_templ.user_m_00001 {
+ path: "/def/sign/template/luhmn/luhmn_0001.sii"
+}
+
+sign_template_def : sign_templ.user_m_00002 {
+ path: "/def/sign/template/luhmn/luhmn_0002.sii"
+}
+
+sign_template_def : sign_templ.user_m_00003 {
+ path: "/def/sign/template/luhmn/luhmn_0003.sii"
+}
+
+sign_template_def : sign_templ.user_m_00004 {
+ path: "/def/sign/template/luhmn/luhmn_0004.sii"
+}
+
+sign_template_def : sign_templ.user_m_00005 {
+ path: "/def/sign/template/luhmn/luhmn_0005.sii"
+}
+
+sign_template_def : sign_templ.user_m_00006 {
+ path: "/def/sign/template/luhmn/luhmn_0006.sii"
+}
+
+sign_template_def : sign_templ.user_m_00007 {
+ path: "/def/sign/template/luhmn/luhmn_0007.sii"
+}
+
+sign_template_def : sign_templ.user_m_00008 {
+ path: "/def/sign/template/luhmn/luhmn_0008.sii"
+}
+
+sign_template_def : sign_templ.user_m_00009 {
+ path: "/def/sign/template/luhmn/luhmn_0009.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000a {
+ path: "/def/sign/template/luhmn/luhmn_0010.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000b {
+ path: "/def/sign/template/luhmn/luhmn_0011.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000c {
+ path: "/def/sign/template/luhmn/luhmn_0012.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000d {
+ path: "/def/sign/template/luhmn/luhmn_0013.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000e {
+ path: "/def/sign/template/luhmn/luhmn_0014.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000f {
+ path: "/def/sign/template/luhmn/luhmn_0015.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000g {
+ path: "/def/sign/template/luhmn/luhmn_0016.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000h {
+ path: "/def/sign/template/luhmn/luhmn_0017.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000i {
+ path: "/def/sign/template/luhmn/luhmn_0018.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000j {
+ path: "/def/sign/template/luhmn/luhmn_0019.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000k {
+ path: "/def/sign/template/luhmn/luhmn_0020.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000l {
+ path: "/def/sign/template/luhmn/luhmn_0021.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000m {
+ path: "/def/sign/template/luhmn/luhmn_0022.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000n {
+ path: "/def/sign/template/luhmn/luhmn_0023.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000o {
+ path: "/def/sign/template/luhmn/luhmn_0024.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000p {
+ path: "/def/sign/template/luhmn/luhmn_0025.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000q {
+ path: "/def/sign/template/luhmn/luhmn_0026.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000r {
+ path: "/def/sign/template/luhmn/luhmn_0027.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000s {
+ path: "/def/sign/template/luhmn/luhmn_0028.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000t {
+ path: "/def/sign/template/luhmn/luhmn_0029.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000u {
+ path: "/def/sign/template/luhmn/luhmn_0030.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000v {
+ path: "/def/sign/template/luhmn/luhmn_0031.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000w {
+ path: "/def/sign/template/luhmn/luhmn_0032.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000x {
+ path: "/def/sign/template/luhmn/luhmn_0033.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000y {
+ path: "/def/sign/template/luhmn/luhmn_0034sii.sii"
+}
+
+sign_template_def : sign_templ.user_m_0000z {
+ path: "/def/sign/template/luhmn/luhmn_0034.sii"
+}
+
+sign_template_def : sign_templ.user_m_00010 {
+ path: "/def/sign/template/luhmn/luhmn_0035.sii"
+}
+
+sign_template_def : sign_templ.user_m_00011 {
+ path: "/def/sign/template/luhmn/luhmn_0036.sii"
+}
+
+}

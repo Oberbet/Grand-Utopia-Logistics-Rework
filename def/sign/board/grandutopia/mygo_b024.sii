@@ -1,0 +1,74 @@
+SiiNunit
+{
+sign_board_template : _nameless.1a8.ca77.7e60 {
+ board_name: "mygo b024"
+ width: 4
+ height: &3fd9999a
+ model_name: ""
+ items: 3
+ items[0]: _nameless.1a8.5825.cee0
+ items[1]: _nameless.1a6.a410.b820
+ items[2]: _nameless.1a6.a410.be60
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1a8.5825.cee0 {
+ text: "LUT\xc3\x88CE"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 4095737854
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: 4
+ coords_t: &3fcb0607
+ coords_b: &3f4b0607
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1a6.a410.b820 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 3
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 962199552
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc11136
+ coords_r: &401fc89b
+ coords_t: &3f2dd6c3
+ coords_b: &3de97a20
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1a6.a410.be60 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 4
+ color: 2500134
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 9699328
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fd01964
+ coords_r: &4018e6f2
+ coords_t: &3f487c5b
+ coords_b: &3ca26b40
+ z_order: 3
+ tag: ""
+}
+
+}

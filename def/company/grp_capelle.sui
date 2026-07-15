@@ -1,0 +1,6 @@
+company_permanent: company.permanent.grp_capelle
+{
+	name: "Groupe Capelle"
+	sort_name: "groupe capelle"
+	trailer_look: grp_capelle
+}

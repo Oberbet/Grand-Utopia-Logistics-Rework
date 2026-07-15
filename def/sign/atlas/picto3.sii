@@ -1,0 +1,53 @@
+SiiNunit
+{
+image_atlas : atlas.picto3
+{
+  atlas_name: "ADYOX - Pictogrammes"
+  material_path: "/material/sign/atlas/dyx/picto3.mat"
+  
+  # names
+  images_names: 16
+  images_names[0]: "led_50"
+  images_names[1]: "led_70"
+  images_names[2]: "led_80"
+  images_names[3]: "led_90"
+
+  images_names[4]: "led_110"
+  images_names[5]: "led_int_depassement"
+  images_names[6]: "led_int_depassement_pl"
+  images_names[7]: "led_pl"
+
+  images_names[8]: "led_3x5t"
+  images_names[9]: "led_7x5t"
+  images_names[10]: "led_12t"
+  images_names[11]: "led_19t"
+
+  images_names[12]: "led_accident"
+  images_names[13]: "led_attention"
+  images_names[14]: "led_bouchon"
+  images_names[15]: "led_brouillard"
+
+ 
+  # left right bottom top
+  images_coords: 16
+  images_coords[0]: (1, 254, 254, 1)
+  images_coords[1]: (257, 510, 254, 1)
+  images_coords[2]: (513, 766, 254, 1)
+  images_coords[3]: (769, 1022, 254, 1)
+
+  images_coords[4]: (1, 254, 510, 257)
+  images_coords[5]: (257, 510, 510, 257)
+  images_coords[6]: (513, 766, 510, 257)
+  images_coords[7]: (769, 1022, 510, 257)
+
+  images_coords[8]: (1, 254, 766, 513)
+  images_coords[9]: (257, 510, 766, 513)
+  images_coords[10]: (513, 766, 766, 513)
+  images_coords[11]: (769, 1022, 766, 513)
+
+  images_coords[12]: (1, 254, 1022, 769)
+  images_coords[13]: (257, 510, 1022, 769)
+  images_coords[14]: (513, 766, 1022, 769)
+  images_coords[15]: (769, 1022, 1022, 769)
+}
+}

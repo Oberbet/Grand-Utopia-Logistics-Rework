@@ -1,0 +1,56 @@
+SiiNunit
+{
+sign_board_template : _nameless.221.f3b3.af00 {
+ board_name: "adyox c sb36"
+ width: &3ee66666
+ height: &3ea8f5c3
+ model_name: ""
+ items: 2
+ items[0]: _nameless.222.3373.1970
+ items[1]: _nameless.222.3373.2db0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.222.3373.1970 {
+ text: STOP
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e2e147b
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 2811363327
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3ee66666
+ coords_t: &3e999620
+ coords_b: &3e2dd0fc
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.222.3373.2db0 {
+ text: "000 <sub scale=0.8>&</sup>"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e23d70a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 1856372735
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3ee66666
+ coords_t: &3e221958
+ coords_b: &3ce5f0a0
+ z_order: 2
+ tag: ""
+}
+
+}

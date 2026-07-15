@@ -1,0 +1,6 @@
+company_permanent: company.permanent.tps_augizeau
+{
+	name: "Transports Augizeau"
+	sort_name: "transports augizeau"
+	trailer_look: tps_augizeau
+}

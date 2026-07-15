@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .salininkai {
+ city: salininkai
+ prefab: dlc_fr_3
+}
+}

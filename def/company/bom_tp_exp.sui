@@ -1,0 +1,6 @@
+company_permanent: company.permanent.bom_tp_exp
+{
+	name: "Bom Transport Express"
+	sort_name: "bom transport express"
+	trailer_look: bom_tp_exp
+}

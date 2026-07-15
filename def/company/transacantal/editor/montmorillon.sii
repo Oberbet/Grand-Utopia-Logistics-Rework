@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .montmorillon {
+ city: montmorillon
+ prefab: dlc_fr_4
+}
+}

@@ -1,0 +1,182 @@
+SiiNunit
+{
+sign_board_template : _nameless.296.7568.1bf0 {
+ board_name: "mygo b018"
+ width: &40d00000
+ height: &40600000
+ model_name: ""
+ items: 8
+ items[0]: _nameless.296.46ec.6990
+ items[1]: _nameless.296.46ec.6d50
+ items[2]: _nameless.296.46ec.4c50
+ items[3]: _nameless.296.5660.b130
+ items[4]: _nameless.296.5660.c7b0
+ items[5]: _nameless.296.46ec.4dd0
+ items[6]: _nameless.296.5660.c530
+ items[7]: _nameless.296.7939.4cb0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.296.46ec.6990 {
+ text: TOKYO
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 383385600
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &40510954
+ coords_b: &402bf13a
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.296.46ec.6d50 {
+ text: "SAINT-PETERSBOURG"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 3329884158
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &4023f4dc
+ coords_b: &3ffdb984
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.296.46ec.4c50 {
+ text: OUAGADOUGOU
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 1967521791
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &3fedaac8
+ coords_b: &3fa37a92
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.296.5660.b130 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 3
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2336096255
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e893d34
+ coords_r: &3fc5db21
+ coords_t: &3f6ff9c4
+ coords_b: &3e711338
+ z_order: 4
+ tag: ""
+}
+
+sign_template_image : _nameless.296.5660.c7b0 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 3
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1563820031
+ area_name: ""
+ area_idx: nil
+ coords_l: &409e6e7b
+ coords_r: &40c75171
+ coords_t: &3f6e507d
+ coords_b: &3e6a6e1e
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.296.46ec.4dd0 {
+ text: "1500 m"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 3344695294
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc7df3c
+ coords_r: &409dff5e
+ coords_t: &3f329302
+ coords_b: &3df194b0
+ z_order: 6
+ tag: ""
+}
+
+sign_template_image : _nameless.296.5660.c530 {
+ atlas_path: "/def/sign/atlas/toll_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 501743616
+ area_name: ""
+ area_idx: nil
+ coords_l: &40237aee
+ coords_r: &407cd8db
+ coords_t: &3fe43793
+ coords_b: &3f9f4ec3
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.296.7939.4cb0 {
+ text: "- SUD"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 2140667903
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &40240684
+ coords_b: &3ffddcd3
+ z_order: 8
+ tag: ""
+}
+
+}

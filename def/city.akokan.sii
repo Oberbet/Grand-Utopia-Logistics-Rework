@@ -1,0 +1,11 @@
+SiiNunit
+{
+@include "city/assamaka.akokan.sui"
+@include "city/djado.akokan.sui"
+@include "city/dakoro.akokan.sui"
+@include "city/gougaram.akokan.sui"
+@include "city/piczoumri.akokan.sui"
+@include "city/portmeli.akokan.sui"
+@include "city/taggafadi.akokan.sui"
+@include "city/vieux_hab.akokan.sui"
+}

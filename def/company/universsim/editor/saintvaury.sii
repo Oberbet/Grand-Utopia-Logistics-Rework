@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .saintvaury {
+ city: saintvaury
+ prefab: dlc_fr_20
+}
+}

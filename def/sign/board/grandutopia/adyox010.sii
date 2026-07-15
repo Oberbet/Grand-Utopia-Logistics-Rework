@@ -1,0 +1,316 @@
+SiiNunit
+{
+sign_board_template : _nameless.295.e768.4120 {
+ board_name: adyox010
+ width: 5
+ height: &40600000
+ model_name: ""
+ items: 15
+ items[0]: _nameless.296.a1ab.4a30
+ items[1]: _nameless.296.6f94.eb10
+ items[2]: _nameless.293.4fb6.ab60
+ items[3]: _nameless.296.a1a8.e290
+ items[4]: _nameless.296.a1a8.f690
+ items[5]: _nameless.296.70d5.c330
+ items[6]: _nameless.296.70d5.bbb0
+ items[7]: _nameless.296.70d5.cdd0
+ items[8]: _nameless.296.0333.3570
+ items[9]: _nameless.296.6fc9.d150
+ items[10]: _nameless.296.71c6.ecf0
+ items[11]: _nameless.296.6fc9.d8d0
+ items[12]: _nameless.296.6f94.d790
+ items[13]: _nameless.296.303f.d420
+ items[14]: _nameless.296.75bd.ebd0
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.296.a1ab.4a30 {
+ atlas_path: "/def/sign/atlas/arrow_right_up_exit_fr.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1308491776
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e911eac
+ coords_r: &3fcb389b
+ coords_t: &4026f0ef
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.296.6f94.eb10 {
+ text: "sortie obligatoire"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3ecccccd
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2845179903
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fd7c8a8
+ coords_r: 5
+ coords_t: &3f8f3718
+ coords_b: &3f329c51
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.293.4fb6.ab60 {
+ text: "HAUTEUR   4,5&"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3ee66666
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 3505127422
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fd7c8a8
+ coords_r: 5
+ coords_t: &3fb826f4
+ coords_b: &3f82d19e
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.296.a1a8.e290 {
+ atlas_path: "/def/sign/atlas/arrow_tail_diag45_at.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: true
+ image_overridable: false
+ id: 513933312
+ area_name: ""
+ area_idx: nil
+ coords_l: &405f5de5
+ coords_r: &406ccbd7
+ coords_t: &3fb0d11b
+ coords_b: &3f9cac31
+ z_order: 4
+ tag: ""
+}
+
+sign_template_image : _nameless.296.a1a8.f690 {
+ atlas_path: "/def/sign/atlas/arrow_tail_diag45_at.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1300234240
+ area_name: ""
+ area_idx: nil
+ coords_l: &405f5de5
+ coords_r: &406ccbd7
+ coords_t: &3fa09acb
+ coords_b: &3f8c75e1
+ z_order: 5
+ tag: ""
+}
+
+sign_template_image : _nameless.296.70d5.c330 {
+ atlas_path: "/def/sign/atlas/arrow_right_sr_long_de.sii"
+ image_idx: 0
+ color: 15263976
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3667001342
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fe5df56
+ coords_r: &401452eb
+ coords_t: &4012b938
+ coords_b: &3fe095bc
+ z_order: 9
+ tag: ""
+}
+
+sign_template_image : _nameless.296.70d5.bbb0 {
+ atlas_path: "/def/sign/atlas/roundabout_tr.sii"
+ image_idx: 0
+ color: 10707217
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3690463230
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fcc7dd6
+ coords_r: &401c5071
+ coords_t: &401d6314
+ coords_b: &3fcb4204
+ z_order: 6
+ tag: ""
+}
+
+sign_template_image : _nameless.296.70d5.cdd0 {
+ atlas_path: "/def/sign/atlas/roundabout_tr.sii"
+ image_idx: 0
+ color: 10707217
+ opacity: 1
+ hflip: false
+ vflip: true
+ image_overridable: false
+ id: 1672216575
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fcc7dd6
+ coords_r: &401c5071
+ coords_t: &401d6314
+ coords_b: &3fcb4204
+ z_order: 7
+ tag: ""
+}
+
+sign_template_frame : _nameless.296.0333.3570 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 1
+ id: 1212416000
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fde945f
+ coords_r: &4013452c
+ coords_t: &40140f76
+ coords_b: &3fdde940
+ z_order: 8
+ tag: ""
+}
+
+sign_template_text : _nameless.296.6fc9.d150 {
+ text: "SUIVRE :"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3ecccccd
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2161901567
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fd7c8a8
+ coords_r: 5
+ coords_t: &3f26de39
+ coords_b: &3e1284b0
+ z_order: 10
+ tag: ""
+}
+
+sign_template_frame : _nameless.296.71c6.ecf0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 2500134
+ opacity: 1
+ id: 810287104
+ area_name: ""
+ area_idx: nil
+ coords_l: &404bd638
+ coords_r: &4076e914
+ coords_t: &3f13dffc
+ coords_b: &3e5975d0
+ z_order: 11
+ tag: ""
+}
+
+sign_template_text : _nameless.296.6fc9.d8d0 {
+ text: S1
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3ed70a3d
+ text_halign: center
+ text_valign: center
+ font_color: 2339296
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &bca3d70a
+ id: 1723727871
+ area_name: ""
+ area_idx: nil
+ coords_l: &404b851f
+ coords_r: &40770a3d
+ coords_t: &3f147ae1
+ coords_b: &3e570a3d
+ z_order: 12
+ tag: ""
+}
+
+sign_template_text : _nameless.296.6f94.d790 {
+ text: DENVER
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f000000
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3d4ccccd
+ id: 2212102143
+ area_name: ""
+ area_idx: nil
+ coords_l: &3dd2c2d0
+ coords_r: 5
+ coords_t: &4055cf66
+ coords_b: &402cf092
+ z_order: 13
+ tag: ""
+}
+
+sign_template_image : _nameless.296.303f.d420 {
+ atlas_path: "/def/sign/atlas/height_limit_no.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1579155455
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff8f208
+ coords_r: &40252c18
+ coords_t: &405602fd
+ coords_b: &402d4fe9
+ z_order: 14
+ tag: ""
+}
+
+sign_template_text : _nameless.296.75bd.ebd0 {
+ text: "4,<sub scale=0.9>5</sub><sub scale=0.8>&</sub>"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e6b851f
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 437518336
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff851ec
+ coords_r: &40251eb8
+ coords_t: &4055c28f
+ coords_b: &402d70a4
+ z_order: 15
+ tag: ""
+}
+
+}

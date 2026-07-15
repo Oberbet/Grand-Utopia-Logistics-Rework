@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .lajosefine {
+ city: lajosefine
+ prefab: 13cust
+}
+}

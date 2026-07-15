@@ -1,0 +1,6 @@
+company_permanent: company.permanent.tli
+{
+	name: "TLI"
+	sort_name: "tli"
+	trailer_look: tli
+}

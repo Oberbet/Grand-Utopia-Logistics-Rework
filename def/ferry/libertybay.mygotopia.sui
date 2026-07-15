@@ -1,0 +1,7 @@
+ferry_data: ferry.libertybay
+{
+	ferry_name: "Liberty Bay"
+	ferry_name_localized: "@@Liberty Bay@@"
+}
+
+

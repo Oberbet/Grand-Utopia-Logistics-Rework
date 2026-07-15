@@ -1,0 +1,10 @@
+# Mods Studio 2 mod template: Trailer skin
+
+	name:					"Foire Agricole 2026"
+	price:					100
+	unlock:					0
+	icon:					"foire2026"
+	airbrush:				true
+	base_color_locked:		true
+	base_color:				(0.600000, 0.600000, 0.600000)
+	alternate_uvset:		false

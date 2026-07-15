@@ -1,0 +1,6 @@
+company_permanent: company.permanent.mato
+{
+	name: "Autotrasporti Mato"
+	sort_name: "mato"
+	trailer_look: mato
+}

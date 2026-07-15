@@ -1,0 +1,6 @@
+company_permanent: company.permanent.foxfamily
+{
+	name: "Transports L7CFamily"
+	sort_name: "foxfamily"
+	trailer_look: foxfamily
+}

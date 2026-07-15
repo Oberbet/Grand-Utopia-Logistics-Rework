@@ -1,0 +1,275 @@
+SiiNunit
+{
+sign_board_def : sign_board.mygo_00001 {
+ path: "/def/sign/board/grandutopia/mygo_b001.sii"
+}
+
+sign_board_def : sign_board.mygo_00002 {
+ path: "/def/sign/board/grandutopia/mygo_b002.sii"
+}
+
+sign_board_def : sign_board.mygo_00003 {
+ path: "/def/sign/board/grandutopia/mygo_b003.sii"
+}
+
+sign_board_def : sign_board.mygo_00004 {
+ path: "/def/sign/board/grandutopia/mygo_b004.sii"
+}
+
+sign_board_def : sign_board.mygo_00005 {
+ path: "/def/sign/board/grandutopia/mygo_b005.sii"
+}
+
+sign_board_def : sign_board.mygo_00006 {
+ path: "/def/sign/board/grandutopia/mygo_b006.sii"
+}
+
+sign_board_def : sign_board.mygo_00007 {
+ path: "/def/sign/board/grandutopia/mygo_b007.sii"
+}
+
+sign_board_def : sign_board.mygo_00008 {
+ path: "/def/sign/board/grandutopia/mygo_b008.sii"
+}
+
+sign_board_def : sign_board.mygo_00009 {
+ path: "/def/sign/board/grandutopia/mygo_b009.sii"
+}
+
+sign_board_def : sign_board.mygo_0000a {
+ path: "/def/sign/board/grandutopia/mygo_b010.sii"
+}
+
+sign_board_def : sign_board.mygo_0000b {
+ path: "/def/sign/board/grandutopia/mygo_b011.sii"
+}
+
+sign_board_def : sign_board.mygo_0000c {
+ path: "/def/sign/board/grandutopia/mygo_b012.sii"
+}
+
+sign_board_def : sign_board.mygo_0000d {
+ path: "/def/sign/board/grandutopia/mygo_b013.sii"
+}
+
+sign_board_def : sign_board.mygo_0000e {
+ path: "/def/sign/board/grandutopia/mygo_b014.sii"
+}
+
+sign_board_def : sign_board.mygo_0000f {
+ path: "/def/sign/board/grandutopia/mygo_b015.sii"
+}
+
+sign_board_def : sign_board.mygo_0000g {
+ path: "/def/sign/board/grandutopia/mygo_b016.sii"
+}
+
+sign_board_def : sign_board.mygo_0000h {
+ path: "/def/sign/board/grandutopia/mygo_b017.sii"
+}
+
+sign_board_def : sign_board.mygo_0000i {
+ path: "/def/sign/board/grandutopia/mygo_b017b.sii"
+}
+
+sign_board_def : sign_board.mygo_0000j {
+ path: "/def/sign/board/grandutopia/mygo_b018.sii"
+}
+
+sign_board_def : sign_board.mygo_0000k {
+ path: "/def/sign/board/grandutopia/mygo_b019.sii"
+}
+
+sign_board_def : sign_board.mygo_0000l {
+ path: "/def/sign/board/grandutopia/mygo_b020.sii"
+}
+
+sign_board_def : sign_board.mygo_0000m {
+ path: "/def/sign/board/grandutopia/mygo_b021.sii"
+}
+
+sign_board_def : sign_board.mygo_0000n {
+ path: "/def/sign/board/grandutopia/mygo_b022.sii"
+}
+
+sign_board_def : sign_board.mygo_0000o {
+ path: "/def/sign/board/grandutopia/mygo_b023.sii"
+}
+
+sign_board_def : sign_board.mygo_0000p {
+ path: "/def/sign/board/grandutopia/mygo_b024.sii"
+}
+
+sign_board_def : sign_board.mygo_0000q {
+ path: "/def/sign/board/grandutopia/mygo_b025.sii"
+}
+
+sign_board_def : sign_board.mygo_0000r {
+ path: "/def/sign/board/grandutopia/mygo_b026.sii"
+}
+
+sign_board_def : sign_board.mygo_0000s {
+ path: "/def/sign/board/grandutopia/mygo_b027.sii"
+}
+
+sign_board_def : sign_board.mygo_0000t {
+ path: "/def/sign/board/grandutopia/mygo_b028.sii"
+}
+
+sign_board_def : sign_board.mygo_0000u {
+ path: "/def/sign/board/grandutopia/mygo_b029.sii"
+}
+
+sign_board_def : sign_board.mygo_0000v {
+ path: "/def/sign/board/grandutopia/mygo_b029b.sii"
+}
+
+sign_board_def : sign_board.mygo_0000w {
+ path: "/def/sign/board/grandutopia/mygo_b030.sii"
+}
+
+sign_board_def : sign_board.mygo_0000x {
+ path: "/def/sign/board/grandutopia/mygo_b015b.sii"
+}
+
+sign_board_def : sign_board.mygo_0000y {
+ path: "/def/sign/board/grandutopia/mygo_b032.sii"
+}
+
+sign_board_def : sign_board.mygo_0000z {
+ path: "/def/sign/board/grandutopia/mygo_b033.sii"
+}
+
+sign_board_def : sign_board.mygo_00010 {
+ path: "/def/sign/board/grandutopia/mygo_b034.sii"
+}
+
+sign_board_def : sign_board.mygo_00011 {
+ path: "/def/sign/board/grandutopia/mygo_b035.sii"
+}
+
+sign_board_def : sign_board.mygo_00012 {
+ path: "/def/sign/board/grandutopia/mygo_b036.sii"
+}
+
+sign_board_def : sign_board.mygo_00013 {
+ path: "/def/sign/board/grandutopia/mygo_b037.sii"
+}
+
+sign_board_def : sign_board.mygo_00014 {
+ path: "/def/sign/board/grandutopia/mygo_b039.sii"
+}
+
+sign_board_def : sign_board.mygo_00015 {
+ path: "/def/sign/board/grandutopia/mygo_b040.sii"
+}
+
+sign_board_def : sign_board.mygo_00016 {
+ path: "/def/sign/board/grandutopia/mygo_b041.sii"
+}
+
+sign_board_def : sign_board.mygo_00017 {
+ path: "/def/sign/board/grandutopia/mygo_b042.sii"
+}
+
+sign_board_def : sign_board.mygo_00018 {
+ path: "/def/sign/board/grandutopia/mygo_b042b.sii"
+}
+
+sign_board_def : sign_board.mygo_00019 {
+ path: "/def/sign/board/grandutopia/mygo_b043.sii"
+}
+
+sign_board_def : sign_board.mygo_0001a {
+ path: "/def/sign/board/grandutopia/mygo_b044.sii"
+}
+
+sign_board_def : sign_board.mygo_0001b {
+ path: "/def/sign/board/grandutopia/mygo_b045.sii"
+}
+
+sign_board_def : sign_board.mygo_0001c {
+ path: "/def/sign/board/grandutopia/mygo_b046.sii"
+}
+
+sign_board_def : sign_board.mygo_0001d {
+ path: "/def/sign/board/grandutopia/mygo_b047.sii"
+}
+
+sign_board_def : sign_board.mygo_0001e {
+ path: "/def/sign/board/grandutopia/mygo_b048.sii"
+}
+
+sign_board_def : sign_board.mygo_0001f {
+ path: "/def/sign/board/grandutopia/mygo_b049.sii"
+}
+
+sign_board_def : sign_board.mygo_0001g {
+ path: "/def/sign/board/grandutopia/mygo_b050.sii"
+}
+
+sign_board_def : sign_board.mygo_0001h {
+ path: "/def/sign/board/grandutopia/mygo_b050b.sii"
+}
+
+sign_board_def : sign_board.mygo_0001i {
+ path: "/def/sign/board/grandutopia/mygo_b051.sii"
+}
+
+sign_board_def : sign_board.mygo_0001j {
+ path: "/def/sign/board/grandutopia/mygo_b051b.sii"
+}
+
+sign_board_def : sign_board.mygo_0001k {
+ path: "/def/sign/board/grandutopia/mygo_b052.sii"
+}
+
+sign_board_def : sign_board.mygo_0001l {
+ path: "/def/sign/board/grandutopia/mygo_b054.sii"
+}
+
+sign_board_def : sign_board.mygo_0001m {
+ path: "/def/sign/board/grandutopia/mygo_b055.sii"
+}
+
+sign_board_def : sign_board.mygo_0001n {
+ path: "/def/sign/board/grandutopia/mygo_b037b.sii"
+}
+
+sign_board_def : sign_board.mygo_0001o {
+ path: "/def/sign/board/grandutopia/mygo_b056.sii"
+}
+
+sign_board_def : sign_board.mygo_0001p {
+ path: "/def/sign/board/grandutopia/mygo_b057.sii"
+}
+
+sign_board_def : sign_board.mygo_0001q {
+ path: "/def/sign/board/grandutopia/mygo_b058.sii"
+}
+
+sign_board_def : sign_board.mygo_0001r {
+ path: "/def/sign/board/grandutopia/mygo_b034b.sii"
+}
+
+sign_board_def : sign_board.mygo_0001s {
+ path: "/def/sign/board/grandutopia/mygo_b059.sii"
+}
+
+sign_board_def : sign_board.mygo_0001t {
+ path: "/def/sign/board/grandutopia/mygo_b060.sii"
+}
+
+sign_board_def : sign_board.mygo_0001u {
+ path: "/def/sign/board/grandutopia/mygo_b061.sii"
+}
+
+sign_board_def : sign_board.mygo_0001v {
+ path: "/def/sign/board/grandutopia/mygo_b062.sii"
+}
+
+sign_board_def : sign_board.mygo_0001w {
+ path: "/def/sign/board/grandutopia/mygo_b063.sii"
+}
+
+}

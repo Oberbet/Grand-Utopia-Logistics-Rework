@@ -1,0 +1,6 @@
+company_permanent: company.permanent.greenler
+{
+	name: "Greenler"
+	sort_name: "greenler"
+	trailer_look: greenler
+}

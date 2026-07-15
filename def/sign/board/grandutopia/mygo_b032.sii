@@ -1,0 +1,72 @@
+SiiNunit
+{
+sign_board_template : _nameless.233.14e1.fdc0 {
+ board_name: "mygo b032"
+ width: &40d00000
+ height: 1
+ model_name: ""
+ items: 3
+ items[0]: _nameless.232.f0ad.1580
+ items[1]: _nameless.233.3db8.e140
+ items[2]: _nameless.232.ed2f.a4b0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.232.f0ad.1580 {
+ text: "LA NOUVELLE ORL\xc3\x89ANS"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 4146593790
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: 1
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.233.3db8.e140 {
+ frame_path: "/def/sign/frame/dyxcadre.sii"
+ color: 16777215
+ opacity: 0
+ id: 1199439872
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f6ab260
+ coords_r: &400e39eb
+ coords_t: &3f48e683
+ coords_b: &3e77d6fc
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.232.ed2f.a4b0 {
+ text: "A 301"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 0
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 2883583998
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f55a7ae
+ coords_r: &4010dd54
+ coords_t: &3f57460a
+ coords_b: &3e3bc1e8
+ z_order: 3
+ tag: ""
+}
+
+}

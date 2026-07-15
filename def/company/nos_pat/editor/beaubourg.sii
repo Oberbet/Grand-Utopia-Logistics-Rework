@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .beaubourg {
+ city: beaubourg
+ prefab: 12cust
+}
+}

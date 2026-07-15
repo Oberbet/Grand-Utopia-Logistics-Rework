@@ -1,0 +1,155 @@
+SiiNunit
+{
+image_atlas : atlas.ideo1
+{
+  atlas_name: "ADYOX - Idéogrammes"
+  material_path: "/material/sign/atlas/dyx/ideo1.mat"
+  
+  # names
+  images_names: 63
+  images_names[0]: "id1a"
+  images_names[1]: "id1b"
+  images_names[2]: "id1c"
+  images_names[3]: "id2"
+  images_names[4]: "id3"
+  images_names[5]: "id4"
+  images_names[6]: "id5a"
+
+  images_names[7]: "id5b"
+  images_names[8]: "id6"
+  images_names[9]: "id7"
+  images_names[10]: "id8"
+  images_names[11]: "id9"
+  images_names[12]: "id10"
+  images_names[13]: "id11"
+  images_names[14]: "id12a"
+
+  images_names[15]: "id12b"
+  images_names[16]: "id13a"
+  images_names[17]: "id13b"
+  images_names[18]: "id14a"
+  images_names[19]: "id14b"
+  images_names[20]: "id14c"
+  images_names[21]: "id14d"
+  images_names[22]: "id14e"
+
+  images_names[23]: "id15a"
+  images_names[24]: "id15b"
+  images_names[25]: "id15c"
+  images_names[26]: "id15d"
+  images_names[27]: "id15e"
+  images_names[28]: "id15f"
+  images_names[29]: "id16a"
+  images_names[30]: "id16b"
+
+  images_names[31]: "id16c"
+  images_names[32]: "id16d"
+  images_names[33]: "id16e"
+  images_names[34]: "id17"
+  images_names[35]: "id18"
+  images_names[36]: "id19"
+  images_names[37]: "id20a"
+  images_names[38]: "id20b"
+
+  images_names[39]: "id20c"
+  images_names[40]: "id20d"
+  images_names[41]: "id20e"
+  images_names[42]: "id21a"
+  images_names[43]: "id21b"
+  images_names[44]: "id22"
+  images_names[45]: "id23"
+  images_names[46]: "id24"
+
+  images_names[47]: "id25"
+  images_names[48]: "id26a"
+  images_names[49]: "id26b"
+  images_names[50]: "id27"
+  images_names[51]: "id28"
+  images_names[52]: "id29"
+  images_names[53]: "id30"
+  images_names[54]: "id31"
+
+  images_names[55]: "id32"
+  images_names[56]: "id33a"
+  images_names[57]: "id33b"
+  images_names[58]: "id34a"
+  images_names[59]: "id34b"
+  images_names[60]: "id35"
+  images_names[61]: "id36"
+  images_names[62]: "id37"
+
+ 
+  # left right bottom top
+  images_coords: 63
+  images_coords[0]: (1, 126, 126, 1)
+  images_coords[1]: (129, 382, 126, 1)
+  images_coords[2]: (385, 510, 126, 1)
+  images_coords[3]: (513, 638, 126, 1)
+  images_coords[4]: (641, 766, 126, 1)
+  images_coords[5]: (769, 894, 126, 1)
+  images_coords[6]: (897, 1022, 126, 1)
+
+  images_coords[7]: (1, 126, 254, 129)
+  images_coords[8]: (129, 254, 254, 129)
+  images_coords[9]: (257, 382, 254, 129)
+  images_coords[10]: (385, 510, 254, 129)
+  images_coords[11]: (513, 638, 254, 129)
+  images_coords[12]: (641, 766, 254, 129)
+  images_coords[13]: (769, 894, 254, 129)
+  images_coords[14]: (897, 1022, 254, 129)
+
+  images_coords[15]: (1, 126, 382, 257)
+  images_coords[16]: (129, 254, 382, 257)
+  images_coords[17]: (257, 382, 382, 257)
+  images_coords[18]: (385, 510, 382, 257)
+  images_coords[19]: (513, 638, 382, 257)
+  images_coords[20]: (641, 766, 382, 257)
+  images_coords[21]: (769, 894, 382, 257)
+  images_coords[22]: (897, 1022, 382, 257)
+
+  images_coords[23]: (1, 126, 510, 385)
+  images_coords[24]: (129, 254, 510, 385)
+  images_coords[25]: (257, 382, 510, 385)
+  images_coords[26]: (385, 510, 510, 385)
+  images_coords[27]: (513, 638, 510, 385)
+  images_coords[28]: (641, 766, 510, 385)
+  images_coords[29]: (769, 894, 510, 385)
+  images_coords[30]: (897, 1022, 510, 385)
+
+  images_coords[31]: (1, 126, 638, 513)
+  images_coords[32]: (129, 254, 638, 513)
+  images_coords[33]: (257, 382, 638, 513)
+  images_coords[34]: (385, 510, 638, 513)
+  images_coords[35]: (513, 638, 638, 513)
+  images_coords[36]: (641, 766, 638, 513)
+  images_coords[37]: (769, 894, 638, 513)
+  images_coords[38]: (897, 1022, 638, 513)
+
+  images_coords[39]: (1, 126, 766, 641)
+  images_coords[40]: (129, 254, 766, 641)
+  images_coords[41]: (257, 382, 766, 641)
+  images_coords[42]: (385, 510, 766, 641)
+  images_coords[43]: (513, 638, 766, 641)
+  images_coords[44]: (641, 766, 766, 641)
+  images_coords[45]: (769, 894, 766, 641)
+  images_coords[46]: (897, 1022, 766, 641)
+
+  images_coords[47]: (1, 126, 894, 769)
+  images_coords[48]: (129, 254, 894, 769)
+  images_coords[49]: (257, 382, 894, 769)
+  images_coords[50]: (385, 510, 894, 769)
+  images_coords[51]: (513, 638, 894, 769)
+  images_coords[52]: (641, 766, 894, 769)
+  images_coords[53]: (769, 894, 894, 769)
+  images_coords[54]: (897, 1022, 894, 769)
+
+  images_coords[55]: (1, 126, 1022, 897)
+  images_coords[56]: (129, 254, 1022, 897)
+  images_coords[57]: (257, 382, 1022, 897)
+  images_coords[58]: (385, 510, 1022, 897)
+  images_coords[59]: (513, 638, 1022, 897)
+  images_coords[60]: (641, 766, 1022, 897)
+  images_coords[61]: (769, 894, 1022, 897)
+  images_coords[62]: (897, 1022, 1022, 897)
+}
+}

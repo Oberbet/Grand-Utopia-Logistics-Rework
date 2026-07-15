@@ -1,0 +1,34 @@
+SiiNunit
+{
+sign_board_template : _nameless.170.4de4.0c00 {
+ board_name: "adyox c sb5"
+ width: &3fc3d70a
+ height: &3eb851ec
+ model_name: ""
+ items: 1
+ items[0]: _nameless.170.beb0.9d60
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.170.beb0.9d60 {
+ text: XXXX
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e800000
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 1859125247
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3fc3d70a
+ coords_t: &3eb851ec
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+}

@@ -1,0 +1,92 @@
+SiiNunit
+{
+sign_board_template : _nameless.1a8.3c95.a730 {
+ board_name: "mygo b008"
+ width: 4
+ height: 1
+ model_name: ""
+ items: 4
+ items[0]: _nameless.1a7.d758.efb0
+ items[1]: _nameless.1a7.d758.ebf0
+ items[2]: _nameless.1a7.d758.ed30
+ items[3]: _nameless.1a7.d758.d890
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.1a7.d758.efb0 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 3
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 394395648
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fbaeca5
+ coords_r: &4022dae4
+ coords_t: &3f4c4ade
+ coords_b: &3dd52cb0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1a7.d758.ebf0 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 4
+ color: 0
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 2489450495
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fd15e38
+ coords_r: &401b709e
+ coords_t: &3f61d76b
+ coords_b: &3ddf25fc
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1a7.d758.ed30 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 2
+ color: 0
+ opacity: 0
+ hflip: false
+ vflip: true
+ image_overridable: true
+ id: 4151705598
+ area_name: ""
+ area_idx: nil
+ coords_l: &403ef811
+ coords_r: &406c03cf
+ coords_t: &3f57b0b9
+ coords_b: &3e0e0714
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.1a7.d758.d890 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 2
+ color: 0
+ opacity: 0
+ hflip: true
+ vflip: true
+ image_overridable: false
+ id: 2358771711
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ea26b38
+ coords_r: &3f82b24a
+ coords_t: &3f5a4015
+ coords_b: &3e184486
+ z_order: 4
+ tag: ""
+}
+
+}

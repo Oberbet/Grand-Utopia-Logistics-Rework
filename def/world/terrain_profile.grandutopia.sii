@@ -1,0 +1,99 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+
+terrain_profile : terrain.profile400 {
+	name: "grand fausse puis plat"
+
+	height[]: 	0
+	step[]: 	1
+	
+	height[]: 	-0.3
+	step[]: 	1.5
+
+	height[]: 	-0.6
+	step[]: 	2
+	
+	height[]: 	-1
+	step[]: 	3
+
+	height[]: 	-1.5
+	step[]: 	5
+	
+	height[]: 	-1
+	step[]: 	7
+
+	height[]: 	-0.6
+	step[]: 	8
+	
+	height[]: 	-0.3
+	step[]: 	8.5
+	
+	height[]: 	0
+	step[]: 	9
+	
+	height[]: 	0
+	step[]: 	200
+}
+
+terrain_profile : terrain.profile203 {
+	name: "barto canaux"
+
+	height[]: 	0
+	step[]: 	2
+	
+	height[]: 	0
+	step[]: 	1
+
+	height[]: 	-1
+	step[]: 	4
+	
+	height[]: 	-1
+	step[]: 	1
+
+	height[]: 	-0.3
+	step[]: 	0.5
+	
+	height[]: 	-0.3
+	step[]: 	100
+
+}
+
+terrain_profile : terrain.profile204 {
+	name: "barto caniveau court"
+
+	height[]: 	0
+	step[]: 	1.5
+	
+	height[]: 	0
+	step[]: 	0.5
+
+	height[]: 	-0.5
+	step[]: 	0.5
+	
+	height[]: 	-0.5
+	step[]: 	0.5
+
+	height[]: 	0
+	step[]: 	0.5
+	
+	height[]: 	-0.2
+	step[]: 	1
+	
+	height[]: 	-0.5
+	step[]: 	2
+	
+	height[]: 	-2
+	step[]: 	100
+}
+
+}
+
+

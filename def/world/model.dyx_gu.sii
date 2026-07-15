@@ -1,0 +1,63 @@
+SiiNunit
+{
+model_def : model.dyxgu_m6 {
+	name: "events_station_service"
+	model_desc: "/model/dyx/models/props/dyx_stse_events.pmd"
+	category: "ADYOX - Models/Props"
+}
+model_def : model.dyxgu_m7 {
+	name: "toit station-service"
+	model_desc: "/model/dyx/models/buildings/dyx_stse_toit.pmd"
+	category: "ADYOX - Models/Buildings"
+}
+model_def : model.dyxgu_m8 {
+	name: "atelier1"
+	model_desc: "/model/dyx/models/buildings/dyx_atelier1.pmd"
+	category: "ADYOX - Models/Buildings"
+}
+model_def : model.dyxgu_m9 {
+	name: "hangar1"
+	model_desc: "/model/dyx/models/buildings/dyx_hangar1.pmd"
+	category: "ADYOX - Models/Buildings"
+}
+model_def : model.dyxgu_m13 {
+	name: "scania_dealer1"
+	model_desc: "/model/dyx/models/buildings/dyx_scania_dealer1.pmd"
+	category: "ADYOX - Models/Buildings"
+}
+model_def : model.dyxgu_m14 {
+	name: "hangar2"
+	model_desc: "/model/dyx/models/buildings/dyx_hangar2.pmd"
+	category: "ADYOX - Models/Buildings"
+}
+model_def : model.dyxgu_m15 {
+	name: "etable"
+	model_desc: "/model/dyx/models/buildings/dyx_etable.pmd"
+	category: "ADYOX - Models/Buildings"
+}
+model_def : model.dyxgu_m16 {
+	name: "reservoir_fumier"
+	model_desc: "/model/dyx/models/props/dyx_reservoir_fumier.pmd"
+	category: "ADYOX - Models/Props"
+}
+model_def : model.dyxgu_m17 {
+	name: "usine_biogas"
+	model_desc: "/model/dyx/models/props/dyx_usine_biogas.pmd"
+	category: "ADYOX - Models/Props"
+}
+model_def : model.dyxgu_m26 {
+	name: "decals_fr"
+	model_desc: "/model/dyx/models/props/decals_fr/dyx_decalsfr.pmd"
+	category: "ADYOX - Models/Props"
+}
+model_def : model.dyx_m37 {
+	name: "mygodness statue"
+	model_desc: "/model/dyx/models/props/dyx_mygodness_statue.pmd"
+	category: "ADYOX - Models/Props"
+}
+model_def : model.dyx_m38 {
+	name: "frontière gu-uk"
+	model_desc: "/model/dyx/models/buildings/dyx_border_gu_uk.pmd"
+	category: "ADYOX - Models/Buildings"
+}
+}

@@ -1,0 +1,150 @@
+SiiNunit
+{
+sign_board_template : _nameless.267.0fc9.7130 {
+ board_name: "mygo b015b"
+ width: &40d00000
+ height: &40133333
+ model_name: ""
+ items: 7
+ items[0]: _nameless.264.bab7.7e30
+ items[1]: _nameless.264.bab7.66f0
+ items[2]: _nameless.264.bab7.72f0
+ items[3]: _nameless.265.4315.a660
+ items[4]: _nameless.266.4e3d.0d50
+ items[5]: _nameless.265.4315.8ad0
+ items[6]: _nameless.267.0349.c0f0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.264.bab7.7e30 {
+ text: LAUSANNE
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 1955856383
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &3fbfc318
+ coords_b: &3f4e321f
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.264.bab7.66f0 {
+ text: "    Port de Castelnoir"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 1513881599
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &3f4e321f
+ coords_b: &3de6f078
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.264.bab7.72f0 {
+ text: "GEN\xc3\x88VE"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 4222877694
+ area_name: ""
+ area_idx: nil
+ coords_l: &35000000
+ coords_r: &40d00000
+ coords_t: &400bb299
+ coords_b: &3fbfc318
+ z_order: 5
+ tag: ""
+}
+
+sign_template_frame : _nameless.265.4315.a660 {
+ frame_path: "/def/sign/frame/dyxcarre2.sii"
+ color: 16777215
+ opacity: 1
+ id: 2535194623
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f5eb100
+ coords_r: &40b429df
+ coords_t: &3f40b038
+ coords_b: &3e30e8d8
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.266.4e3d.0d50 {
+ atlas_path: "/def/sign/atlas/port_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 3999924222
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f8a26b4
+ coords_r: &3fc1d2f4
+ coords_t: &3f2d3456
+ coords_b: &3e776f5b
+ z_order: 6
+ tag: ""
+}
+
+sign_template_frame : _nameless.265.4315.8ad0 {
+ frame_path: "/def/sign/frame/dyxcarre2.sii"
+ color: 16777215
+ opacity: 0
+ id: 2457468927
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e5eb100
+ coords_r: &40c90a78
+ coords_t: &3f3fc318
+ coords_b: &3e2d3458
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.267.0349.c0f0 {
+ atlas_path: "/def/sign/atlas/airport_fr.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 3003383806
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ebff8b4
+ coords_r: &3f4f54da
+ coords_t: &3f2d3456
+ coords_b: &3e776f5c
+ z_order: 7
+ tag: ""
+}
+
+}

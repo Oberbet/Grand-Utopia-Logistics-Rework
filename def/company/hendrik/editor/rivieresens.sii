@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .rivieresens{
+ city: rivieresens
+ prefab: 10cust
+}
+}

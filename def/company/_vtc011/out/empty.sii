@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .empty {
+ cargo: "cargo.empty"
+}
+}

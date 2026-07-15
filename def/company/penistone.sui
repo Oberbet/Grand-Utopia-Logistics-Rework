@@ -1,0 +1,6 @@
+company_permanent: company.permanent.penistone
+{
+	name: "Penistone Oils LTD"
+	sort_name: "penistone"
+	trailer_look: penistone
+}

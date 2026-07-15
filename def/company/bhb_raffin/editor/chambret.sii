@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .chambret{
+ city: chambret
+ prefab: 336
+}
+}

@@ -1,0 +1,20 @@
+SiiNunit
+{
+sign_template : _nameless.27e.6b0c.e6b8 {
+ template_name: luhmn_0002
+ model_name: dyxgu_s350
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 1
+ boards[0]: _nameless.27e.7cc9.ea18
+ traffic_rule_lane_count: nil
+ items: 0
+ dynamic_attributes: 0
+}
+
+sign_template_board_binding : _nameless.27e.7cc9.ea18 {
+ area_name: g2nbla
+ linked_board: sign_board.user_m_0000i
+}
+
+}

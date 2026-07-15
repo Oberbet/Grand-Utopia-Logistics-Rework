@@ -1,0 +1,6 @@
+company_permanent: company.permanent.totoche
+{
+	name: "Société Totoche"
+	sort_name: "société totoche"
+	trailer_look: totoche
+}

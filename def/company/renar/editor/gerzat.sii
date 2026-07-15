@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .gerzat {
+ city: gerzat
+ prefab: dlc_balt_193
+}
+}

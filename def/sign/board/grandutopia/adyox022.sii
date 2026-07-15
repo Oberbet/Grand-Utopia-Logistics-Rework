@@ -1,0 +1,76 @@
+SiiNunit
+{
+sign_board_template : _nameless.1c4.8d07.a2c0 {
+ board_name: adyox022
+ width: 4
+ height: 1
+ model_name: ""
+ items: 3
+ items[0]: _nameless.1c4.9d47.2230
+ items[1]: _nameless.1c4.61d1.5af0
+ items[2]: _nameless.1c4.61d1.6870
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.1c4.9d47.2230 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 6
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2540437503
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ded6770
+ coords_r: &3f7f77c0
+ coords_t: &3f70e569
+ coords_b: &3d71a970
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.1c4.61d1.5af0 {
+ text: "BUS <sub scale=0.8>et</sub> CARS"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3ecccccd
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3d4ccccd
+ id: 1179779072
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f9d71a2
+ coords_r: 4
+ coords_t: 1
+ coords_b: &3ea7792c
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.1c4.61d1.6870 {
+ text: "Buses <sub scale=0.8>and</sub> coaches"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3eb33333
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 2310668287
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f9d71a2
+ coords_r: 4
+ coords_t: &3f1daae0
+ coords_b: 0
+ z_order: 3
+ tag: ""
+}
+
+}

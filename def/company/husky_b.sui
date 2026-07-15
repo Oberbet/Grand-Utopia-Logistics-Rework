@@ -1,0 +1,6 @@
+company_permanent: company.permanent.husky_b
+{
+	name: "Husky Logistik Cologne"
+	sort_name: "husky logistik cologne"
+	trailer_look: husky_b
+}

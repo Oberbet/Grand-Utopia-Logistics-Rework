@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .krewit {
+ city: krewit
+ prefab: dlc_no_13
+}
+}

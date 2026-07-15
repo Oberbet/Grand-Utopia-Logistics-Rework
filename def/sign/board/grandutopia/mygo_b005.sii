@@ -1,0 +1,76 @@
+SiiNunit
+{
+sign_board_template : _nameless.1a3.2f0f.00c0 {
+ board_name: "mygo b005"
+ width: 4
+ height: &3f8ccccd
+ model_name: ""
+ items: 3
+ items[0]: _nameless.1a6.880e.4ea0
+ items[1]: _nameless.1a6.880e.5b60
+ items[2]: _nameless.1a3.2f0f.10b0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1a6.880e.4ea0 {
+ text: " THIERS"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f0ccccd
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 1810366463
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: 4
+ coords_t: &3f87c5a2
+ coords_b: &3f0b9425
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.1a6.880e.5b60 {
+ text: " COURPI\xc3\x88RE"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f0ccccd
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 1891500031
+ area_name: ""
+ area_idx: nil
+ coords_l: &34800000
+ coords_r: 4
+ coords_t: &3f0e1dd2
+ coords_b: &3d2c91f0
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1a3.2f0f.10b0 {
+ atlas_path: "/def/sign/atlas/highway_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 1140195328
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e0c5716
+ coords_r: &3f70b0d8
+ coords_t: &3f74e5ac
+ coords_b: &3e1d2a66
+ z_order: 3
+ tag: ""
+}
+
+}

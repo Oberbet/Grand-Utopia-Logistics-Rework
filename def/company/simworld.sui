@@ -1,0 +1,6 @@
+company_permanent: company.permanent.simworld
+{
+	name: "SimWorld"
+	sort_name: "simworld"
+	trailer_look: simworld
+}

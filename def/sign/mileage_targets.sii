@@ -1,0 +1,1220 @@
+SiiNunit
+
+#### MYGOTOPIA ####
+
+{
+mileage_target : mileage.tworivers {
+ editor_name: tworivers
+ default_name: "Two Rivers"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a38cf001930
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.windfield {
+ editor_name: windfield
+ default_name: Windfield
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a365480a91f
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1300
+}
+
+mileage_target : mileage.libertybay {
+ editor_name: libertybay
+ default_name: "Liberty Bay"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3761004bdc
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 600
+}
+
+mileage_target : mileage.badwater {
+ editor_name: badwater
+ default_name: "Bad Water"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a346a0092c2
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 600
+}
+
+mileage_target : mileage.paulsboro {
+ editor_name: paulsboro
+ default_name: "Paulsboro"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3ae4803b63
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.craterlake {
+ editor_name: craterlake
+ default_name: "Crater Lake"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a385500c6cd
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 250
+}
+
+mileage_target : mileage.hillside {
+ editor_name: hillside
+ default_name: "Hillside"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3a8480c2a9
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 150
+}
+
+mileage_target : mileage.r1_r2 {
+ editor_name: r1_r2
+ default_name: "R1-R2"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a345c009aa3
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 200
+}
+
+mileage_target : mileage.r1_r5 {
+ editor_name: r1_r5
+ default_name: "R1-R5"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3aa200be23
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 300
+}
+
+mileage_target : mileage.r1_hw2 {
+ editor_name: r1_hw2
+ default_name: "R1-HW2"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a367b009b37
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 250
+}
+
+mileage_target : mileage.foxhaven {
+ editor_name: foxhaven
+ default_name: "Foxhaven"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3bcc00fa97
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1700
+}
+
+mileage_target : mileage.whitehouse {
+ editor_name: whitehouse
+ default_name: "White House"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a38708038ab
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.westbank {
+ editor_name: westbank
+ default_name: "Westbank"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a371c80579e
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 400
+}
+
+mileage_target : mileage.bradfort {
+ editor_name: bradfort
+ default_name: "Bradfort"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3567009a85
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.bully {
+ editor_name: bully
+ default_name: "Bully"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3a4f80bac1
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.kamelot {
+ editor_name: kamelot
+ default_name: "Kamelot"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3dc400b481
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 700
+}
+
+mileage_target : mileage.oakwood {
+ editor_name: oakwood_meadows
+ default_name: "Oakwood Meadows"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5b10ae24a5800000
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.oakwood2 {
+ editor_name: oakwood_mdws
+ default_name: "Oakwood Mdws"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5b10ae24a5800000
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.hemsey {
+ editor_name: hemsey
+ default_name: "Hemsey"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3bb580263c
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+#### GRAND UTOPIA #### ---------------------------------------------------------------------------------------
+
+mileage_target : mileage.clerlande {
+ editor_name: clerlande
+ default_name: Clerlande
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a275780e8d2
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.beaubourg {
+ editor_name: beaubourg
+ default_name: Beaubourg
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a269500df23
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.gavroche {
+ editor_name: gavroche
+ default_name: Gavroche
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2b94000eca
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.lafalaise {
+ editor_name: lafalaise
+ default_name: Lafalaise
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a25da80e2f4
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 400
+}
+
+mileage_target : mileage.chirac {
+ editor_name: chirac
+ default_name: Chirac
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a258c00ee6d
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 300
+}
+
+mileage_target : mileage.bausel {
+ editor_name: bausel
+ default_name: Bausel
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a274200f254
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.perignat {
+ editor_name: perignat
+ default_name: "Pérignat"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a24ec00f504
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 300
+}
+
+mileage_target : mileage.rivenchy {
+ editor_name: rivenchy
+ default_name: Rivenchy
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a271080fe81
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 400
+}
+
+mileage_target : mileage.monteil {
+ editor_name: monteil
+ default_name: Monteil
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2aec801538
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 100
+}
+
+mileage_target : mileage.chambret {
+ editor_name: chambret
+ default_name: Chambret
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2b32001f4e
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.saintflour {
+ editor_name: saintflour
+ default_name: "Saint-Flour"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a29b1002591
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 100
+}
+
+mileage_target : mileage.larzac {
+ editor_name: larzac
+ default_name: Larzac
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2af3802a65
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.vierge {
+ editor_name: vierge
+ default_name: "Vierge-du-Lac"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2ba9002846
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 50
+}
+
+mileage_target : mileage.malterre {
+ editor_name: malterre
+ default_name: Malterre
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2a90005127
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 2000
+}
+
+mileage_target : mileage.egeskov {
+ editor_name: egeskov
+ default_name: Egeskov
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a289b005965
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 200
+}
+
+mileage_target : mileage.montbois {
+ editor_name: montbois
+ default_name: Montbois
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2aca0064fc
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.saintangel {
+ editor_name: saintangel
+ default_name: "Saint-Angel"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2a7f006cd5
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.chalezeule {
+ editor_name: chalezeule
+ default_name: Chalezeule
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2a8d807681
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.kenzie {
+ editor_name: kenzie
+ default_name: Kenzie
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3edf80489d
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.dolan {
+ editor_name: dolan
+ default_name: "Dolan-sur-Mer"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2bab007d88
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 600
+}
+
+mileage_target : mileage.ghyvelde {
+ editor_name: ghyvelde
+ default_name: Ghyvelde
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2bd8809a20
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1100
+}
+
+mileage_target : mileage.saintvaury {
+ editor_name: saintvaury
+ default_name: "Saint-Vaury"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a29a200862e
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 200
+}
+
+mileage_target : mileage.villemarie {
+ editor_name: villemarie
+ default_name: "Ville-Marie"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a28b9009418
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.krewit {
+ editor_name: krewit
+ default_name: Krewit
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2bfb00b7b8
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 750
+}
+
+mileage_target : mileage.tours {
+ editor_name: tours
+ default_name: Tours
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2bea00ea59
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1500
+}
+
+mileage_target : mileage.baieduchien {
+ editor_name: baieduchien
+ default_name: "Baie-du-Chien"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2ac400f3b5
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.saintbenoit {
+ editor_name: saintbenoit
+ default_name: "Saint-Benoît"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2b4300ffc6
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 300
+}
+
+mileage_target : mileage.gravouland {
+ editor_name: gravouland
+ default_name: Gravouland
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a287e80d8ab
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 400
+}
+
+mileage_target : mileage.chateauours {
+ editor_name: chateauours
+ default_name: "Château d'Ours"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2c08801209
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.josefine {
+ editor_name: josefine
+ default_name: "La Josefine"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a37d1804d9b
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.gebbbe {
+ editor_name: gebbbe
+ default_name: "Gebbbe-du-Montargis"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2f0f003668
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 800
+}
+
+mileage_target : mileage.jeanbartail {
+ editor_name: jeanbartail
+ default_name: "Jean-du-Bartail"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2cea804d2f
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 800
+}
+
+mileage_target : mileage.pontiac {
+ editor_name: pontiac
+ default_name: Pontiac
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2e08805e47
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.iliffe {
+ editor_name: iliffe
+ default_name: Iliffe
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2e430094cf
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 800
+}
+
+mileage_target : mileage.rombas {
+ editor_name: rombas
+ default_name: Rombas
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2d150080ed
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1400
+}
+
+mileage_target : mileage.castelnoir {
+ editor_name: castelnoir
+ default_name: Castelnoir
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2c0d001357
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.sainteagnes {
+ editor_name: sainteagnes
+ default_name: "Sainte-Agnès"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2ccf803337
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.palmyre {
+ editor_name: palmyre
+ default_name: "La Palmyre"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2dcf007cac
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.legrotas {
+ editor_name: legrotas
+ default_name: Legrotas
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2d6c00c348
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.alingsas {
+ editor_name: alingsas
+ default_name: Alingsas
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2e9200d45e
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.lafayette {
+ editor_name: lafayette
+ default_name: Lafayette
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2f3500d709
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 200
+}
+
+mileage_target : mileage.grandville {
+ editor_name: grandville
+ default_name: Grandville
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2e1100e5a5
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1000
+}
+
+mileage_target : mileage.aixnoulette {
+ editor_name: aixnoulette
+ default_name: "Aix-Noulette-sur-Hulluch"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a323300d6b3
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 300
+}
+
+mileage_target : mileage.chavanon {
+ editor_name: chavanon
+ default_name: Chavanon
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2a8980bc1f
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 200
+}
+
+mileage_target : mileage.rivieresens {
+ editor_name: rivieresens
+ default_name: "Rivière-Sens"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a30af000d81
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 700
+}
+
+mileage_target : mileage.lavernay {
+ editor_name: lavernay
+ default_name: Lavernay
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a30778015d1
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.paradis {
+ editor_name: paradis
+ default_name: "Le Paradis"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3078801b77
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 300
+}
+
+mileage_target : mileage.poixdunord {
+ editor_name: poixdunord
+ default_name: "Poix-du-Nord"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3260001fba
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 700
+}
+
+mileage_target : mileage.montmorillon {
+ editor_name: montmorillon
+ default_name: Montmorillon
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a334a8025e5
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1000
+}
+
+mileage_target : mileage.utopia {
+ editor_name: utopia
+ default_name: Utopia
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a320e00c118
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 3000
+}
+
+mileage_target : mileage.montchaux {
+ editor_name: montchaux
+ default_name: "Montchaux-Soreng"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3bb3003312
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.courfeyrac {
+ editor_name: courfeyrac
+ default_name: Courfeyrac
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a327e80c492
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.neyland {
+ editor_name: neyland
+ default_name: Neyland
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a302600c65a
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.aelvinque {
+ editor_name: aelvinque
+ default_name: "Port-Aelvinque"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a328c80f9bc
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 200
+}
+
+mileage_target : mileage.meulan {
+ editor_name: meulan
+ default_name: Meulan
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a36c2000933
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1200
+}
+
+mileage_target : mileage.krauter {
+ editor_name: krauter
+ default_name: Krautergersheim
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a373a001178
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 200
+}
+
+mileage_target : mileage.maisnil {
+ editor_name: maisnil
+ default_name: "Maisnil <sup scale=0.75>lès <sup>L."
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a36fd8023fc
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 500
+}
+
+mileage_target : mileage.gerardmer {
+ editor_name: gerardmer
+ default_name: "Gérardmer"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a353a805eba
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 400
+}
+
+mileage_target : mileage.stellamar {
+ editor_name: stellamar
+ default_name: Stellamar
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a35cc80615a
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.belmont {
+ editor_name: belmont
+ default_name: Belmont
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a343f007ba7
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 700
+}
+
+mileage_target : mileage.lossande {
+ editor_name: lossande
+ default_name: "Lossande-Gelèsse"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3575808233
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.salininkai {
+ editor_name: salininkai
+ default_name: Salininkai
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a351d00d355
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.saintemarie {
+ editor_name: saintemarie
+ default_name: "S<sup>te</sup> Marie <sub>sur</sub> M."
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a347300db9e
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1000
+}
+
+mileage_target : mileage.chaseville {
+ editor_name: chaseville
+ default_name: Chaseville
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a36bc80e7d9
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 200
+}
+
+mileage_target : mileage.nouillorc {
+ editor_name: nouillorc
+ default_name: Nouillorc
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a2dec006c89
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 300
+}
+
+mileage_target : mileage.arlandis {
+ editor_name: arlandis
+ default_name: Arlandis
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a39a000521d
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 250
+}
+
+mileage_target : mileage.sulikow {
+ editor_name: sulikow
+ default_name: "Sulikôw"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3839805b3d
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 600
+}
+
+mileage_target : mileage.sylvestre {
+ editor_name: sylvestre
+ default_name: "S<sup>t</sup> Sylvestre <sup>C.</sup>"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3bab009343
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1000
+}
+
+mileage_target : mileage.denver {
+ editor_name: denver
+ default_name: Denver
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3b41007221
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: -1
+}
+
+mileage_target : mileage.eilmont {
+ editor_name: eilmont
+ default_name: "Eilmont"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3cf5805144
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 1000
+}
+ 
+mileage_target : mileage.pierrefier {
+ editor_name: pierrefier
+ default_name: "Pierre <sub>sur</sub> Fier"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3f4c809910
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 400
+}
+  
+mileage_target : mileage.andrea {
+ editor_name: andrea
+ default_name: "Andréa"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a3e2a807793
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 800
+}
+   
+mileage_target : mileage.uport {
+ editor_name: uport
+ default_name: "Utopia <sup>Zone portuaire</sup>"
+ variants: 0
+ names: 0
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a33fb00e296
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 800
+}
+   
+mileage_target : mileage.border_isl {
+ editor_name: border_island
+ default_name: "Border Island"
+ variants[0]: mygotopia
+ variants[1]: france
+ names: 2
+ names[0]: "Mygotopia"
+ names[1]: "France"
+ image_atlas_paths: 0
+ image_atlas_indices: 0
+ distance_offset: 0
+ node_uid: 0x5a336a34e800b107
+ position: (&7f7fffff, &7f7fffff, &7f7fffff)
+ search_radius: 650
+}
+
+}

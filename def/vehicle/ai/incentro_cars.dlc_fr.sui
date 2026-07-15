@@ -1,0 +1,57 @@
+#
+#	CARRIAGE 0
+#
+
+traffic_trailer : train_car.incentro.fr.car1
+{
+	accessories[]: .incentro.fr.car1.tchassis
+	accessories[]: .incentro.fr.car1.trwheel0
+
+	vehicle_mass: 14000
+	cargo_mass: 4000
+
+	sound_move: "/sound/traffic/tram_1.soundref"
+
+	displacement_limit: 0.0
+
+	prefer_variant: false
+}
+
+vehicle_accessory: .incentro.fr.car1.tchassis
+{
+	data_path: "/def/vehicle/ai/incentro/chassis_car1.sii"
+}
+vehicle_wheel_accessory: .incentro.fr.car1.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/ai_wheel/incentro_rear.sii"
+}
+
+#
+#	CARRIAGE 1
+#
+
+traffic_trailer : train_car.incentro.fr.car2
+{
+	accessories[]: .incentro.fr.car2.tchassis
+	accessories[]: .incentro.fr.car2.trwheel0
+
+	vehicle_mass: 14000
+	cargo_mass: 4000
+
+	sound_move: "/sound/traffic/tram_1.soundref"
+
+	displacement_limit: 0.0
+
+	prefer_variant: false
+}
+
+vehicle_accessory: .incentro.fr.car2.tchassis
+{
+	data_path: "/def/vehicle/ai/incentro/chassis_car2.sii"
+}
+vehicle_wheel_accessory: .incentro.fr.car2.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/ai_wheel/incentro_rear.sii"
+}

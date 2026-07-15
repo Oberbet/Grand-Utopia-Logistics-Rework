@@ -1,0 +1,54 @@
+SiiNunit
+{
+sign_board_template : _nameless.1c0.2096.6dc0 {
+ board_name: "mygo b054"
+ width: &4021eb85
+ height: &3f051eb8
+ model_name: ""
+ items: 2
+ items[0]: _nameless.1c1.30c1.2ff0
+ items[1]: _nameless.1c1.5aa1.2fb0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1c1.30c1.2ff0 {
+ text: "Parking libre<br><sub>Free parking</sub>"
+ font_face: "/font/sign/lu_i.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &bdcccccd
+ letter_spacing: 0
+ id: 3825467390
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f811c15
+ coords_r: &4021eb85
+ coords_t: &3f051eb8
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1c1.5aa1.2fb0 {
+ atlas_path: "/def/sign/atlas/ideo1.sii"
+ image_idx: 1
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2187198463
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ec38d20
+ coords_r: &3f623775
+ coords_t: &3ec570d5
+ coords_b: &3e0d0ba9
+ z_order: 2
+ tag: ""
+}
+
+}

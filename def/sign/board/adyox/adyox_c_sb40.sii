@@ -1,0 +1,34 @@
+SiiNunit
+{
+sign_board_template : _nameless.1ea.2c1c.6cb0 {
+ board_name: "adyox c sb40"
+ width: &3ed1eb85
+ height: &3e800000
+ model_name: ""
+ items: 1
+ items[0]: _nameless.1e9.d24c.8720
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1e9.d24c.8720 {
+ text: "0<sub scale=0.8>,0 $</sup>"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 3185311742
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3ed1eb85
+ coords_t: &3e800000
+ coords_b: &3dfda130
+ z_order: 1
+ tag: ""
+}
+
+}

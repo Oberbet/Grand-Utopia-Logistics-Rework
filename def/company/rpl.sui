@@ -1,0 +1,6 @@
+company_permanent: company.permanent.rpl
+{
+	name: "RPL Transport"
+	sort_name: "rpl transport"
+	trailer_look: rpl
+}

@@ -1,0 +1,96 @@
+SiiNunit
+{
+sign_board_template : _nameless.27f.cc73.91f0 {
+ board_name: "dyx gu sb2"
+ width: &4019999a
+ height: &3f333333
+ model_name: ""
+ items: 4
+ items[0]: _nameless.27f.4b0d.b0f0
+ items[1]: _nameless.27f.4c2a.45a0
+ items[2]: _nameless.27f.4c2a.4640
+ items[3]: _nameless.27f.4b0d.a970
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.27f.4b0d.b0f0 {
+ text: ILLIFE
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 394395648
+ area_name: ""
+ area_idx: nil
+ coords_l: &3da6ce40
+ coords_r: &4019999a
+ coords_t: &3f333333
+ coords_b: &3e9d89d9
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.27f.4c2a.45a0 {
+ atlas_path: "/def/sign/atlas/picto1.sii"
+ image_idx: 8
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1663827967
+ area_name: ""
+ area_idx: nil
+ coords_l: &400147ae
+ coords_r: &40170a3d
+ coords_t: &3f0497cb
+ coords_b: &3e363637
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.27f.4c2a.4640 {
+ atlas_path: "/def/sign/atlas/ideo1.sii"
+ image_idx: 16
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1003880448
+ area_name: ""
+ area_idx: nil
+ coords_l: &3da6ce34
+ coords_r: &3ec29b3a
+ coords_t: &3eadc173
+ coords_b: &3d26ce30
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.27f.4b0d.a970 {
+ text: "CAR-FERRY"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 260702208
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ee7ac98
+ coords_r: &4019999a
+ coords_t: &3eadc173
+ coords_b: &3d3956e0
+ z_order: 4
+ tag: ""
+}
+
+}

@@ -1,0 +1,74 @@
+SiiNunit
+{
+sign_board_template : _nameless.1e3.f951.3f10 {
+ board_name: "adyox c sb22"
+ width: &3f30a3d7
+ height: &3e570a3d
+ model_name: ""
+ items: 3
+ items[0]: _nameless.1e3.c977.6650
+ items[1]: _nameless.1e4.2969.58a0
+ items[2]: _nameless.1e4.2969.4360
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1e3.c977.6650 {
+ text: XXXX
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e3851ec
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 1593573375
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f30a3d7
+ coords_t: &3e570a3d
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1e4.2969.58a0 {
+ atlas_path: "/def/sign/atlas/picto1.sii"
+ image_idx: 9
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 64356352
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3e02b931
+ coords_t: &3e32a7c3
+ coords_b: &3cf40458
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1e4.2969.4360 {
+ atlas_path: "/def/sign/atlas/picto1.sii"
+ image_idx: 9
+ color: nil
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 4213047294
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0ff58b
+ coords_r: &3f30a3d7
+ coords_t: &3e32a7c3
+ coords_b: &3cf40458
+ z_order: 3
+ tag: ""
+}
+
+}

@@ -1,0 +1,116 @@
+SiiNunit
+{
+sign_board_template : _nameless.1c4.1eac.6ac0 {
+ board_name: adyox023
+ width: 4
+ height: &3fd9999a
+ model_name: ""
+ items: 5
+ items[0]: _nameless.1c4.1ed3.4f20
+ items[1]: _nameless.1c4.1ed3.3ba0
+ items[2]: _nameless.1c4.1eb0.b960
+ items[3]: _nameless.1c4.1eb0.c0e0
+ items[4]: _nameless.1c4.1eb0.bb40
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1c4.1ed3.4f20 {
+ text: "AUTRES V\xc3\xa9HICULES"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3ecccccd
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3d4ccccd
+ id: 4289200126
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fa219b4
+ coords_r: 4
+ coords_t: &3fb37b70
+ coords_b: &3f3ab377
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.1c4.1ed3.3ba0 {
+ text: "Other vehicles"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3eb33333
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 2123366399
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fa219b4
+ coords_r: 4
+ coords_t: &3f4c9cf2
+ coords_b: &3e3bc848
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1c4.1eb0.b960 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 9
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1553072127
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e570a3d
+ coords_r: &3f68f5c3
+ coords_t: &3f9c2962
+ coords_b: &3f051f91
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.1c4.1eb0.c0e0 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 8
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1200226304
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e55d078
+ coords_r: &3f694434
+ coords_t: &3fd9999a
+ coords_b: &3f7f6320
+ z_order: 4
+ tag: ""
+}
+
+sign_template_image : _nameless.1c4.1eb0.bb40 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 10
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3039297534
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e570a3d
+ coords_r: &3f68f5c3
+ coords_t: &3f333333
+ coords_b: 0
+ z_order: 5
+ tag: ""
+}
+
+}

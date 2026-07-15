@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .foire_agri {
+ city: foire_agri
+ prefab: d_cust_1
+}
+}

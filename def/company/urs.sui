@@ -1,0 +1,6 @@
+company_permanent: company.permanent.urs
+{
+	name: "Utopian Road Services"
+	sort_name: "URS"
+	trailer_look: urs
+}

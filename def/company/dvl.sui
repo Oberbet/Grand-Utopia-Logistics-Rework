@@ -1,0 +1,6 @@
+company_permanent: company.permanent.dvl
+{
+	name: "DVL Trans"
+	sort_name: "DVL Trans"
+	trailer_look: dvl
+}

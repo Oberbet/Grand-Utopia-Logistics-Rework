@@ -1,0 +1,54 @@
+SiiNunit
+{
+sign_board_template : _nameless.1f2.84d6.1140 {
+ board_name: "adyox c sb140"
+ width: &40051eb8
+ height: &3f051eb8
+ model_name: ""
+ items: 2
+ items[0]: _nameless.1f2.8523.2aa0
+ items[1]: _nameless.1f2.8514.5d50
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1f2.8523.2aa0 {
+ text: "     XXXX"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 1716518911
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40051eb8
+ coords_t: &3f051eb8
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1f2.8514.5d50 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 13
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2339373055
+ area_name: ""
+ area_idx: nil
+ coords_l: &3dc0c0c4
+ coords_r: &3ed0d0d1
+ coords_t: &3ed4d4d6
+ coords_b: &3dd0d0d2
+ z_order: 2
+ tag: ""
+}
+
+}

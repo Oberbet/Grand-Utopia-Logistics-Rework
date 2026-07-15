@@ -1,0 +1,16 @@
+SiiNunit
+{
+# Created with Mods Studio 2 - the best tool to create ETS2 & ATS mods!
+# Download for free from www.mods.studio
+
+accessory_paint_job_data: foire2026.scs.box.paint_job
+{
+
+@include "foire2026_shared.sui"
+@include "foire2026_metallic.sui"
+@include "foire2026_mask.sui"
+
+paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs.box/foire2026/foire2026_shared.tobj"
+
+}
+}

@@ -1,0 +1,8 @@
+ferry_data: ferry.tours
+{
+	ferry_name: "Tours"
+	ferry_name_localized: "@@Tours@@"
+	transport_type: "train"
+}
+
+

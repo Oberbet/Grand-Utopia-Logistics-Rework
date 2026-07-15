@@ -1,0 +1,320 @@
+SiiNunit
+{
+sign_board_template : _nameless.2b1.53ae.b170 {
+ board_name: "mygo b051"
+ width: 5
+ height: &40d00000
+ model_name: ""
+ items: 15
+ items[0]: _nameless.2b1.53c5.1650
+ items[1]: _nameless.2b1.53c5.1790
+ items[2]: _nameless.2b1.53c5.2230
+ items[3]: _nameless.2b1.53c5.0890
+ items[4]: _nameless.2b1.518e.8210
+ items[5]: _nameless.2b1.518e.9b90
+ items[6]: _nameless.2b1.518e.9f50
+ items[7]: _nameless.2b1.518e.8810
+ items[8]: _nameless.2b1.53c5.1f10
+ items[9]: _nameless.2b1.518e.88d0
+ items[10]: _nameless.2b1.518e.a310
+ items[11]: _nameless.2b2.4039.9290
+ items[12]: _nameless.2b2.5b31.9600
+ items[13]: _nameless.2b2.a9e0.0730
+ items[14]: _nameless.2b2.a9e0.05b0
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.2b1.53c5.1650 {
+ atlas_path: "/def/sign/atlas/single_line_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1605238783
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3fd32107
+ coords_t: &40d00000
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.2b1.53c5.1790 {
+ atlas_path: "/def/sign/atlas/arrow_tail_diag45_at.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2611347455
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f45ea66
+ coords_r: &3ff81201
+ coords_t: &40377db4
+ coords_b: &3fd9de9a
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.2b1.53c5.2230 {
+ atlas_path: "/def/sign/atlas/arrow_tail_diag45_at.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 27262976
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f45ea66
+ coords_r: &3ff81201
+ coords_t: &40be34fe
+ coords_b: &4098edac
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.2b1.53c5.0890 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 14
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 462422016
+ area_name: ""
+ area_idx: nil
+ coords_l: &400c6a97
+ coords_r: &4085d554
+ coords_t: &40c546da
+ coords_b: &40a5a6da
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.2b1.518e.8210 {
+ text: 6
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 4226940926
+ area_name: ""
+ area_idx: nil
+ coords_l: &40422441
+ coords_r: &407959c3
+ coords_t: &40c06886
+ coords_b: &40aa913e
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.2b1.518e.9b90 {
+ text: "    EILMONT"
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3f000000
+ text_halign: left
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d4ccccd
+ id: 3129737214
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f8800f6
+ coords_r: 5
+ coords_t: &40a56915
+ coords_b: &40876113
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.2b1.518e.9f50 {
+ text: " -NORD    "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3ee66666
+ text_halign: right
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3cf5c28f
+ id: 134742016
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fb7389c
+ coords_r: 5
+ coords_t: &40a5cacc
+ coords_b: &408787e7
+ z_order: 8
+ tag: ""
+}
+
+sign_template_text : _nameless.2b1.518e.8810 {
+ text: " Zone commerciale"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3f000000
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d23d70a
+ id: 1022885888
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f98e2f6
+ coords_r: 5
+ coords_t: &408e1e24
+ coords_b: &4067b014
+ z_order: 9
+ tag: ""
+}
+
+sign_template_image : _nameless.2b1.53c5.1f10 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 14
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2669805567
+ area_name: ""
+ area_idx: nil
+ coords_l: &400c6a97
+ coords_r: &4085d554
+ coords_t: &4044d25e
+ coords_b: &4005925e
+ z_order: 10
+ tag: ""
+}
+
+sign_template_text : _nameless.2b1.518e.88d0 {
+ text: 7
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 1485701119
+ area_name: ""
+ area_idx: nil
+ coords_l: &40422441
+ coords_r: &407959c3
+ coords_t: &403b15b6
+ coords_b: &400f6726
+ z_order: 11
+ tag: ""
+}
+
+sign_template_text : _nameless.2b1.518e.a310 {
+ text: "  Centre-ville"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3f000000
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d23d70a
+ id: 1342308352
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f98e2f6
+ coords_r: 5
+ coords_t: &3fad01e4
+ coords_b: &3ed38768
+ z_order: 12
+ tag: ""
+}
+
+sign_template_frame : _nameless.2b2.4039.9290 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 1
+ id: 1304559616
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc0925a
+ coords_r: &409b8fd3
+ coords_t: &40a27b7c
+ coords_b: &408a6930
+ z_order: 6
+ tag: ""
+}
+
+sign_template_frame : _nameless.2b2.5b31.9600 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 1
+ id: 2375417855
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc0925a
+ coords_r: &409b8fd2
+ coords_t: &3ffd65ce
+ coords_b: &3f9d1c9e
+ z_order: 13
+ tag: ""
+}
+
+sign_template_text : _nameless.2b2.a9e0.0730 {
+ text: "     EILMONT"
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3f000000
+ text_halign: left
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d4ccccd
+ id: 3431596030
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f8800f6
+ coords_r: 5
+ coords_t: &40048e19
+ coords_b: &3f90fc2a
+ z_order: 14
+ tag: ""
+}
+
+sign_template_text : _nameless.2b2.a9e0.05b0 {
+ text: " -SUD     "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3ee66666
+ text_halign: right
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3cf5c28f
+ id: 3251503102
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fb7389c
+ coords_r: 5
+ coords_t: &40055187
+ coords_b: &3f91977a
+ z_order: 15
+ tag: ""
+}
+
+}

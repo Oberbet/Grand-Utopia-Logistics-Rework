@@ -1,0 +1,6 @@
+company_permanent: company.permanent.avocado
+{
+	name: "Avocado"
+	sort_name: "Avocado"
+	trailer_look: avocado
+}

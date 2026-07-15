@@ -1,0 +1,6 @@
+company_permanent: company.permanent._vtc001
+{
+	name: "Kompass Logenn"
+	sort_name: "kompass logenn"
+	trailer_look: _vtc001
+}

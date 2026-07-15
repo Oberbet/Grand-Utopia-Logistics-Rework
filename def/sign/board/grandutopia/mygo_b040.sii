@@ -1,0 +1,240 @@
+SiiNunit
+{
+sign_board_template : _nameless.285.8944.b620 {
+ board_name: "mygo b040"
+ width: &40600000
+ height: &40200000
+ model_name: ""
+ items: 11
+ items[0]: _nameless.287.8e05.e0e0
+ items[1]: _nameless.287.39b1.55f0
+ items[2]: _nameless.287.f36f.6050
+ items[3]: _nameless.287.f36f.4930
+ items[4]: _nameless.287.8e06.d7a0
+ items[5]: _nameless.287.a7f7.17a0
+ items[6]: _nameless.287.a7f7.2160
+ items[7]: _nameless.286.c2a4.4760
+ items[8]: _nameless.287.8e06.ea60
+ items[9]: _nameless.286.882c.19a0
+ items[10]: _nameless.286.c1e7.ad30
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.287.8e05.e0e0 {
+ text: "150 m"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e4ccccd
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 602800128
+ area_name: ""
+ area_idx: nil
+ coords_l: &4031ea83
+ coords_r: &40600000
+ coords_t: &3e9c8469
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.287.39b1.55f0 {
+ atlas_path: "/def/sign/atlas/round_half_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 712507392
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f44d1c6
+ coords_r: &402e90dc
+ coords_t: &3fba7508
+ coords_b: &3ba13d80
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.287.f36f.6050 {
+ atlas_path: "/def/sign/atlas/single_line_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3740925950
+ area_name: ""
+ area_idx: nil
+ coords_l: &402ca194
+ coords_r: &4035fa6a
+ coords_t: &3ea85047
+ coords_b: 0
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.287.f36f.4930 {
+ atlas_path: "/def/sign/atlas/single_line_horizontal_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 316538880
+ area_name: ""
+ area_idx: nil
+ coords_l: &40314dff
+ coords_r: &40600000
+ coords_t: &3ec459d0
+ coords_b: &3e732650
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.287.8e06.d7a0 {
+ text: "  Z.A.<br> des Corps"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 993263616
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3fcd186a
+ coords_t: &3f6f4726
+ coords_b: &3e5c1a34
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.287.a7f7.17a0 {
+ text: "S<sup>TE</sup> AGN\xc3\x88S  "
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2406088703
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ffd7382
+ coords_r: &40600000
+ coords_t: &3f394b64
+ coords_b: &3ea2fe11
+ z_order: 6
+ tag: ""
+}
+
+sign_template_text : _nameless.287.a7f7.2160 {
+ text: "A 2 - A 3  "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 860094464
+ area_name: ""
+ area_idx: nil
+ coords_l: &400324f2
+ coords_r: &4057199a
+ coords_t: &40167cb1
+ coords_b: &3ff91336
+ z_order: 8
+ tag: ""
+}
+
+sign_template_frame : _nameless.286.c2a4.4760 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 1
+ id: 3344171006
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fdf28ca
+ coords_r: &4057ef09
+ coords_t: &40146ee9
+ coords_b: &3ffe119e
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.287.8e06.ea60 {
+ text: CASTELNOIR
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 4216193022
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e1c8460
+ coords_r: &40569d1a
+ coords_t: &3fef68a2
+ coords_b: &3fc8949f
+ z_order: 9
+ tag: ""
+}
+
+sign_template_image : _nameless.286.882c.19a0 {
+ atlas_path: "/def/sign/atlas/highway2_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2250506239
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fe5d5ab
+ coords_r: &4002ead6
+ coords_t: &40119060
+ coords_b: &40019060
+ z_order: 10
+ tag: ""
+}
+
+sign_template_text : _nameless.286.c1e7.ad30 {
+ text: CASTELNOIR
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 4173725694
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e1c8470
+ coords_r: &4056f2af
+ coords_t: &4012a361
+ coords_b: &3ffe72be
+ z_order: 11
+ tag: ""
+}
+
+}

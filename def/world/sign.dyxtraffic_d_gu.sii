@@ -1,0 +1,197 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+sign_model : sign.dyxgu_s499
+{
+	sign_name: "poteau_pf_normal"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_pf_normal.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_pf_normal.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s500
+{
+	sign_name: "poteau_pf_decale"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_pf_decale.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_pf_decale.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s501
+{
+	sign_name: "poteau_pf_coupe"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_pf_coupe.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_pf_coupe.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s502
+{
+	sign_name: "poteau_pf_direction"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_pf_direction.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_pf_direction.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s503
+{
+	sign_name: "poteau_gf_type1_t"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t1t.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t1t.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: false
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s504
+{
+	sign_name: "poteau_gf_type1_l"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t1l.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t1l.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: false
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s505
+{
+	sign_name: "poteau_gf_type1_u"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t1u.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t1u.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: false
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s506
+{
+	sign_name: "poteau_gf_type2"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t2.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t2.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: false
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s507
+{
+	sign_name: "poteau_gf_type3"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t3.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t3.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: false
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s508
+{
+	sign_name: "poteau_gf_type4"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t4.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_poteau_gf_t4.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: false
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s509
+{
+	sign_name: "plastobloc"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_blastobloc.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_blastobloc.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s510
+{
+	sign_name: "support de glissiere"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_support_glissiere.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_support_glissiere.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: false
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s644
+{
+	sign_name: "cone_petit"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_conep.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_conep.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: true
+	road_model: true
+	instanced: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s645
+{
+	sign_name: "cone_normal"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_conen.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_conen.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: true
+	road_model: true
+	instanced: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s646
+{
+	sign_name: "cone_grand"
+	model_desc: "/model/dyx/signs/traffic/divers/dyxst_coneg.pmd"
+	model_coll: "/model/dyx/signs/traffic/divers/dyxst_coneg.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Divers"
+
+	dynamic: true
+	road_model: true
+	instanced: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+}

@@ -1,0 +1,6 @@
+company_permanent: company.permanent.transouf
+{
+	name: "Transports Julien & Fils"
+	sort_name: "transports julien & fils"
+	trailer_look: transouf
+}

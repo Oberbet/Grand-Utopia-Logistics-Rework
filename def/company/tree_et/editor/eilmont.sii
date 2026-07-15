@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .eilmont {
+ city: eilmont
+ prefab: dlc_fr_24
+}
+}

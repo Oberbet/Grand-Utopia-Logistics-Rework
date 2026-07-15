@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .st_seb_bec {
+ city: st_seb_bec
+ prefab: d_food_pln9
+}
+}

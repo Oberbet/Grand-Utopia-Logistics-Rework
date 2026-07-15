@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .castelnoir {
+ city: castelnoir
+ prefab: de_0j002
+}
+}

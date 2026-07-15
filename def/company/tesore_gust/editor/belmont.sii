@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .belmont {
+ city: belmont
+ prefab: ibe246
+}
+}

@@ -1,0 +1,6 @@
+company_permanent: company.permanent.cowshelter
+{
+	name: "Cow Shelter"
+	sort_name: "cowshelter"
+	trailer_look: cowshelter
+}

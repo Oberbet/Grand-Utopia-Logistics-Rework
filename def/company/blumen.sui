@@ -1,0 +1,6 @@
+company_permanent: company.permanent.blumen
+{
+	name: "Blumen Market"
+	sort_name: "blumen"
+	trailer_look: blumen
+}

@@ -1,0 +1,6 @@
+company_permanent: company.permanent.ppg
+{
+	name: "PPG Transport"
+	sort_name: "ppg transport"
+	trailer_look: ppg
+}

@@ -1,0 +1,46 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+
+tr_semaphore_profile : tr_sem_prof.temporary.grandutopia
+{
+
+	name: "roadwork traffic light"
+
+	interval[]: (18.0, 2.0, 50.0, 0.0)
+	cycle[]: 36.0
+	cycle[]: 0.0
+	model[]: "temporary"
+	type[]: traffic_light_blockable
+}
+
+tr_semaphore_profile : tr_sem_prof.cr_1x1.grandutopia
+{
+
+	name: "crossroad 1x1 f"
+	inherited: tr_sem_prof.cr_1x1.netherlands 
+}
+
+tr_semaphore_profile : tr_sem_prof.cr_2x2.grandutopia
+{
+
+	name: "crossroad 2x2 f"
+	inherited: tr_sem_prof.cr_2x2.netherlands 
+}
+
+tr_semaphore_profile : tr_sem_prof.cr_2x1.grandutopia
+{
+
+	name: "crossroad 2x1 f"
+	inherited: tr_sem_prof.cr_2x1.netherlands 
+}
+tr_semaphore_profile : tr_sem_prof.cr_1x2.grandutopia
+{
+
+	name: "crossroad 1x2 f"
+	inherited: tr_sem_prof.cr_1x2.netherlands 
+}
+}

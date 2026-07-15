@@ -1,0 +1,6 @@
+company_permanent: company.permanent.diplo
+{
+	name: "Diplodocus"
+	sort_name: "diplo"
+	trailer_look: piac
+}

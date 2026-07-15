@@ -1,0 +1,871 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+
+sign_model : sign.dyxgu_s172
+{
+	sign_name: "type1"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_type1.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_type1.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s173
+{
+	sign_name: "bouchon"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_bouchon.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_bouchon.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s174
+{
+	sign_name: "accident"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_accident.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_accident.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s175
+{
+	sign_name: "brouillard"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_brouillard.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_brouillard.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s176
+{
+	sign_name: "cassis"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_cassis.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_cassis.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s177
+{
+	sign_name: "feu"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_feu.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_feu.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s178
+{
+	sign_name: "gravillons"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_gravillons.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_gravillons.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s179
+{
+	sign_name: "attention"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_attention.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_attention.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s180
+{
+	sign_name: "rte_glissante"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_rte_glissante.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_rte_glissante.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s181
+{
+	sign_name: "rte_retrecie"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_rte_retrecie.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_rte_retrecie.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s182
+{
+	sign_name: "travaux"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_travaux.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tdan_travaux.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Danger"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s183
+{
+	sign_name: "attention_pnc"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_attention_pnc.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_attention_pnc.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s184
+{
+	sign_name: "rte_glissante_pnc"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_rte_glissante_pnc.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_rte_glissante_pnc.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s185
+{
+	sign_name: "travaux_pnc"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_travaux_pnc.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_travaux_pnc.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s186
+{
+	sign_name: "deviation"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_deviation.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_deviation.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s187
+{
+	sign_name: "type2"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_type2.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_type2.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s188
+{
+	sign_name: "tourner_d"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tobl_tourner_d.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tobl_tourner_d.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Obligation"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s189
+{
+	sign_name: "tourner_g"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tobl_tourner_g.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tobl_tourner_g.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Obligation"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s190
+{
+	sign_name: "sens_interdit"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_sens_interdit.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_sens_interdit.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s191
+{
+	sign_name: "circ_interdite"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_circ_interdite.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_circ_interdite.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s192
+{
+	sign_name: "pas_prio"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_pas_prio.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_pas_prio.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s193
+{
+	sign_name: "stationnement"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_stationnement.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_stationnement.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s194
+{
+	sign_name: "depassement"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_depassement.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_depassement.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s195
+{
+	sign_name: "depassement_pl"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_depassement_pl.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_depassement_pl.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s196
+{
+	sign_name: "pl"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_pl.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_pl.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s197
+{
+	sign_name: "tourner_d"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_tourner_d.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_tourner_d.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s198
+{
+	sign_name: "tourner_g"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_tourner_g.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_tourner_g.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s199
+{
+	sign_name: "vitesse30"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse30.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse30.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_30
+}
+sign_model : sign.dyxgu_s200
+{
+	sign_name: "vitesse50"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse50.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse50.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_50
+}
+sign_model : sign.dyxgu_s201
+{
+	sign_name: "vitesse70"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse70.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse70.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_70
+}
+sign_model : sign.dyxgu_s202
+{
+	sign_name: "vitesse80"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse80.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse80.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_80
+}
+sign_model : sign.dyxgu_s203
+{
+	sign_name: "vitesse90"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse90.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse90.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_90
+}
+sign_model : sign.dyxgu_s204
+{
+	sign_name: "vitesse30_fin"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse30_fin.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse30_fin.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_end
+}
+sign_model : sign.dyxgu_s205
+{
+	sign_name: "vitesse50_fin"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse50_fin.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse50_fin.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_end
+}
+sign_model : sign.dyxgu_s206
+{
+	sign_name: "vitesse70_fin"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse70_fin.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse70_fin.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_end
+}
+sign_model : sign.dyxgu_s207
+{
+	sign_name: "vitesse80_fin"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse80_fin.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse80_fin.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_end
+}
+sign_model : sign.dyxgu_s208
+{
+	sign_name: "vitesse90_fin"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse90_fin.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_vitesse90_fin.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_end
+}
+sign_model : sign.dyxgu_s209
+{
+	sign_name: "interdiction_fin"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_interdiction_fin.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_interdiction_fin.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+
+	traffic_rule: traffic_rule.limit_end
+}
+sign_model : sign.dyxgu_s210
+{
+	sign_name: "depassement_fin"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_depassement_fin.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_depassement_fin.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s211
+{
+	sign_name: "depassement_pl_fin"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tint_depassement_pl_fin.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tint_depassement_pl_fin.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Interdiction"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s212
+{
+	sign_name: "prio"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_prio.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_prio.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s213
+{
+	sign_name: "sens_unique"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_sens_unique.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_sens_unique.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s214
+{
+	sign_name: "impasse"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_impasse.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_impasse.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s215
+{
+	sign_name: "type3"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_type3.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_type3.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s216
+{
+	sign_name: "affectation voie, 1v1o"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff1v_1o.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff1v_1o.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s217
+{
+	sign_name: "affectation voie, 1v2o"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff1v_2o.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff1v_2o.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s218
+{
+	sign_name: "affectation voie, 2v2o"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff2v_2o.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff2v_2o.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s219
+{
+	sign_name: "affectation voie, 2v1o"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff2v_1o.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff2v_1o.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s220
+{
+	sign_name: "affectation voie, 2vpl1o"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff2vpl_1o.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff2vpl_1o.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s221
+{
+	sign_name: "affectation voie, 2vpl2o"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff2vpl_2o.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_aff2vpl_2o.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s222
+{
+	sign_name: "reduction voie droite, 4v4f"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redd4v_4f.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redd4v_4f.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s223
+{
+	sign_name: "reduction voie droite, 3v3f"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redd3v_3f.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redd3v_3f.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s224
+{
+	sign_name: "reduction voie droite, 2v2f"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redd2v_2f.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redd2v_2f.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s225
+{
+	sign_name: "reduction voie droite, 3v23f"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redd3v_23f.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redd3v_23f.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s226
+{
+	sign_name: "reduction voie gauche, 4v4f"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redg4v_4f.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redg4v_4f.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s227
+{
+	sign_name: "reduction voie gauche, 3v3f"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redg3v_3f.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redg3v_3f.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s228
+{
+	sign_name: "reduction voie gauche, 2v2f"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redg2v_2f.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redg2v_2f.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s229
+{
+	sign_name: "reduction voie gauche, 3v23f"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redg3v_23f.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_redg3v_23f.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s230
+{
+	sign_name: "chgt trajectoire droite, 1v"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajd_1v.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajd_1v.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s231
+{
+	sign_name: "chgt trajectoire droite, 2v"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajd_2v.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajd_2v.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s232
+{
+	sign_name: "chgt trajectoire droite, 2vpl"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajd_2vpl.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajd_2vpl.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s233
+{
+	sign_name: "chgt trajectoire gauche, 1v"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajg_1v.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajg_1v.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s234
+{
+	sign_name: "chgt trajectoire gauche, 2v"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajg_2v.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajg_2v.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s235
+{
+	sign_name: "chgt trajectoire gauche, 2vpl"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajg_2vpl.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tind_trajg_2vpl.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Indication"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s236
+{
+	sign_name: "type4"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_type4.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_type4.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s237
+{
+	sign_name: "pnc moyen, 1 ligne"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_pncm_1l.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_pncm_1l.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s238
+{
+	sign_name: "pnc grand, 1 ligne"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_pncg_1l.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tmod_pncg_1l.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Modulable"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+	editable: true
+}
+sign_model : sign.dyxgu_s526
+{
+	sign_name: "contour_droite"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tobl_contour_d.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tobl_contour_d.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Obligation"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+sign_model : sign.dyxgu_s527
+{
+	sign_name: "contour_gauche"
+	model_desc: "/model/dyx/signs/traffic/temporaires/dyxst_tobl_contour_g.pmd"
+	model_coll: "/model/dyx/signs/traffic/temporaires/dyxst_tobl_contour_g.pmc"
+	look_name: default
+	category: "ADYOX - Signs/Traffic/Temporaires/Obligation"
+
+	dynamic: true
+	drop_sun_shadows: 0
+	mass: 100.0
+}
+}

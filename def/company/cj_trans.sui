@@ -1,0 +1,6 @@
+company_permanent: company.permanent.cj_trans
+{
+	name: "Transport Augustin"
+	sort_name: "cj trans"
+	trailer_look: cjtrans
+}

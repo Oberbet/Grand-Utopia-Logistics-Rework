@@ -1,0 +1,6 @@
+company_permanent: company.permanent.teamzephyr
+{
+	name: "Transports Zephyr"
+	sort_name: "teamzephyr"
+	trailer_look: teamzephyr
+}

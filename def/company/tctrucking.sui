@@ -1,0 +1,6 @@
+company_permanent: company.permanent.tctrucking
+{
+	name: "TC Trucking Bros"
+	sort_name: "tc trucking bros"
+	trailer_look: tctrucking
+}

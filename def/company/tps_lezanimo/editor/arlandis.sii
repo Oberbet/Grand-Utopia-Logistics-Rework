@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .arlandis {
+ city: arlandis
+ prefab: dlc_balt_193
+}
+}

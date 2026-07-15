@@ -1,0 +1,6 @@
+company_permanent: company.permanent.arcelor_log
+{
+	name: "Arcelor Distribution"
+	sort_name: "arcelor distribution"
+	trailer_look: arcelor
+}

@@ -1,0 +1,108 @@
+SiiNunit
+{
+sign_board_template : _nameless.1a8.ca78.16d0 {
+ board_name: "mygo b026"
+ width: 4
+ height: &3f8ccccd
+ model_name: ""
+ items: 5
+ items[0]: _nameless.1a8.853d.e150
+ items[1]: _nameless.1a7.aaa4.1630
+ items[2]: _nameless.1a7.aa8e.3a90
+ items[3]: _nameless.1a7.7708.d4a0
+ items[4]: _nameless.1a7.dc0f.ddf0
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.1a8.853d.e150 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 5
+ color: 15263976
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 336723968
+ area_name: ""
+ area_idx: nil
+ coords_l: &3eaa209e
+ coords_r: &3fb754f4
+ coords_t: &3f8ccccd
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.1a7.aaa4.1630 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 2960869
+ opacity: 1
+ id: 3079012350
+ area_name: ""
+ area_idx: nil
+ coords_l: &4035c4ff
+ coords_r: &4072fe69
+ coords_t: &3f4b0607
+ coords_b: &3e9e9cb4
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.1a7.aa8e.3a90 {
+ text: "A 9"
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 636616704
+ area_name: ""
+ area_idx: nil
+ coords_l: &40333b52
+ coords_r: &4075d94c
+ coords_t: &3f52f443
+ coords_b: &3e8d7b65
+ z_order: 3
+ tag: ""
+}
+
+sign_template_frame : _nameless.1a7.7708.d4a0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 2960869
+ opacity: 1
+ id: 3615358974
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fe64e0a
+ coords_r: &4030606f
+ coords_t: &3f4b0607
+ coords_b: &3e9e9cb5
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.1a7.dc0f.ddf0 {
+ text: "A 2"
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 3014655998
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fe13ab0
+ coords_r: &40333b52
+ coords_t: &3f52f443
+ coords_b: &3e8d7b66
+ z_order: 5
+ tag: ""
+}
+
+}

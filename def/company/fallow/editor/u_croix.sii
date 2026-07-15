@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .u_croix {
+ city: u_croix
+ prefab: dlc_blke_127
+}
+}

@@ -1,0 +1,7 @@
+ferry_data: ferry.ucentre
+{
+	ferry_name: "Utopia Centre"
+	ferry_name_localized: "@@Utopia Centre@@"
+}
+
+

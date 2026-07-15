@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .ghyvelde {
+ city: ghyvelde
+ prefab: dlc_fr_7
+}
+}

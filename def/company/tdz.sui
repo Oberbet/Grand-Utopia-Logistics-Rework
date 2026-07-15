@@ -1,0 +1,6 @@
+company_permanent: company.permanent.tdz
+{
+	name: "Transport TDZ"
+	sort_name: "transport TDZ"
+	trailer_look: tdz
+}

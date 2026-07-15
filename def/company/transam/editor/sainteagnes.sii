@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .sainteagnes {
+ city: sainteagnes
+ prefab: 272
+}
+}

@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .monteil {
+ city: monteil
+ prefab: dlc_no_36
+}
+}

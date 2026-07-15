@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .lafayette {
+ city: lafayette
+ prefab: dlc_it_99
+}
+}

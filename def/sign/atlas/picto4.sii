@@ -1,0 +1,23 @@
+SiiNunit
+{
+image_atlas : atlas.picto4
+{
+  atlas_name: "ADYOX - Pictogrammes"
+  material_path: "/material/sign/atlas/dyx/picto4.mat"
+  
+  # names
+  images_names: 4
+  images_names[0]: "led_verglas"
+  images_names[1]: "led_travaux"
+  images_names[2]: "led_vent"
+  images_names[3]: "flechet9"
+
+ 
+  # left right bottom top
+  images_coords: 4
+  images_coords[0]: (1, 254, 254, 1)
+  images_coords[1]: (257, 510, 254, 1)
+  images_coords[2]: (513, 766, 254, 1)
+  images_coords[3]: (769, 1022, 254, 1)
+}
+}

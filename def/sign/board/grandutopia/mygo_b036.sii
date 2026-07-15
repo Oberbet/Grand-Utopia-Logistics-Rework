@@ -1,0 +1,72 @@
+SiiNunit
+{
+sign_board_template : _nameless.205.cb4b.be50 {
+ board_name: "mygo b036"
+ width: &3f8a3d71
+ height: &3ea3d70a
+ model_name: ""
+ items: 3
+ items[0]: _nameless.205.629e.a8f0
+ items[1]: _nameless.204.a348.cdc0
+ items[2]: _nameless.204.a348.ce80
+ dynamic_attributes: 0
+}
+
+sign_template_frame : _nameless.205.629e.a8f0 {
+ frame_path: "/def/sign/frame/dyxcarre2.sii"
+ color: 2960869
+ opacity: 1
+ id: 3043622910
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f8a3d71
+ coords_t: &3e9f0e2f
+ coords_b: &3c2e92a0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.204.a348.cdc0 {
+ text: A
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3eb33333
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 370278400
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f3821a1
+ coords_r: &3f850c9c
+ coords_t: &3ea3d70a
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.204.a348.ce80 {
+ text: SECTEUR
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e23d70a
+ text_halign: right
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 4170842110
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f30352a
+ coords_t: &3ea3d70a
+ coords_b: 0
+ z_order: 3
+ tag: ""
+}
+
+}

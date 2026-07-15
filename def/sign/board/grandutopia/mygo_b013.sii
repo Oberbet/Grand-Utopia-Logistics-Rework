@@ -1,0 +1,198 @@
+SiiNunit
+{
+sign_board_template : _nameless.27b.6186.9130 {
+ board_name: "mygo b013"
+ width: 2
+ height: &40200000
+ model_name: ""
+ items: 9
+ items[0]: _nameless.27b.44f0.4ba0
+ items[1]: _nameless.27a.31c7.1060
+ items[2]: _nameless.27b.44f0.2ef0
+ items[3]: _nameless.27b.43db.1860
+ items[4]: _nameless.27b.43db.08a0
+ items[5]: _nameless.27b.3c47.57e0
+ items[6]: _nameless.27b.3c47.6b60
+ items[7]: _nameless.27b.3c47.5660
+ items[8]: _nameless.27b.3c47.7160
+ dynamic_attributes: 0
+}
+
+sign_template_frame : _nameless.27b.44f0.4ba0 {
+ frame_path: "/def/sign/frame/dyxcarre2.sii"
+ color: 2960869
+ opacity: &3ecccccd
+ id: 80084992
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2bab4a
+ coords_r: &3f8d35f8
+ coords_t: &3fcf5c2c
+ coords_b: &3f9f4cf2
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.27a.31c7.1060 {
+ text: "ZONE A"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e800000
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 3286368254
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2ed764
+ coords_r: &3f8d4a45
+ coords_t: &3fcf5c2c
+ coords_b: &3f9f4cf2
+ z_order: 2
+ tag: ""
+}
+
+sign_template_frame : _nameless.27b.44f0.2ef0 {
+ frame_path: "/def/sign/frame/dyxcarre2.sii"
+ color: 14065664
+ opacity: &3f333333
+ id: 2647654399
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2b5a16
+ coords_r: &3f8d2bd2
+ coords_t: &3f5156ee
+ coords_b: &3ee270f4
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.27b.43db.1860 {
+ text: "ZONE B"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e800000
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 2719219711
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2e8630
+ coords_r: &3f8d401e
+ coords_t: &3f5156ee
+ coords_b: &3ee270f4
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.27b.43db.08a0 {
+ text: "Base logistique"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e6147ae
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 2064252927
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2ed760
+ coords_r: &3ffc28f6
+ coords_t: &3f98e68c
+ coords_b: &3f720a00
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.27b.3c47.57e0 {
+ text: "Zone de production"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e6147ae
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 1441791999
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2ed760
+ coords_r: &3ffc28f6
+ coords_t: &3ec8d75c
+ coords_b: &3e114380
+ z_order: 6
+ tag: ""
+}
+
+sign_template_text : _nameless.27b.3c47.6b60 {
+ text: "BIENVENUE SUR LE SITE"
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3e2e147b
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 190316544
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: 2
+ coords_t: &401ae148
+ coords_b: &400ad20e
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.27b.3c47.5660 {
+ text: "ARCELOR DISTRIBUTION"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e570a3d
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ba3d70a
+ id: 3460694014
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: 2
+ coords_t: &400ed6c6
+ coords_b: &3ffd8f18
+ z_order: 8
+ tag: ""
+}
+
+sign_template_text : _nameless.27b.3c47.7160 {
+ text: "DE LA PALMYRE"
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3e2e147b
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 1043595264
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: 2
+ coords_t: &4001ae00
+ coords_b: &3fe33d8d
+ z_order: 9
+ tag: ""
+}
+
+}

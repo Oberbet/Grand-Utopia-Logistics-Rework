@@ -1,0 +1,6 @@
+company_permanent: company.permanent.vivarais
+{
+	name: "Transports du Vivarais"
+	sort_name: "vivarais"
+	trailer_look: vivarais
+}

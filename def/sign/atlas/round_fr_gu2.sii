@@ -1,0 +1,18 @@
+SiiNunit
+{
+image_atlas : atlas.round_fr_gu2
+{
+  atlas_name: "round fr gu 2"
+  material_path: "/material/sign/atlas/mygo/round_fr_gu2.mat"
+  
+  # names
+  images_names: 1
+  images_names[0]: "round fr gu 2"
+  
+  # left right bottom top
+  images_coords: 1
+  images_coords[0]: (0, 256, 256, 0)
+
+
+}
+}

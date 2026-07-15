@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .windfield {
+ city: windfield
+ prefab: d_gen_whs7
+}
+}

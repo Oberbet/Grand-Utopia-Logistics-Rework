@@ -1,0 +1,37 @@
+traffic_vehicle : traffic.incentro.fr
+{
+	accessories[]: .incentro.fr.chassis
+	accessories[]: .incentro.fr.fwheel
+	accessories[]: .incentro.fr.rwheel
+
+	max_speed: 50		# 80, limited
+
+	vehicle_mass: 18000	# 43t whole tram + cca 120 ppl
+	engine_power: 360	# 8x45 kW
+
+	trailer_chains[]: "train_car.incentro.fr.car1 | train_car.incentro.fr.car2"
+
+	sound_move[]: "/sound/traffic/tram_1.soundref"
+	sound_horn[]: "/sound/traffic/tram_horn_1.soundref"
+	sound_gears: 1
+
+	displacement_limit: 0.0
+
+	spawn_ratio: 5.0
+
+	# add lod in between
+
+	prefer_variant: false
+}
+vehicle_accessory: .incentro.fr.chassis
+{
+	data_path: "/def/vehicle/ai/incentro/chassis_locomotive.sii"
+}
+vehicle_wheel_accessory: .incentro.fr.fwheel
+{
+	data_path: "/def/vehicle/ai_wheel/incentro_front.sii"
+}
+vehicle_wheel_accessory: .incentro.fr.rwheel
+{
+	data_path: "/def/vehicle/ai_wheel/incentro_rear.sii"
+}

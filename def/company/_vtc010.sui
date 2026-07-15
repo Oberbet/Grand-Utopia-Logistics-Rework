@@ -1,0 +1,6 @@
+company_permanent: company.permanent._vtc010
+{
+	name: "Maid Express"
+	sort_name: "maid express"
+	trailer_look: _vtc010
+}

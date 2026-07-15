@@ -1,0 +1,6 @@
+company_permanent: company.permanent.transam
+{
+	name: "Transam"
+	sort_name: "transam"
+	trailer_look: transam
+}

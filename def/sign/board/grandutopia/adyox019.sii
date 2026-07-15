@@ -1,0 +1,54 @@
+SiiNunit
+{
+sign_board_template : _nameless.210.ccda.24b0 {
+ board_name: adyox019
+ width: 4
+ height: 1
+ model_name: ""
+ items: 2
+ items[0]: _nameless.210.b730.8820
+ items[1]: _nameless.210.cce3.cc50
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.210.b730.8820 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 3
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2690252799
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fb1ea40
+ coords_r: &40260dd7
+ coords_t: &3f54b6fa
+ coords_b: &3e2d241a
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.210.cce3.cc50 {
+ text: 350m
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3ebd70a4
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3d6147ae
+ id: 714473472
+ area_name: ""
+ area_idx: nil
+ coords_l: &403d9411
+ coords_r: 4
+ coords_t: &3f103fbd
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+}

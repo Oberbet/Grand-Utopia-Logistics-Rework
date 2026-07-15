@@ -1,0 +1,92 @@
+SiiNunit
+{
+sign_board_template : _nameless.1c1.dac9.79f0 {
+ board_name: adyox008
+ width: &4019999a
+ height: &3ee66666
+ model_name: ""
+ items: 4
+ items[0]: _nameless.1c1.2f71.09e0
+ items[1]: _nameless.1c1.2f77.5440
+ items[2]: _nameless.1c1.dac9.6b50
+ items[3]: _nameless.1c1.2f71.0e60
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1c1.2f71.09e0 {
+ text: DENVER
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3d4ccccd
+ id: 1208221696
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0e6ffe
+ coords_r: &4019999a
+ coords_t: &3ee66666
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1c1.2f77.5440 {
+ atlas_path: "/def/sign/atlas/picto1.sii"
+ image_idx: 8
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1723990015
+ area_name: ""
+ area_idx: nil
+ coords_l: &400147ae
+ coords_r: &40170a3d
+ coords_t: &3ec7ae14
+ coords_b: &3d4ccccd
+ z_order: 2
+ tag: ""
+}
+
+sign_template_frame : _nameless.1c1.dac9.6b50 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 1
+ id: 3381002238
+ area_name: ""
+ area_idx: nil
+ coords_l: &3dab386e
+ coords_r: &3ee4c91e
+ coords_t: &3eae2c1a
+ coords_b: &3de0e930
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.1c1.2f71.0e60 {
+ text: UK
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e6147ae
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 1957691391
+ area_name: ""
+ area_idx: nil
+ coords_l: &3da3d70a
+ coords_r: &3ee66666
+ coords_t: &3eae147b
+ coords_b: &3de147ae
+ z_order: 4
+ tag: ""
+}
+
+}

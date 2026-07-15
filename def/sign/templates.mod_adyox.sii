@@ -1,0 +1,807 @@
+SiiNunit
+{
+sign_template_def : sign_templ.adyox_00001 {
+ path: "/def/sign/template/adyox/adyox_t_st1.sii"
+}
+
+sign_template_def : sign_templ.adyox_00002 {
+ path: "/def/sign/template/adyox/adyox_t_st2.sii"
+}
+
+sign_template_def : sign_templ.adyox_00003 {
+ path: "/def/sign/template/adyox/adyox_t_st3.sii"
+}
+
+sign_template_def : sign_templ.adyox_00004 {
+ path: "/def/sign/template/adyox/adyox_t_st4.sii"
+}
+
+sign_template_def : sign_templ.adyox_00005 {
+ path: "/def/sign/template/adyox/adyox_t_st5.sii"
+}
+
+sign_template_def : sign_templ.adyox_00006 {
+ path: "/def/sign/template/adyox/adyox_t_st6.sii"
+}
+
+sign_template_def : sign_templ.adyox_00008 {
+ path: "/def/sign/template/adyox/adyox_t_st8.sii"
+}
+
+sign_template_def : sign_templ.adyox_00009 {
+ path: "/def/sign/template/adyox/adyox_t_st9.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000a {
+ path: "/def/sign/template/adyox/adyox_c_st1.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000b {
+ path: "/def/sign/template/adyox/adyox_c_st2.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000c {
+ path: "/def/sign/template/adyox/adyox_c_st3.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000d {
+ path: "/def/sign/template/adyox/adyox_c_st4.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000e {
+ path: "/def/sign/template/adyox/adyox_c_st5.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000f {
+ path: "/def/sign/template/adyox/adyox_c_st6.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000h {
+ path: "/def/sign/template/adyox/adyox_c_st8.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000i {
+ path: "/def/sign/template/adyox/adyox_c_st9.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000j {
+ path: "/def/sign/template/adyox/adyox_c_st10.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000k {
+ path: "/def/sign/template/adyox/adyox_c_st11.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000l {
+ path: "/def/sign/template/adyox/adyox_c_st12.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000m {
+ path: "/def/sign/template/adyox/adyox_c_st13.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000n {
+ path: "/def/sign/template/adyox/adyox_c_st14.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000o {
+ path: "/def/sign/template/adyox/adyox_c_st15.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000p {
+ path: "/def/sign/template/adyox/adyox_c_st16.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000q {
+ path: "/def/sign/template/adyox/adyox_c_st17.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000r {
+ path: "/def/sign/template/adyox/adyox_c_st18.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000s {
+ path: "/def/sign/template/adyox/adyox_c_st19.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000t {
+ path: "/def/sign/template/adyox/adyox_c_st20.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000u {
+ path: "/def/sign/template/adyox/adyox_n_st1.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000w {
+ path: "/def/sign/template/adyox/adyox_n_st2.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000x {
+ path: "/def/sign/template/adyox/adyox_n_st3.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000y {
+ path: "/def/sign/template/adyox/adyox_n_st4.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000z {
+ path: "/def/sign/template/adyox/adyox_n_st5.sii"
+}
+
+sign_template_def : sign_templ.adyox_00010 {
+ path: "/def/sign/template/adyox/adyox_n_st6.sii"
+}
+
+sign_template_def : sign_templ.adyox_00011 {
+ path: "/def/sign/template/adyox/adyox_n_st7.sii"
+}
+
+sign_template_def : sign_templ.adyox_00012 {
+ path: "/def/sign/template/adyox/adyox_n_st8.sii"
+}
+
+sign_template_def : sign_templ.adyox_00013 {
+ path: "/def/sign/template/adyox/adyox_n_st9.sii"
+}
+
+sign_template_def : sign_templ.adyox_0000g {
+ path: "/def/sign/template/adyox/adyox_n_st10.sii"
+}
+
+sign_template_def : sign_templ.adyox_00007 {
+ path: "/def/sign/template/adyox/adyox_t_st7.sii"
+}
+
+sign_template_def : sign_templ.adyox_00014 {
+ path: "/def/sign/template/adyox/adyox_c_st21.sii"
+}
+
+sign_template_def : sign_templ.adyox_00015 {
+ path: "/def/sign/template/adyox/adyox_n_st11.sii"
+}
+
+sign_template_def : sign_templ.adyox_00016 {
+ path: "/def/sign/template/adyox/adyox_n_st12.sii"
+}
+
+sign_template_def : sign_templ.adyox_00017 {
+ path: "/def/sign/template/adyox/adyox_n_st13.sii"
+}
+
+sign_template_def : sign_templ.adyox_00018 {
+ path: "/def/sign/template/adyox/adyox_n_st14.sii"
+}
+
+sign_template_def : sign_templ.adyox_00019 {
+ path: "/def/sign/template/adyox/adyox_n_st15.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001a {
+ path: "/def/sign/template/adyox/adyox_n_st16.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001b {
+ path: "/def/sign/template/adyox/adyox_n_st17.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001c {
+ path: "/def/sign/template/adyox/adyox_n_st18.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001d {
+ path: "/def/sign/template/adyox/adyox_n_st19.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001e {
+ path: "/def/sign/template/adyox/adyox_n_st20.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001f {
+ path: "/def/sign/template/adyox/adyox_n_st21.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001g {
+ path: "/def/sign/template/adyox/adyox_n_st22.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001h {
+ path: "/def/sign/template/adyox/adyox_n_st23.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001i {
+ path: "/def/sign/template/adyox/adyox_n_st24.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001j {
+ path: "/def/sign/template/adyox/adyox_n_st25.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001k {
+ path: "/def/sign/template/adyox/adyox_n_st26.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001l {
+ path: "/def/sign/template/adyox/adyox_n_st27.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001m {
+ path: "/def/sign/template/adyox/adyox_n_st28.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001n {
+ path: "/def/sign/template/adyox/adyox_n_st29.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001o {
+ path: "/def/sign/template/adyox/adyox_n_st30.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001p {
+ path: "/def/sign/template/adyox/adyox_n_st31.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001q {
+ path: "/def/sign/template/adyox/adyox_n_st32.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001r {
+ path: "/def/sign/template/adyox/adyox_n_st33.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001s {
+ path: "/def/sign/template/adyox/adyox_n_st34.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001t {
+ path: "/def/sign/template/adyox/adyox_n_st35.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001u {
+ path: "/def/sign/template/adyox/adyox_n_st36.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001v {
+ path: "/def/sign/template/adyox/adyox_n_st37.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001w {
+ path: "/def/sign/template/adyox/adyox_n_st38.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001x {
+ path: "/def/sign/template/adyox/adyox_n_st39.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001y {
+ path: "/def/sign/template/adyox/adyox_n_st40.sii"
+}
+
+sign_template_def : sign_templ.adyox_0001z {
+ path: "/def/sign/template/adyox/adyox_n_st41.sii"
+}
+
+sign_template_def : sign_templ.adyox_00020 {
+ path: "/def/sign/template/adyox/adyox_n_st42.sii"
+}
+
+sign_template_def : sign_templ.adyox_00021 {
+ path: "/def/sign/template/adyox/adyox_n_st43.sii"
+}
+
+sign_template_def : sign_templ.adyox_00022 {
+ path: "/def/sign/template/adyox/adyox_n_st44.sii"
+}
+
+sign_template_def : sign_templ.adyox_00024 {
+ path: "/def/sign/template/adyox/adyox_n_st45.sii"
+}
+
+sign_template_def : sign_templ.adyox_00025 {
+ path: "/def/sign/template/adyox/adyox_n_st46.sii"
+}
+
+sign_template_def : sign_templ.adyox_00026 {
+ path: "/def/sign/template/adyox/adyox_n_st47.sii"
+}
+
+sign_template_def : sign_templ.adyox_00027 {
+ path: "/def/sign/template/adyox/adyox_n_st48.sii"
+}
+
+sign_template_def : sign_templ.adyox_00028 {
+ path: "/def/sign/template/adyox/adyox_n_st49.sii"
+}
+
+sign_template_def : sign_templ.adyox_00029 {
+ path: "/def/sign/template/adyox/adyox_n_st50.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002a {
+ path: "/def/sign/template/adyox/adyox_n_st51.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002b {
+ path: "/def/sign/template/adyox/adyox_n_st52.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002c {
+ path: "/def/sign/template/adyox/adyox_n_st53.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002d {
+ path: "/def/sign/template/adyox/adyox_n_st54.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002e {
+ path: "/def/sign/template/adyox/adyox_n_st55.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002f {
+ path: "/def/sign/template/adyox/adyox_n_st56.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002g {
+ path: "/def/sign/template/adyox/adyox_n_st57.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002h {
+ path: "/def/sign/template/adyox/adyox_n_st58.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002i {
+ path: "/def/sign/template/adyox/adyox_n_st59.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002j {
+ path: "/def/sign/template/adyox/adyox_n_st60.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002k {
+ path: "/def/sign/template/adyox/adyox_n_st61.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002l {
+ path: "/def/sign/template/adyox/adyox_n_st62.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002m {
+ path: "/def/sign/template/adyox/adyox_n_st63.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002n {
+ path: "/def/sign/template/adyox/adyox_n_st64.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002o {
+ path: "/def/sign/template/adyox/adyox_n_st65.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002p {
+ path: "/def/sign/template/adyox/adyox_n_st66.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002q {
+ path: "/def/sign/template/adyox/adyox_n_st67.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002r {
+ path: "/def/sign/template/adyox/adyox_n_st68.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002s {
+ path: "/def/sign/template/adyox/adyox_n_st69.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002t {
+ path: "/def/sign/template/adyox/adyox_n_st70.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002u {
+ path: "/def/sign/template/adyox/adyox_n_st71.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002v {
+ path: "/def/sign/template/adyox/adyox_n_st72.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002w {
+ path: "/def/sign/template/adyox/adyox_n_st73.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002x {
+ path: "/def/sign/template/adyox/adyox_n_st74.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002y {
+ path: "/def/sign/template/adyox/adyox_n_st75.sii"
+}
+
+sign_template_def : sign_templ.adyox_0002z {
+ path: "/def/sign/template/adyox/adyox_n_st76.sii"
+}
+
+sign_template_def : sign_templ.adyox_00030 {
+ path: "/def/sign/template/adyox/adyox_n_st77.sii"
+}
+
+sign_template_def : sign_templ.adyox_00031 {
+ path: "/def/sign/template/adyox/adyox_n_st78.sii"
+}
+
+sign_template_def : sign_templ.adyox_00032 {
+ path: "/def/sign/template/adyox/adyox_n_st79.sii"
+}
+
+sign_template_def : sign_templ.adyox_00033 {
+ path: "/def/sign/template/adyox/adyox_n_st80.sii"
+}
+
+sign_template_def : sign_templ.adyox_00034 {
+ path: "/def/sign/template/adyox/adyox_n_st81.sii"
+}
+
+sign_template_def : sign_templ.adyox_00035 {
+ path: "/def/sign/template/adyox/adyox_n_st82.sii"
+}
+
+sign_template_def : sign_templ.adyox_00036 {
+ path: "/def/sign/template/adyox/adyox_n_st83.sii"
+}
+
+sign_template_def : sign_templ.adyox_00037 {
+ path: "/def/sign/template/adyox/adyox_n_st84.sii"
+}
+
+sign_template_def : sign_templ.adyox_00038 {
+ path: "/def/sign/template/adyox/adyox_n_st85.sii"
+}
+
+sign_template_def : sign_templ.adyox_00039 {
+ path: "/def/sign/template/adyox/adyox_n_st86.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003a {
+ path: "/def/sign/template/adyox/adyox_n_st87.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003b {
+ path: "/def/sign/template/adyox/adyox_n_st88.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003c {
+ path: "/def/sign/template/adyox/adyox_n_st89.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003d {
+ path: "/def/sign/template/adyox/adyox_n_st90.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003e {
+ path: "/def/sign/template/adyox/adyox_n_st91.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003f {
+ path: "/def/sign/template/adyox/adyox_n_st92.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003g {
+ path: "/def/sign/template/adyox/adyox_n_st93.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003h {
+ path: "/def/sign/template/adyox/adyox_n_st94.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003i {
+ path: "/def/sign/template/adyox/adyox_n_st95.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003j {
+ path: "/def/sign/template/adyox/adyox_n_st96.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003k {
+ path: "/def/sign/template/adyox/adyox_n_st97.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003l {
+ path: "/def/sign/template/adyox/adyox_n_st98.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003m {
+ path: "/def/sign/template/adyox/adyox_n_st99.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003n {
+ path: "/def/sign/template/adyox/adyox_n_st100.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003o {
+ path: "/def/sign/template/adyox/adyox_n_st101.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003p {
+ path: "/def/sign/template/adyox/adyox_n_st102.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003q {
+ path: "/def/sign/template/adyox/adyox_n_st103.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003r {
+ path: "/def/sign/template/adyox/adyox_n_st104.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003s {
+ path: "/def/sign/template/adyox/adyox_n_st105.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003t {
+ path: "/def/sign/template/adyox/adyox_n_st106.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003u {
+ path: "/def/sign/template/adyox/adyox_n_st107.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003v {
+ path: "/def/sign/template/adyox/adyox_n_st108.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003w {
+ path: "/def/sign/template/adyox/adyox_n_st109.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003x {
+ path: "/def/sign/template/adyox/adyox_n_st110.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003y {
+ path: "/def/sign/template/adyox/adyox_n_st111.sii"
+}
+
+sign_template_def : sign_templ.adyox_0003z {
+ path: "/def/sign/template/adyox/adyox_n_st112.sii"
+}
+
+sign_template_def : sign_templ.adyox_00040 {
+ path: "/def/sign/template/adyox/adyox_n_st113.sii"
+}
+
+sign_template_def : sign_templ.adyox_00041 {
+ path: "/def/sign/template/adyox/adyox_n_st114.sii"
+}
+
+sign_template_def : sign_templ.adyox_00042 {
+ path: "/def/sign/template/adyox/adyox_n_st115.sii"
+}
+
+sign_template_def : sign_templ.adyox_00043 {
+ path: "/def/sign/template/adyox/adyox_n_st116.sii"
+}
+
+sign_template_def : sign_templ.adyox_00044 {
+ path: "/def/sign/template/adyox/adyox_n_st117.sii"
+}
+
+sign_template_def : sign_templ.adyox_00045 {
+ path: "/def/sign/template/adyox/adyox_n_st118.sii"
+}
+
+sign_template_def : sign_templ.adyox_00046 {
+ path: "/def/sign/template/adyox/adyox_n_st119.sii"
+}
+
+sign_template_def : sign_templ.adyox_00047 {
+ path: "/def/sign/template/adyox/adyox_n_st120.sii"
+}
+
+sign_template_def : sign_templ.adyox_00048 {
+ path: "/def/sign/template/adyox/adyox_n_st121.sii"
+}
+
+sign_template_def : sign_templ.adyox_00049 {
+ path: "/def/sign/template/adyox/adyox_n_st122.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004a {
+ path: "/def/sign/template/adyox/adyox_n_st123.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004b {
+ path: "/def/sign/template/adyox/adyox_n_st124.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004c {
+ path: "/def/sign/template/adyox/adyox_n_st125.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004d {
+ path: "/def/sign/template/adyox/adyox_n_st126.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004e {
+ path: "/def/sign/template/adyox/adyox_n_st127.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004f {
+ path: "/def/sign/template/adyox/adyox_n_st128.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004g {
+ path: "/def/sign/template/adyox/adyox_n_st129.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004h {
+ path: "/def/sign/template/adyox/adyox_n_st130.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004i {
+ path: "/def/sign/template/adyox/adyox_n_st131.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004j {
+ path: "/def/sign/template/adyox/adyox_n_st132.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004k {
+ path: "/def/sign/template/adyox/adyox_n_st133.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004l {
+ path: "/def/sign/template/adyox/adyox_n_st134.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004m {
+ path: "/def/sign/template/adyox/adyox_n_st135.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004n {
+ path: "/def/sign/template/adyox/adyox_n_st136.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004o {
+ path: "/def/sign/template/adyox/adyox_n_st137.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004p {
+ path: "/def/sign/template/adyox/adyox_n_st138.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004q {
+ path: "/def/sign/template/adyox/adyox_n_st139.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004r {
+ path: "/def/sign/template/adyox/adyox_n_st140.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004s {
+ path: "/def/sign/template/adyox/adyox_n_st141.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004t {
+ path: "/def/sign/template/adyox/adyox_n_st142.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004u {
+ path: "/def/sign/template/adyox/adyox_n_st143.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004v {
+ path: "/def/sign/template/adyox/adyox_n_st144.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004w {
+ path: "/def/sign/template/adyox/adyox_n_st145.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004x {
+ path: "/def/sign/template/adyox/adyox_n_st146.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004y {
+ path: "/def/sign/template/adyox/adyox_n_st147.sii"
+}
+
+sign_template_def : sign_templ.adyox_0004z {
+ path: "/def/sign/template/adyox/adyox_n_st148.sii"
+}
+
+sign_template_def : sign_templ.adyox_00050 {
+ path: "/def/sign/template/adyox/adyox_n_st149.sii"
+}
+
+sign_template_def : sign_templ.adyox_00051 {
+ path: "/def/sign/template/adyox/adyox_n_st150.sii"
+}
+
+sign_template_def : sign_templ.adyox_00052 {
+ path: "/def/sign/template/adyox/adyox_n_st151.sii"
+}
+
+sign_template_def : sign_templ.adyox_00053 {
+ path: "/def/sign/template/adyox/adyox_n_st152.sii"
+}
+
+sign_template_def : sign_templ.adyox_00054 {
+ path: "/def/sign/template/adyox/adyox_n_st153.sii"
+}
+
+sign_template_def : sign_templ.adyox_00055 {
+ path: "/def/sign/template/adyox/adyox_n_st154.sii"
+}
+
+sign_template_def : sign_templ.adyox_00056 {
+ path: "/def/sign/template/adyox/adyox_n_st155.sii"
+}
+
+sign_template_def : sign_templ.adyox_00057 {
+ path: "/def/sign/template/adyox/adyox_n_st156.sii"
+}
+
+sign_template_def : sign_templ.adyox_00058 {
+ path: "/def/sign/template/adyox/adyox_n_st157.sii"
+}
+
+sign_template_def : sign_templ.adyox_00059 {
+ path: "/def/sign/template/adyox/adyox_n_st158.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005a {
+ path: "/def/sign/template/adyox/adyox_n_st159.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005b {
+ path: "/def/sign/template/adyox/adyox_n_st160.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005c {
+ path: "/def/sign/template/adyox/adyox_n_st161.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005d {
+ path: "/def/sign/template/adyox/adyox_n_st162.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005e {
+ path: "/def/sign/template/adyox/adyox_n_st163.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005f {
+ path: "/def/sign/template/adyox/adyox_n_st164.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005g {
+ path: "/def/sign/template/adyox/adyox_n_st165.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005h {
+ path: "/def/sign/template/adyox/adyox_n_st166.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005i {
+ path: "/def/sign/template/adyox/adyox_n_st167.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005j {
+ path: "/def/sign/template/adyox/adyox_n_st168.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005k {
+ path: "/def/sign/template/adyox/adyox_n_st169.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005m {
+ path: "/def/sign/template/adyox/adyox_n_st171.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005n {
+ path: "/def/sign/template/adyox/adyox_n_st172.sii"
+}
+
+sign_template_def : sign_templ.adyox_0005o {
+ path: "/def/sign/template/adyox/adyox_n_st173.sii"
+}
+
+}

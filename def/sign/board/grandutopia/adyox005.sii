@@ -1,0 +1,72 @@
+SiiNunit
+{
+sign_board_template : _nameless.1c1.dac9.0fa0 {
+ board_name: adyox005
+ width: 4
+ height: &3f666666
+ model_name: ""
+ items: 3
+ items[0]: _nameless.1c1.2f71.a160
+ items[1]: _nameless.1c1.dac9.0b20
+ items[2]: _nameless.1c1.2f71.aca0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1c1.2f71.a160 {
+ text: DENVER
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f0ccccd
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3dcccccd
+ id: 387317760
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc2f5b4
+ coords_r: 4
+ coords_t: &3f666666
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.1c1.dac9.0b20 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 1
+ id: 166723584
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0dfc1c
+ coords_r: &3fa3f17f
+ coords_t: &3f2723af
+ coords_b: &3e7d0add
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.1c1.2f71.aca0 {
+ text: UK
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3da3d70a
+ id: 2731147263
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0ccccd
+ coords_r: &3fa3d70a
+ coords_t: &3f266666
+ coords_b: &3e800000
+ z_order: 3
+ tag: ""
+}
+
+}

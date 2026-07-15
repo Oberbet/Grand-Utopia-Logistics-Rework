@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .palmyre {
+ city: palmyre
+ prefab: 02cust
+}
+}

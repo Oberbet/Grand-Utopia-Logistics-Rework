@@ -1,0 +1,219 @@
+SiiNunit
+{
+
+### STREET PROPS ####################################################################################
+
+model_def : model.4051
+{
+	model_desc: "/custom_assets/ats_items/parking_machine1.pmd"
+	name: "ats parking machine"
+}
+
+### ROLLER COASTERS ####################################################################################
+
+model_def : model.tx_1t02k
+{
+	model_desc: "/model/panorama/tx_fort_worth/tx_fort_worth_six_flags_over3.pmd"
+	name: "jurassic tx fort worth six flags over3"
+
+	distance_scale: 50
+	distance_min: 800
+	distance_max: 1600
+}
+
+model_def : model.id_0k001
+{
+	model_desc: "/model/panorama/id_us95/id_rollercoaster.pmd"
+	name: "jurassic id rollercoaster"
+}
+
+model_def : model.2053
+{
+	model_desc: "/model/panorama/ca_la/la_santa-monica_pier_rcoaster01.pmd"
+	name: "jurassic rollercoaster la"
+}
+
+### WATERPARKS #########################################################################################
+
+model_def : model.tx_1m00j
+{
+	model_desc: "/model/building/aquapark/tx_aquapark_water_slide2.pmd"
+	name: "jurassic tx aquapark water slide2 mid"
+
+	color_variant: 4
+	color_variant[0]: "pink_cyan | *_c1 : 224,107,234 | *_c2 : 18,205,212 | *_c3 : 224,107,234"
+	color_variant[1]: "red_blue | *_c1 : 218,0,99 | *_c2 : 65,75,178 | *_c3 : 218,0,99"
+	color_variant[2]: "yelow_green | *_c1 : 249,237,41 | *_c2 : 14,167,12 | *_c3 : 249,237,41"
+	color_variant[3]: "grey | *_c1 : 230,230,230 | *_c2 : 128,128,128 | *_c3 : 230,230,230"
+
+	static_lod_path: 1
+	static_lod_name: 1
+	static_lod_path[0]: "/model/building/aquapark/tx_aquapark_water_slide2_lod1.pmd"
+	static_lod_name[0]: "LOD from 100m"
+
+	dynamic_lod_desc: 1
+	dynamic_lod_dist: 1
+	dynamic_lod_desc[0]: "/model/building/aquapark/tx_aquapark_water_slide2_lod1.pmd"
+	dynamic_lod_dist[0]: 100
+}
+
+model_def : model.tx_1m00k
+{
+	model_desc: "/model/building/aquapark/tx_aquapark_water_slide3.pmd"
+	name: "jurassic tx aquapark water slide3 mid"
+
+	color_variant: 3
+	color_variant[0]: "cyan_pear_green | *_c1 : 18,205,212 | *_c2 : 206,231,65 | *_c3 : 143,209,79"
+	color_variant[1]: "blue_cyan_green | *_c1 : 62,116,181 | *_c2 : 18,205,212 | *_c3 : 12,167,137"
+	color_variant[2]: "red_yellow_orange | *_c1 : 218,0,99 | *_c2 : 250,199,16 | *_c3 : 242,71,38"
+
+	static_lod_path: 1
+	static_lod_name: 1
+	static_lod_path[0]: "/model/building/aquapark/tx_aquapark_water_slide3_lod1.pmd"
+	static_lod_name[0]: "LOD from 100m"
+
+	dynamic_lod_desc: 1
+	dynamic_lod_dist: 1
+	dynamic_lod_desc[0]: "/model/building/aquapark/tx_aquapark_water_slide3_lod1.pmd"
+	dynamic_lod_dist[0]: 100
+}
+
+model_def : model.tx_1m00i
+{
+	model_desc: "/model/building/aquapark/tx_aquapark_water_slide1.pmd"
+	name: "jurassic tx aquapark water slide1 mid"
+
+	color_variant: 8
+	color_variant[0]: "cyan | *_c1 : 18,205,212"
+	color_variant[1]: "blue | *_c1 : 45,155,240"
+	color_variant[2]: "purple | *_c1 : 101,44,179"
+	color_variant[3]: "pink | *_c1 : 224,107,234"
+	color_variant[4]: "green | *_c1 : 56,166,26"
+	color_variant[5]: "yellow | *_c1 : 249,237,41"
+	color_variant[6]: "orange | *_c1 : 250,199,16"
+	color_variant[7]: "red | *_c1 : 221,62,34"
+
+	static_lod_path: 1
+	static_lod_name: 1
+	static_lod_path[0]: "/model/building/aquapark/tx_aquapark_water_slide1_lod1.pmd"
+	static_lod_name[0]: "LOD from 100m"
+
+	dynamic_lod_desc: 1
+	dynamic_lod_dist: 1
+	dynamic_lod_desc[0]: "/model/building/aquapark/tx_aquapark_water_slide1_lod1.pmd"
+	dynamic_lod_dist[0]: 100
+}
+
+model_def : model.ut_171
+{
+	model_desc: "/model/panorama/ut_salt_lake_city/ut_water_park.pmd"
+	name: "jurassic water park salt lake city"
+	dynamic_lod_desc[]: "/model/panorama/ut_salt_lake_city/ut_water_park_lod1.pmd"
+	dynamic_lod_dist[]: 200
+}
+
+### DINOSAURS ##########################################################################################
+
+model_def : model.or_131
+{
+	model_desc: "/model/panorama/or_newport/or_aquarium_statue1.pmd"
+	name: "jurassic aquarium statue"
+}
+
+model_def : model.ut_194
+{
+	model_desc: "/model/panorama/ut_vernal/ut_vernal_rex.pmd"
+	name: "jurassic t-rex"
+}
+
+model_def : model.ut_449
+{
+	model_desc: "/model/panorama/ut_vernal/ut_vernal_animal_statue_hipsolodon.pmd"
+	name: "jurassic hipsolodon"
+}
+
+model_def : model.ut_425
+{
+	model_desc: "/model/panorama/ut_moab/ut_moab_giants_dinos.pmd"
+	name: "jurassic giants dinos"
+}
+
+model_def : model.ut_131
+{
+	model_desc: "/model/panorama/ut_vernal/ut_fighting_dinos.pmd"
+	name: "jurassic fighting dinos"
+}
+
+model_def : model.ut_438
+{
+	model_desc: "/model/panorama/ut_vernal/ut_vernal_animal_statue_stegosaur.pmd"
+	name: "jurassic stegosaur"
+}
+
+model_def : model.ut_440
+{
+	model_desc: "/model/panorama/ut_vernal/ut_vernal_animal_statue_triceratops.pmd"
+	name: "jurassic triceratops"
+}
+
+model_def : model.mt_05002
+{
+	model_desc: "/model/panorama/mt_malta/mt_malta_museum_dinosaur_statue_1.pmd"
+	name: "jurassic mt malta museum dinosaur statue 1"
+}
+
+model_def : model.mt_05001
+{
+	model_desc: "/model/panorama/mt_malta/mt_malta_museum_dinosaur_statue_2.pmd"
+	name: "jurassic mt malta museum dinosaur statue 2"
+}
+
+model_def : model.wy_15001
+{
+	model_desc: "/model/panorama/wy_thermopolis/wy_thermopolis_raptor_statue.pmd"
+	name: "jurassic wy thermopolis raptor statue"
+
+	dynamic_lod_desc: 1
+	dynamic_lod_dist: 1
+	dynamic_lod_desc[0]: "/model/panorama/wy_thermopolis/wy_thermopolis_raptor_statue_lod1.pmd"
+	dynamic_lod_dist[0]: 50
+}
+
+model_def : model.co_05009
+{
+	model_desc: "/model/panorama/co_us40/co_us40_dinosaurs.pmd"
+	name: "jurassic co us40 dinosaurs"
+}
+
+model_def : model.co_0500b
+{
+	model_desc: "/model/panorama/co_us40/co_us40_dinosaurs2.pmd"
+	name: "jurassic co us40 dinosaurs2"
+}
+
+model_def : model.co_0q007
+{
+	model_desc: "/model/panorama/co_us385/co_dinosaur_townhall.pmd"
+	name: "jurassic co dinosaur townhall"
+}
+
+model_def : model.az_re_3k000
+{
+	model_desc: "/model/panorama/az_holbrook/az_holbrook_dino_02.pmd"
+	name: "jurassic az holbrook dino 02"
+
+	static_lod_path[]: "/model/panorama/az_holbrook/az_holbrook_dino_02_lod1.pmd"
+	static_lod_name[]: "LOD from 30m"
+
+	dynamic_lod_desc[]: "/model/panorama/az_holbrook/az_holbrook_dino_02_lod1.pmd"
+	dynamic_lod_dist[]: 30
+}
+
+model_def : model.az_30
+{
+	model_desc: "/model/panorama/holbrook/dino1.pmd"
+	name: "jurassic az dino1"
+}
+
+
+}

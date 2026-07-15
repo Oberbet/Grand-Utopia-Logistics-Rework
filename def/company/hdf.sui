@@ -1,0 +1,6 @@
+company_permanent: company.permanent.hdf
+{
+	name: "HDF Transports"
+	sort_name: "hdf"
+	trailer_look: severoatm_ru
+}

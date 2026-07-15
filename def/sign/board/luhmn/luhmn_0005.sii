@@ -1,0 +1,56 @@
+SiiNunit
+{
+sign_board_template : _nameless.27e.85af.40f8 {
+ board_name: "luhmn 0005"
+ width: &4021eb85
+ height: &3f51eb85
+ model_name: ""
+ items: 2
+ items[0]: _nameless.27e.8596.15a8
+ items[1]: _nameless.27e.8596.1228
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.27e.8596.15a8 {
+ text: " XXXX<br> XXXX"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 1690435583
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &4021eb84
+ coords_t: &3f51eb85
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.27e.8596.1228 {
+ text: "0,<sub>2</sub><br>0,<sub>2</sub>"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 3636199422
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fa0a8d9
+ coords_r: &400bb543
+ coords_t: &3f51eb84
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+}

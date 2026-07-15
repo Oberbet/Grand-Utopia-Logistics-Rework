@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .kenzie {
+ city: kenzie
+ prefab: dlc_fr_13
+}
+}

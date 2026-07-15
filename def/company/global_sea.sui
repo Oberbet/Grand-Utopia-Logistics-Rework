@@ -1,0 +1,6 @@
+company_permanent: company.permanent.global_sea
+{
+	name: "Global Sea Logistic"
+	sort_name: "global sea logistic"
+	trailer_look: global_sea
+}

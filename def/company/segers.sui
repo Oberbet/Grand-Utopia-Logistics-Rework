@@ -1,0 +1,6 @@
+company_permanent: company.permanent.segers
+{
+	name: "Transports Segers"
+	sort_name: "transports segers"
+	trailer_look: segers
+}

@@ -1,0 +1,160 @@
+SiiNunit
+{
+sign_board_template : _nameless.1ea.a609.5af0 {
+ board_name: "mygo b042"
+ width: &40200000
+ height: 2
+ model_name: ""
+ items: 7
+ items[0]: _nameless.1eb.2bae.1fb0
+ items[1]: _nameless.1ea.340e.5920
+ items[2]: _nameless.1ea.340e.65a0
+ items[3]: _nameless.1ea.7430.9880
+ items[4]: _nameless.1e9.053f.8740
+ items[5]: _nameless.1ea.8a53.f6a0
+ items[6]: _nameless.1e9.3ba3.5000
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1eb.2bae.1fb0 {
+ text: "100 m"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e2e147b
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3c75c28f
+ id: 1731330047
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff98c98
+ coords_r: &40200000
+ coords_t: &3e5b9a70
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1ea.340e.5920 {
+ atlas_path: "/def/sign/atlas/single_line_horizontal_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 308936704
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff66e08
+ coords_r: &40200000
+ coords_t: &3e8fc0c8
+ coords_b: &3e33ace7
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1ea.340e.65a0 {
+ atlas_path: "/def/sign/atlas/single_line_swe.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2867986430
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff196e9
+ coords_r: &3ffe63b5
+ coords_t: &3e72100d
+ coords_b: 0
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.1ea.7430.9880 {
+ atlas_path: "/def/sign/atlas/round_fr_gu1.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2992898046
+ area_name: ""
+ area_idx: nil
+ coords_l: &3dba3f98
+ coords_r: &3fd64643
+ coords_t: &3fcaa249
+ coords_b: 0
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.053f.8740 {
+ text: " LAFALAISE<br> SAINTE-AGN\xc3\x88S"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e4ccccd
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 4136108030
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40200000
+ coords_t: &3ffe67f1
+ coords_b: &3faac107
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.1ea.8a53.f6a0 {
+ text: "LA PALMYRE  "
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e4ccccd
+ text_halign: right
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 439091200
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40200000
+ coords_t: &3f955aed
+ coords_b: &3f017686
+ z_order: 6
+ tag: ""
+}
+
+sign_template_text : _nameless.1e9.3ba3.5000 {
+ text: "ARCELOR   <br>DISTRIBUTION   "
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e2e147b
+ text_halign: right
+ text_valign: top
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 1536425983
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40200000
+ coords_t: &3f402722
+ coords_b: &3e7f0a0c
+ z_order: 7
+ tag: ""
+}
+
+}

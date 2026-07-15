@@ -1,0 +1,18 @@
+SiiNunit
+{
+image_atlas : atlas.picto_parc1
+{
+  atlas_name: "picto parc d'attraction 1"
+  material_path: "/material/sign/atlas/mygo/picto_parc1.mat"
+  
+  # names
+  images_names: 1
+  images_names[0]: "picto parc d'attraction 1"
+  
+  # left right bottom top
+  images_coords: 1
+  images_coords[0]: (0, 256, 256, 0)
+
+
+}
+}

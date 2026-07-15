@@ -1,0 +1,6 @@
+company_permanent: company.permanent.jim_tps_frm
+{
+	name: "Jim Transport"
+	sort_name: "jim transport"
+	trailer_look: jim_tps
+}

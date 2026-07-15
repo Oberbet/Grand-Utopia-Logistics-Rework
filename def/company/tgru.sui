@@ -1,0 +1,6 @@
+company_permanent: company.permanent.tgru
+{
+	name: "T.R.G.U."
+	sort_name: "trgu"
+	trailer_look: tgru
+}

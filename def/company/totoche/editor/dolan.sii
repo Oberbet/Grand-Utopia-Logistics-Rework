@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .dolan {
+ city: dolan
+ prefab: 254
+}
+}

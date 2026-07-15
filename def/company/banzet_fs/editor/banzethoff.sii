@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .banzethoff {
+ city: banzethoff
+ prefab: 12cust
+}
+}

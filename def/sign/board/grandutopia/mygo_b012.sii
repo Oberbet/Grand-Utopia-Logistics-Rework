@@ -1,0 +1,74 @@
+SiiNunit
+{
+sign_board_template : _nameless.24e.bcff.c4a0 {
+ board_name: "mygo b012"
+ width: &3f30a3d7
+ height: &3e570a3d
+ model_name: ""
+ items: 3
+ items[0]: _nameless.24f.b1e3.d450
+ items[1]: _nameless.24f.b1e3.e3f0
+ items[2]: _nameless.249.afe2.1670
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.24f.b1e3.d450 {
+ atlas_path: "/def/sign/atlas/picto1.sii"
+ image_idx: 10
+ color: 2500134
+ opacity: 1
+ hflip: true
+ vflip: false
+ image_overridable: false
+ id: 108527616
+ area_name: ""
+ area_idx: nil
+ coords_l: &3d399d46
+ coords_r: &3e487f9a
+ coords_t: &3e389142
+ coords_b: &3cf3c7d4
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.24f.b1e3.e3f0 {
+ atlas_path: "/def/sign/atlas/ideo1.sii"
+ image_idx: 54
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1939603455
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ef5833a
+ coords_r: &3f2147af
+ coords_t: &3e389142
+ coords_b: &3cf3c7d4
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.249.afe2.1670 {
+ text: WC
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3e19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 3016359934
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3f2b6303
+ coords_t: &3e570a3d
+ coords_b: 0
+ z_order: 3
+ tag: ""
+}
+
+}

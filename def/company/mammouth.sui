@@ -1,0 +1,6 @@
+company_permanent: company.permanent.mammouth
+{
+	name: "Mammouth"
+	sort_name: "mammouth"
+	trailer_look: mammouth
+}

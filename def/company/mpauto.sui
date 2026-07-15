@@ -1,0 +1,6 @@
+company_permanent: company.permanent.mpauto
+{
+	name: "M&P Autodoprava"
+	sort_name: "mpauto"
+	trailer_look: mpauto
+}

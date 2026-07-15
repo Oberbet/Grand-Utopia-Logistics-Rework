@@ -1,0 +1,6 @@
+company_permanent: company.permanent.upg
+{
+	name: "Utopie Pétrole & Gaz"
+	sort_name: "upg"
+	trailer_look: upg
+}

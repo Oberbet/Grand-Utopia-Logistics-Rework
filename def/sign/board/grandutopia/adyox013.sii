@@ -1,0 +1,358 @@
+SiiNunit
+{
+sign_board_template : _nameless.21d.7633.98c0 {
+ board_name: adyox013
+ width: 4
+ height: 3
+ model_name: ""
+ items: 18
+ items[0]: _nameless.21d.763c.1c40
+ items[1]: _nameless.21d.7633.7af0
+ items[2]: _nameless.21d.793b.4fd0
+ items[3]: _nameless.21d.793b.4cd0
+ items[4]: _nameless.21d.7633.7b80
+ items[5]: _nameless.21d.7633.86c0
+ items[6]: _nameless.21d.793b.3710
+ items[7]: _nameless.21d.793b.4910
+ items[8]: _nameless.21d.793b.3110
+ items[9]: _nameless.21d.793b.4550
+ items[10]: _nameless.21d.793b.37d0
+ items[11]: _nameless.21d.7633.7ca0
+ items[12]: _nameless.21d.793b.5210
+ items[13]: _nameless.21d.7633.7dc0
+ items[14]: _nameless.21d.7633.7ee0
+ items[15]: _nameless.21d.7633.8240
+ items[16]: _nameless.21d.7633.8bd0
+ items[17]: _nameless.21d.793b.46d0
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.21d.763c.1c40 {
+ atlas_path: "/def/sign/atlas/chaseville_rdp.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2984509438
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fa35835
+ coords_r: &403ab2aa
+ coords_t: &4001b605
+ coords_b: &3e2832d8
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.21d.7633.7af0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 1
+ id: 565968896
+ area_name: ""
+ area_idx: nil
+ coords_l: &401db345
+ coords_r: &40738d7f
+ coords_t: &403a9958
+ coords_b: &402728e8
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.4fd0 {
+ text: CASTELNOIR
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3e851eb8
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 2338586623
+ area_name: ""
+ area_idx: nil
+ coords_l: &401d856d
+ coords_r: &4073c245
+ coords_t: &403aa227
+ coords_b: &40271ee7
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.4cd0 {
+ text: "S<sup>T</sup> SYLVESTRE<br>CAPPEL"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e6b851f
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &bcf5c28f
+ letter_spacing: &3c75c28f
+ id: 3788505086
+ area_name: ""
+ area_idx: nil
+ coords_l: &401de4af
+ coords_r: 4
+ coords_t: &40247d58
+ coords_b: &4007bfdf
+ z_order: 5
+ tag: ""
+}
+
+sign_template_frame : _nameless.21d.7633.7b80 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 2500134
+ opacity: 1
+ id: 3465150462
+ area_name: ""
+ area_idx: nil
+ coords_l: &400f819f
+ coords_r: &4015e805
+ coords_t: &3f24c818
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+sign_template_frame : _nameless.21d.7633.86c0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 5341952
+ opacity: 1
+ id: 3373137918
+ area_name: ""
+ area_idx: nil
+ coords_l: &3df80303
+ coords_r: &3f8c980f
+ coords_t: &402621a6
+ coords_b: &4012b136
+ z_order: 6
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.3710 {
+ text: ROMBAS
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3e851eb8
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3cf5c28f
+ id: 427032576
+ area_name: ""
+ area_idx: nil
+ coords_l: &3df3d640
+ coords_r: &3f8ce4f4
+ coords_t: &40262a75
+ coords_b: &4012a735
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.4910 {
+ text: "S<sup>TE</sup> MARIE    M."
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e6b851f
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &bcf5c28f
+ letter_spacing: &3c23d70a
+ id: 3585212414
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e0cf57c
+ coords_r: &3fe84cc5
+ coords_t: &4012c3d4
+ coords_b: &3ffac226
+ z_order: 8
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.3110 {
+ text: "?"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &bcf5c28f
+ letter_spacing: &3c23d70a
+ id: 2493906943
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f8ffe66
+ coords_r: &3fe84cc5
+ coords_t: &4012c3d4
+ coords_b: &3ff77a09
+ z_order: 9
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.4550 {
+ text: CHASEVILLE
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e6b851f
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &bcf5c28f
+ letter_spacing: &3ca3d70a
+ id: 572129280
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e0cf57c
+ coords_r: &3fe84cc5
+ coords_t: &4004ca9e
+ coords_b: &3fdecfb8
+ z_order: 10
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.37d0 {
+ text: DENVER
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e6b851f
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &bcf5c28f
+ letter_spacing: &3ca3d70a
+ id: 3683123198
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0aebca
+ coords_r: &3fe84cc5
+ coords_t: &3fd88580
+ coords_b: &3fae3063
+ z_order: 12
+ tag: ""
+}
+
+sign_template_frame : _nameless.21d.7633.7ca0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 1
+ id: 1629880319
+ area_name: ""
+ area_idx: nil
+ coords_l: &3df80303
+ coords_r: &3efe34ca
+ coords_t: &3fd42faa
+ coords_b: &3fb2548a
+ z_order: 11
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.5210 {
+ text: UK
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e6b851f
+ text_halign: center
+ text_valign: center
+ font_color: 15263976
+ font_opacity: 1
+ line_spacing: &bcf5c28f
+ letter_spacing: &3ca3d70a
+ id: 3123314686
+ area_name: ""
+ area_idx: nil
+ coords_l: &3df5c28f
+ coords_r: &3f000000
+ coords_t: &3fd403d1
+ coords_b: &3fb2bc22
+ z_order: 13
+ tag: ""
+}
+
+sign_template_frame : _nameless.21d.7633.7dc0 {
+ frame_path: "/def/sign/frame/dyxcadre.sii"
+ color: 2500134
+ opacity: 1
+ id: 327024640
+ area_name: ""
+ area_idx: nil
+ coords_l: &40498376
+ coords_r: 4
+ coords_t: &3eb632bc
+ coords_b: 0
+ z_order: 14
+ tag: ""
+}
+
+sign_template_frame : _nameless.21d.7633.7ee0 {
+ frame_path: "/def/sign/frame/dyxcadre.sii"
+ color: 2500134
+ opacity: 1
+ id: 545390592
+ area_name: ""
+ area_idx: nil
+ coords_l: &404a0feb
+ coords_r: &407f738b
+ coords_t: &3eb28d80
+ coords_b: &3be94f00
+ z_order: 15
+ tag: ""
+}
+
+sign_template_frame : _nameless.21d.7633.8240 {
+ frame_path: "/def/sign/frame/dyxcadre.sii"
+ color: 2500134
+ opacity: 1
+ id: 1311113216
+ area_name: ""
+ area_idx: nil
+ coords_l: &404aa849
+ coords_r: &407edb2d
+ coords_t: &3eadca95
+ coords_b: &3c868270
+ z_order: 16
+ tag: ""
+}
+
+sign_template_frame : _nameless.21d.7633.8bd0 {
+ frame_path: "/def/sign/frame/dyxcadre.sii"
+ color: 2500134
+ opacity: 1
+ id: 1846280191
+ area_name: ""
+ area_idx: nil
+ coords_l: &404af478
+ coords_r: 4
+ coords_t: &3ea75f39
+ coords_b: 0
+ z_order: 17
+ tag: ""
+}
+
+sign_template_text : _nameless.21d.793b.46d0 {
+ text: "100 m"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3e8f5c29
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 385613824
+ area_name: ""
+ area_idx: nil
+ coords_l: &404939a9
+ coords_r: 4
+ coords_t: &3ea60dd7
+ coords_b: 0
+ z_order: 18
+ tag: ""
+}
+
+}

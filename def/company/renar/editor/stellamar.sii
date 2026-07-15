@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .stellamar {
+ city: stellamar
+ prefab: dlc_balt_193
+}
+}

@@ -1,0 +1,6 @@
+company_permanent: company.permanent.crystal_soul
+{
+	name: "Crystal Soul Production"
+	sort_name: "crystal soul production"
+	trailer_look: crystal_soul
+}

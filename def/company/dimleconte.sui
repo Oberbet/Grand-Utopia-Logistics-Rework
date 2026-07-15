@@ -1,0 +1,6 @@
+company_permanent: company.permanent.dimleconte
+{
+	name: "Dimitri Leconte"
+	sort_name: "dimleconte"
+	trailer_look: nosko
+}

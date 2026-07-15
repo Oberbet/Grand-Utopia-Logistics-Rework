@@ -1,0 +1,56 @@
+SiiNunit
+{
+sign_board_template : _nameless.255.873e.0620 {
+ board_name: "mygo b048"
+ width: &40d00000
+ height: &3fd9999a
+ model_name: ""
+ items: 2
+ items[0]: _nameless.257.bb46.8aa0
+ items[1]: _nameless.256.8c52.4d50
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.257.bb46.8aa0 {
+ text: BUCAREST
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 241041408
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &3fd8266e
+ coords_b: &3f304cdc
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.256.8c52.4d50 {
+ text: BUDAPEST
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 1359085568
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &3f80b877
+ coords_b: &3bb87700
+ z_order: 2
+ tag: ""
+}
+
+}

@@ -1,0 +1,56 @@
+SiiNunit
+{
+sign_board_template : _nameless.1ae.d53f.ae50 {
+ board_name: "adyox c sb108"
+ width: &403a3d71
+ height: &3f051eb8
+ model_name: ""
+ items: 2
+ items[0]: _nameless.1ae.b7d6.6980
+ items[1]: _nameless.1ad.5215.cb80
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1ae.b7d6.6980 {
+ text: " CHIRAC"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 592183296
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &403a3d71
+ coords_t: &3f051eb8
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.1ad.5215.cb80 {
+ text: "0,<sub>2</sub>"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3e99999a
+ text_halign: right
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 0
+ line_spacing: 0
+ letter_spacing: &3ca3d70a
+ id: 3352952830
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fdf7cee
+ coords_r: &40216873
+ coords_t: &3f051eb8
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+}

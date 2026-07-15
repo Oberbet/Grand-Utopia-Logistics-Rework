@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .rivenchy {
+ city: rivenchy
+ prefab: dlc_it_135
+}
+}

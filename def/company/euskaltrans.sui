@@ -1,0 +1,6 @@
+company_permanent: company.permanent.euskaltrans
+{
+	name: "Euskaltrans"
+	sort_name: "euskaltrans"
+	trailer_look: euskaltrans
+}

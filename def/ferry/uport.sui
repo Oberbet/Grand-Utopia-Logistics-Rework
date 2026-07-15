@@ -1,0 +1,7 @@
+ferry_data: ferry.uport
+{
+	ferry_name: "Utopia Port"
+	ferry_name_localized: "@@Utopia Port@@"
+}
+
+

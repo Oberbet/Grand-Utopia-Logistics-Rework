@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .lavernay {
+ city: lavernay
+ prefab: dlc_balt_193
+}
+}

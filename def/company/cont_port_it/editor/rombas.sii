@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .rombas {
+ city: rombas
+ prefab: dlc_it_154
+}
+}

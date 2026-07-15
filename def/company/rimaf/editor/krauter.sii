@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .krauter {
+ city: krauter
+ prefab: dlc_balt_214
+}
+}

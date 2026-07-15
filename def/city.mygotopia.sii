@@ -1,0 +1,27 @@
+SiiNunit
+{
+#MAJOR CITIES ----------------------------------------
+
+@include "city/windfield.mygotopia.sui"
+
+#SMALL CITIES ----------------------------------------
+
+@include "city/libertybay.mygotopia.sui"
+@include "city/badwater.mygotopia.sui"
+@include "city/tworivers.mygotopia.sui"
+@include "city/paulsboro.mygotopia.sui"
+@include "city/foxhaven.mygotopia.sui"
+@include "city/kamelot.mygotopia.sui"
+
+#HAMLETS ---------------------------------------------
+
+@include "city/hillside.mygotopia.sui"
+@include "city/craterlake.mygotopia.sui"
+@include "city/westbank.mygotopia.sui"
+@include "city/bradfort.mygotopia.sui"
+@include "city/whitehouse.mygotopia.sui"
+@include "city/bully.mygotopia.sui"
+@include "city/oakwood.mygotopia.sui"
+@include "city/hemsey.mygotopia.sui"
+
+}

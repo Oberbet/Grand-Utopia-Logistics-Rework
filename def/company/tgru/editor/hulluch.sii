@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .hulluch {
+ city: hulluch
+ prefab: 31
+}
+}

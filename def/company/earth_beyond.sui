@@ -1,0 +1,6 @@
+company_permanent: company.permanent.earth_beyond
+{
+	name: "Earth Beyond"
+	sort_name: "earth beyond"
+	trailer_look: earth_beyond
+}

@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .clerlande {
+ city: clerlande
+ prefab: 80
+}
+}

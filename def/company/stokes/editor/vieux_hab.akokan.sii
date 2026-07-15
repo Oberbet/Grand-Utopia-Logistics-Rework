@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .vieux_hab {
+ city: vieux_hab
+ prefab: at_0j004
+}
+}

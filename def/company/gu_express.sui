@@ -1,0 +1,6 @@
+company_permanent: company.permanent.gu_express
+{
+	name: "Grand Utopia Express"
+	sort_name: "gu express"
+	trailer_look: gu_express
+}

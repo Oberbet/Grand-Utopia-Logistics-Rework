@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .malterre{
+ city: malterre
+ prefab: dlc_it_144
+}
+}

@@ -1,0 +1,70 @@
+SiiNunit
+{
+sign_board_template : _nameless.23b.6f7f.5ff0 {
+ board_name: "mygo b050"
+ width: &403a3d71
+ height: &3f051eb8
+ model_name: ""
+ items: 3
+ items[0]: _nameless.23b.73e2.5900
+ items[1]: _nameless.23b.df77.e5b0
+ items[2]: _nameless.23b.a8f3.1090
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.23b.73e2.5900 {
+ atlas_path: "/def/sign/atlas/truck_parking_fr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: true
+ id: 2410938367
+ area_name: ""
+ area_idx: nil
+ coords_l: &3d8571e6
+ coords_r: &3edf7292
+ coords_t: &3ee06a4c
+ coords_b: &3d8950d0
+ z_order: 2
+ tag: ""
+}
+
+sign_template_frame : _nameless.23b.df77.e5b0 {
+ frame_path: "/def/sign/frame/dyxcarre.sii"
+ color: 10707217
+ opacity: 1
+ id: 1695416319
+ area_name: ""
+ area_idx: nil
+ coords_l: &3d56c680
+ coords_r: &3edbb8d4
+ coords_t: &3ee6edf8
+ coords_b: &3d9837de
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.23b.a8f3.1090 {
+ text: LEZOUX
+ font_face: "/font/sign/dyxfr_caracteresl2.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3ca3d70a
+ id: 775159808
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f024a08
+ coords_r: &403a3d71
+ coords_t: &3f051eb8
+ coords_b: 0
+ z_order: 3
+ tag: ""
+}
+
+}

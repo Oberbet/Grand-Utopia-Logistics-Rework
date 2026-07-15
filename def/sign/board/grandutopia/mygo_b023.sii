@@ -1,0 +1,116 @@
+SiiNunit
+{
+sign_board_template : _nameless.1a3.33d8.e9c0 {
+ board_name: "mygo b023"
+ width: &40d00000
+ height: &40133333
+ model_name: ""
+ items: 5
+ items[0]: _nameless.1a8.7000.8e90
+ items[1]: _nameless.1a8.7000.a790
+ items[2]: _nameless.1a7.ce72.ad00
+ items[3]: _nameless.1a8.7000.9430
+ items[4]: _nameless.1a7.ce72.be40
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.1a8.7000.8e90 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 3
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 984219648
+ area_name: ""
+ area_idx: nil
+ coords_l: &3eb8f834
+ coords_r: &3fc80289
+ coords_t: &3f6a79db
+ coords_b: &3e830730
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1a8.7000.a790 {
+ atlas_path: "/def/sign/atlas/picto2.sii"
+ image_idx: 3
+ color: 2500134
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2816606207
+ area_name: ""
+ area_idx: nil
+ coords_l: &409dff5d
+ coords_r: &40c4b278
+ coords_t: &3f6a79db
+ coords_b: &3e80c328
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.1a7.ce72.ad00 {
+ text: "RIO DE JANERO"
+ font_face: "/font/sign/dyxfr_caracteresl1.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 1461452799
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &40d00000
+ coords_t: &4009a2bc
+ coords_b: &3f9cb574
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.1a8.7000.9430 {
+ atlas_path: "/def/sign/atlas/toll_fr.sii"
+ image_idx: 0
+ color: 2500134
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2011693055
+ area_name: ""
+ area_idx: nil
+ coords_l: &402c7a90
+ coords_r: &40740965
+ coords_t: &3fb84c22
+ coords_b: &3f811ec6
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.1a7.ce72.be40 {
+ text: "1500 m"
+ font_face: "/font/sign/dyxfr_caracteresl4scs.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: 2500134
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: &3d75c28f
+ id: 1490157567
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc8867e
+ coords_r: &409e205c
+ coords_t: &3f1cb574
+ coords_b: &3d9cb574
+ z_order: 5
+ tag: ""
+}
+
+}

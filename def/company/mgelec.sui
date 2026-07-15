@@ -1,0 +1,6 @@
+company_permanent: company.permanent.mgelec
+{
+	name: "Mygotopian Electricity"
+	sort_name: "mygotopian electricity"
+	trailer_look: mgelec
+}

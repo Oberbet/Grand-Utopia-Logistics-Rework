@@ -1,0 +1,6 @@
+company_permanent: company.permanent.casania
+{
+	name: "Lixourio Distribution"
+	sort_name: "lixourio distribution"
+	trailer_look: casania
+}

@@ -1,0 +1,20 @@
+SiiNunit
+{
+sign_template : _nameless.286.df17.af70 {
+ template_name: mygo039
+ model_name: dyxgu_s430
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 1
+ boards[0]: _nameless.285.c76e.9890
+ traffic_rule_lane_count: nil
+ items: 0
+ dynamic_attributes: 0
+}
+
+sign_template_board_binding : _nameless.285.c76e.9890 {
+ area_name: d42_type2c
+ linked_board: sign_board.mygo_00014
+}
+
+}
