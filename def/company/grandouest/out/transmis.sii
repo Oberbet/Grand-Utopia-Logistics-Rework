@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .transmis {
- cargo: "cargo.transmis"
-}
-}

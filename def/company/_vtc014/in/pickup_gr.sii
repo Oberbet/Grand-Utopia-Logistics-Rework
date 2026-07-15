@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .pickup_gr {
- cargo: "cargo.pickup_gr"
-}
-}

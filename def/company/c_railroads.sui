@@ -1,6 +1,0 @@
-company_permanent: company.permanent.c_railroads
-{
-	name: "Continental Railroads"
-	sort_name: "c_railroads"
-	trailer_look: c_railroads
-}

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.tsl
-{
-	name: "TSL"
-	sort_name: "tsl"
-	trailer_look: ttk_bg
-}

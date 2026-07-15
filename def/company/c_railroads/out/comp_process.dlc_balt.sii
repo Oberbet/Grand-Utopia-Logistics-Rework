@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .comp_process {
- cargo: "cargo.comp_process"
-}
-}

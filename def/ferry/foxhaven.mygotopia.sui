@@ -1,8 +1,0 @@
-ferry_data: ferry.foxhaven
-{
-	ferry_name: "Foxhaven"
-	ferry_name_localized: "@@Foxhaven@@"
-	transport_type: "train"
-}
-
-

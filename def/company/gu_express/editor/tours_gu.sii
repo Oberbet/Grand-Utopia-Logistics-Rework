@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .tours_gu {
- city: tours_gu
- prefab: 01cust
-}
-}

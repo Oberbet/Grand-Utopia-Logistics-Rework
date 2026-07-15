@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .hi_volt_cabl {
- cargo: "cargo.hi_volt_cabl"
-}
-}

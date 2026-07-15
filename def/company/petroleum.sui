@@ -1,6 +1,0 @@
-company_permanent: company.permanent.petroleum
-{
-	name: "Oil Petroleum"
-	sort_name: "petroleum"
-	trailer_look: petroleum
-}

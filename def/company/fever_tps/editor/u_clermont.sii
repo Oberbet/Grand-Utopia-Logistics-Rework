@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .u_clermont {
- city: u_clermont
- prefab: dlc_fr_23
-}
-}

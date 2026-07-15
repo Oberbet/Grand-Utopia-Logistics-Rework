@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .carbn_pwdr_c {
- cargo: "cargo.carbn_pwdr_c"
-}
-}

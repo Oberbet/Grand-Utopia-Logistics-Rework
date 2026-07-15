@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.iliffe.portmeli {
-	price: 249
-	time: 73
-	distance: 14
-}
-}
-

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.alpha_ind
-{
-	name: "Alpha Industries"
-	sort_name: "AIS"
-	trailer_look: alpha_ind
-}

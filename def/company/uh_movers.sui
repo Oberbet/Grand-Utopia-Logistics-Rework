@@ -1,6 +1,0 @@
-company_permanent: company.permanent.uh_movers
-{
-	name: "Utopian Home Movers"
-	sort_name: "uh movers"
-	trailer_look: pk_medved_ru
-}

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.medina
-{
-	name: "Transports Medina"
-	sort_name: "medina"
-	trailer_look: medina
-}

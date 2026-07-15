@@ -1,6 +1,0 @@
-company_permanent: company.permanent.fabry
-{
-	name: "Transport Fabry"
-	sort_name: "fabry"
-	trailer_look: fabry
-}

@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .montbois {
- city: montbois
- prefab: dlc_it_99
-}
-}

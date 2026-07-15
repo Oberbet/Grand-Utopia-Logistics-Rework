@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .chirac {
- city: chirac
- prefab: dlc_it_158
-}
-}

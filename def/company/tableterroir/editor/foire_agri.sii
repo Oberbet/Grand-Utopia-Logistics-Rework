@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .foire_agri {
- city: foire_agri
- prefab: 0j000
-}
-}

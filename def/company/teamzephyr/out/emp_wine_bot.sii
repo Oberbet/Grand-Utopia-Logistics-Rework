@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .emp_wine_bot {
- cargo: "cargo.emp_wine_bot"
-}
-}

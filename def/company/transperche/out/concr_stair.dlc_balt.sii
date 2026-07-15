@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .concr_stair {
- cargo: "cargo.concr_stair"
-}
-}

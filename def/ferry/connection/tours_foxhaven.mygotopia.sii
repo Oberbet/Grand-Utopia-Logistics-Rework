@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.tours.foxhaven {
-	price: 350
-	time: 90
-	distance: 25
-}
-}
-

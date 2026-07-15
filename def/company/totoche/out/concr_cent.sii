@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .concr_cent {
- cargo: "cargo.concr_cent"
-}
-}

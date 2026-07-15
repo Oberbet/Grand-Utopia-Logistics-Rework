@@ -1,6 +1,0 @@
-company_permanent: company.permanent.mvtrucking
-{
-	name: "M&V Trucking"
-	sort_name: "mvtrucking"
-	trailer_look: mvtrucking
-}

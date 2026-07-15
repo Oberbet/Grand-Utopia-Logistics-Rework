@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .polyst_box {
- cargo: "cargo.polyst_box"
-}
-}

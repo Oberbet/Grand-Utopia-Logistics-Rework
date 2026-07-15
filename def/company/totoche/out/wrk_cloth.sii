@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .wrk_cloth {
- cargo: "cargo.wrk_cloth"
-}
-}

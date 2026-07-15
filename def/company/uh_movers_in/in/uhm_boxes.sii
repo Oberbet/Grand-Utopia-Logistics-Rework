@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .uhm_boxes {
- cargo: "cargo.uhm_boxes"
-}
-}

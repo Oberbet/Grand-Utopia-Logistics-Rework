@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .aelvinque {
- city: aelvinque
- prefab: dlc_fr_20
-}
-}

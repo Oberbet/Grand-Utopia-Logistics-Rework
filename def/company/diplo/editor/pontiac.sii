@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .pontiac {
- city: pontiac
- prefab: ibe250
-}
-}

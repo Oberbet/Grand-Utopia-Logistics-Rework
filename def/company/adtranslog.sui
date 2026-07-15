@@ -1,6 +1,0 @@
-company_permanent: company.permanent.adtranslog
-{
-	name: "AD TransLog"
-	sort_name: "ad translog"
-	trailer_look: adtranslog
-}

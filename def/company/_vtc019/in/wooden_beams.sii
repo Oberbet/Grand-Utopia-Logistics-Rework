@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .wooden_beams {
- cargo: "cargo.wooden_beams"
-}
-}

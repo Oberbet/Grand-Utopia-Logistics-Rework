@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .metal_cans {
- cargo: "cargo.metal_cans"
-}
-}

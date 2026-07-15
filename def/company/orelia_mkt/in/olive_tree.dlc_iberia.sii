@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .olive_tree {
- cargo: "cargo.olive_tree"
-}
-}

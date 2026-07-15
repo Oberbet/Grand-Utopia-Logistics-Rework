@@ -1,6 +1,0 @@
-company_permanent: company.permanent.turbo
-{
-	name: "Turbo Transports"
-	sort_name: "turbo transport"
-	trailer_look: turbo
-}

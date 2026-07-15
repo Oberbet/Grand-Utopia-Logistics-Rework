@@ -1,6 +1,0 @@
-company_permanent: company.permanent.ttge
-{
-	name: "Transports Butin et Fils"
-	sort_name: "transports butin et fils"
-	trailer_look: ttge
-}

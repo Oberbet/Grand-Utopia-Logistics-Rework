@@ -1,6 +1,0 @@
-company_permanent: company.permanent.trans_torre
-{
-	name: "Trans Torre"
-	sort_name: "trans torre"
-	trailer_look: trans_torre
-}

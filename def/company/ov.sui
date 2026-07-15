@@ -1,6 +1,0 @@
-company_permanent: company.permanent.ov
-{
-	name: "OV Alp'transports"
-	sort_name: "ov alp transports"
-	trailer_look: ov
-}

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.tps_ronchon
-{
-	name: "Transports Ronchon"
-	sort_name: "transports ronchon"
-	trailer_look: tps_ronchon
-}

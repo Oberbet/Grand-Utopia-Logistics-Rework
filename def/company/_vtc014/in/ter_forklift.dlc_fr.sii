@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .ter_forklift {
- cargo: "cargo.ter_forklift"
-}
-}

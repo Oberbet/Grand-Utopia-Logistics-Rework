@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .concen_juice {
- cargo: "cargo.concen_juice"
-}
-}

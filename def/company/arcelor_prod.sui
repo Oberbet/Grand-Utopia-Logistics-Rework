@@ -1,6 +1,0 @@
-company_permanent: company.permanent.arcelor_prod
-{
-	name: "Arcelor Distribution"
-	sort_name: "arcelor distribution"
-	trailer_look: arcelor
-}

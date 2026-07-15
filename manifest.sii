@@ -1,0 +1,17 @@
+SiiNunit
+{
+mod_manifest: .manifest
+{
+    name: "Grand Utopia Logistics Rework"
+    author: "Oberbet"
+    version: "1.0.0"
+    description: "Corrige a economia do Grand Utopia — empresas fantasmas ganham vida, rotas regionais, cadeias logísticas coerentes"
+    compatible_versions[]: "1.54.*"
+    compatible_versions[]: "1.55.*"
+    compatible_versions[]: "1.60.*"
+    tags[]: "cargo"
+    tags[]: "economy"
+    tags[]: "grand_utopia"
+    categories[]: "cargo"
+}
+}

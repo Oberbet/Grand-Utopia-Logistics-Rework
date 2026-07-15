@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .u_stade {
- city: u_stade
- prefab: dlc_it_100
-}
-}

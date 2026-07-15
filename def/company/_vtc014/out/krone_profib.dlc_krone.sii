@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .krone_profib {
- cargo: "cargo.krone_profib"
-}
-}

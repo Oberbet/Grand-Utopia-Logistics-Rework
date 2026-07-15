@@ -1,6 +1,0 @@
-company_permanent: company.permanent.tableterroir
-{
-	name: "La Table du Terroir"
-	sort_name: "table du terroir"
-	trailer_look: gu_express
-}

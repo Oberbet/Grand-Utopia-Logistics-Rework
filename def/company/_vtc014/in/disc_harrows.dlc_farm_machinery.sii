@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .disc_harrows {
- cargo: "cargo.disc_harrows"
-}
-}

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.lucas_trans
-{
-	name: "Lucas Transit"
-	sort_name: "lucas transit"
-	trailer_look: lucas_trans
-}

@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .forage_harv {
- cargo: "cargo.forage_harv"
-}
-}

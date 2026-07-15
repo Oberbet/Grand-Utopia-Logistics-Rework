@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .kamelot {
- city: kamelot
- prefab: 13cust
-}
-}

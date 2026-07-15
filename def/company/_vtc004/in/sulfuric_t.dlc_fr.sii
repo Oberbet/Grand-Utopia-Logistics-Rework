@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .sulfuric_t {
- cargo: "cargo.sulfuric_t"
-}
-}

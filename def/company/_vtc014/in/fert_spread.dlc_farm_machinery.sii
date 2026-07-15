@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .fert_spread {
- cargo: "cargo.fert_spread"
-}
-}

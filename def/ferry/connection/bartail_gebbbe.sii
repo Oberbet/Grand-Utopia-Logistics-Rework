@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.bartail.gebbbe {
-	price: 2
-	time: 1
-	distance: 1
-}
-}
-

@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .gavroche {
- city: gavroche
- prefab: dlc_it_110
-}
-}

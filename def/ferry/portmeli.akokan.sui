@@ -1,7 +1,0 @@
-ferry_data: ferry.portmeli
-{
-	ferry_name: "Port-Méli"
-	ferry_name_localized: "@@Port-Méli@@"
-}
-
-

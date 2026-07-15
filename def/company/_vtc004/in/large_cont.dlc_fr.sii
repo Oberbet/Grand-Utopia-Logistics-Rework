@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .large_cont {
- cargo: "cargo.large_cont"
-}
-}

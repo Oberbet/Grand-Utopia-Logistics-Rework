@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .krone_box {
- cargo: "cargo.krone_box"
-}
-}

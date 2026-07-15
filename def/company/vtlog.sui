@@ -1,6 +1,0 @@
-company_permanent: company.permanent.vtlog
-{
-	name: "VTLOG"
-	sort_name: "vtlog"
-	trailer_look: vtlog
-}

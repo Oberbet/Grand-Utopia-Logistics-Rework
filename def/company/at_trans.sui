@@ -1,6 +1,0 @@
-company_permanent: company.permanent.at_trans
-{
-	name: "AT Transports"
-	sort_name: "at transports"
-	trailer_look: at_trans
-}

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.sirenbay
-{
-	name: "The Siren Bay"
-	sort_name: "sirenbay"
-	trailer_look: sirenbay
-}

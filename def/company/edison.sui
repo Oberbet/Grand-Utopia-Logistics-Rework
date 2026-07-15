@@ -1,6 +1,0 @@
-company_permanent: company.permanent.edison
-{
-	name: "Edison"
-	sort_name: "edison"
-	trailer_look: edison
-}

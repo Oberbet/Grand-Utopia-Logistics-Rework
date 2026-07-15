@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .brake_pads {
- cargo: "cargo.brake_pads"
-}
-}

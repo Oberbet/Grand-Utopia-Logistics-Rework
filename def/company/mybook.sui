@@ -1,6 +1,0 @@
-company_permanent: company.permanent.mybook
-{
-	name: "MyBook"
-	sort_name: "MyBook"
-	trailer_look: mybook
-}

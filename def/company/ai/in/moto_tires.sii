@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .moto_tires {
- cargo: "cargo.moto_tires"
-}
-}

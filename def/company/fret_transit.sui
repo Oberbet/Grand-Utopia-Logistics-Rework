@@ -1,6 +1,0 @@
-company_permanent: company.permanent.fret_transit
-{
-	name: "Fret Transit"
-	sort_name: "fret transit"
-	trailer_look: fret_transit
-}

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.owl
-{
-	name: "Owl"
-	sort_name: "owl"
-	trailer_look: owl
-}

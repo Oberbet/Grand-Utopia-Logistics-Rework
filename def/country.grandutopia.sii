@@ -1,5 +1,0 @@
-﻿SiiNunit
-{
-@include "country/grandutopia.sui"
-@include "country/akokan.sui"
-}

@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .krewit {
- city: krewit
- prefab: 33
-}
-}

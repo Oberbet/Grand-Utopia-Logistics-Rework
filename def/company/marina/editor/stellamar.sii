@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .stellamar {
- city: stellamar
- prefab: 454
-}
-}

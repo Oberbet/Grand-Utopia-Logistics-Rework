@@ -1,6 +1,0 @@
-company_permanent: company.permanent.mobler
-{
-	name: "MÖBLER"
-	sort_name: "mobler"
-	trailer_look: mobler
-}

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.tps_mrk
-{
-	name: "Transport MRK"
-	sort_name: "transport mrk"
-	trailer_look: tps_mrk
-}

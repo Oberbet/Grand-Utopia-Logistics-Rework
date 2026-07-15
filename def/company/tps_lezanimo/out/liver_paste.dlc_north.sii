@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .liver_paste {
- cargo: "cargo.liver_paste"
-}
-}

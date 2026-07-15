@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .paradis {
- city: paradis
- prefab: dlc_it_99
-}
-}

@@ -1,6 +1,0 @@
-company_permanent: company.permanent.rocheron
-{
-	name: "Rocheron Transport"
-	sort_name: "rocheron transports"
-	trailer_look: rocheron
-}

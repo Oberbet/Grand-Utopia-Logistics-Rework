@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .conc_juice_t {
- cargo: "cargo.conc_juice_t"
-}
-}

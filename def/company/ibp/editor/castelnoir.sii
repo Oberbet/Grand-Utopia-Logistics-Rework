@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .castelnoir {
- city: castelnoir
- prefab: dlc_it_141
-}
-}

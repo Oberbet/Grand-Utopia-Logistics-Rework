@@ -1,6 +1,0 @@
-company_permanent: company.permanent.butin_fils
-{
-	name: "Transport Butin & Fils"
-	sort_name: "Tps Butin & Fils"
-	trailer_look: butin_fils
-}

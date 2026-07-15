@@ -1,6 +1,0 @@
-company_permanent: company.permanent.tps_lezanimo
-{
-	name: "Transports Lezanimo"
-	sort_name: "transports lezanimo"
-	trailer_look: tps_lezanimo
-}

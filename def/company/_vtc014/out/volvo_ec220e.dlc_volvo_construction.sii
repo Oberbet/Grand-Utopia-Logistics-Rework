@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .volvo_ec220e {
- cargo: "cargo.volvo_ec220e"
-}
-}

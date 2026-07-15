@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .westbank {
- city: westbank
- prefab: 07cust
-}
-}

@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .egeskov {
- city: egeskov
- prefab: dlc_balt_214
-}
-}

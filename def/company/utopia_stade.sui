@@ -1,6 +1,0 @@
-company_permanent: company.permanent.utopia_stade
-{
-	name: "Compagnie du Stade d'Utopia"
-	sort_name: "compagnie du stade d'utopia"
-	trailer_look: utopia_stade
-}

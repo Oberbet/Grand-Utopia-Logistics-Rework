@@ -1,6 +1,0 @@
-company_permanent: company.permanent.frc
-{
-	name: "FRC"
-	sort_name: "frc"
-	trailer_look: frc
-}

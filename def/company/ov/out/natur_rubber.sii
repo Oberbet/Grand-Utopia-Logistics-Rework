@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .natur_rubber {
- cargo: "cargo.natur_rubber"
-}
-}

@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .desinfection {
- cargo: "cargo.desinfection"
-}
-}

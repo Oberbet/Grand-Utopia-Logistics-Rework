@@ -1,6 +1,0 @@
-company_permanent: company.permanent.fever_tps
-{
-	name: "Fever Transport"
-	sort_name: "fever transport"
-	trailer_look: fever_tps
-}

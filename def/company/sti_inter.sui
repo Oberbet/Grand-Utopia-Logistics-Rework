@@ -1,6 +1,0 @@
-company_permanent: company.permanent.sti_inter
-{
-	name: "STI Inter"
-	sort_name: "sti inter"
-	trailer_look: sti_inter
-}

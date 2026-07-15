@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .diesel_gen {
- cargo: "cargo.diesel_gen"
-}
-}

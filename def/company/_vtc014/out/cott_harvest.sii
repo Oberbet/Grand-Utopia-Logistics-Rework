@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .cott_harvest {
- cargo: "cargo.cott_harvest"
-}
-}

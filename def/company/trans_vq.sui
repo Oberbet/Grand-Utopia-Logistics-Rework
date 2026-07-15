@@ -1,6 +1,0 @@
-company_permanent: company.permanent.trans_vq
-{
-	name: "Transports24"
-	sort_name: "trans vq"
-	trailer_look: tps_vq
-}

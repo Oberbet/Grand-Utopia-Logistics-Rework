@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .vieux_hab {
- city: vieux_hab
- prefab: dlc_blke_298
-}
-}

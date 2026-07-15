@@ -1,6 +1,0 @@
-company_permanent: company.permanent.foggy_tps
-{
-	name: "Foggy Transports"
-	sort_name: "Foggy Transports"
-	trailer_look: foggy_tps
-}

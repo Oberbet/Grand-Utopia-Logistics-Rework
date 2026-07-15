@@ -1,6 +1,0 @@
-company_permanent: company.permanent.bforb
-{
-	name: "Transports BfB"
-	sort_name: "bforb"
-	trailer_look: fintyre_ru
-}

@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .scania_tr {
- cargo: "cargo.scania_tr"
-}
-}

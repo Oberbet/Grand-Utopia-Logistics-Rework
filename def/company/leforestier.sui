@@ -1,6 +1,0 @@
-company_permanent: company.permanent.leforestier
-{
-	name: "Transport Le Forestier"
-	sort_name: "leforestier"
-	trailer_look: leforestier
-}

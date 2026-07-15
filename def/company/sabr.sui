@@ -1,6 +1,0 @@
-company_permanent: company.permanent.sabr
-{
-	name: "SABR Logistics"
-	sort_name: "sabr"
-	trailer_look: sabr
-}

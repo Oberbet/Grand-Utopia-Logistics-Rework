@@ -1,7 +1,0 @@
-SiiNunit
-{
-company_def : .sulikow {
- city: sulikow
- prefab: dlc_balt_192
-}
-}
