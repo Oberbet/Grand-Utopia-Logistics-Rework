@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .foxhaven {
+ city: foxhaven
+ prefab: d_cust_1
+}
+}
