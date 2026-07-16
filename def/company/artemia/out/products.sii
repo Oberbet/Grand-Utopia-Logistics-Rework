@@ -1,0 +1,1 @@
+SiiNunit{ cargo_def : .products { cargo: "cargo.products" } }
