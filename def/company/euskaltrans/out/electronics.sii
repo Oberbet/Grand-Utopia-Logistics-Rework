@@ -1,6 +1,1 @@
-SiiNunit
-{
-cargo_def : .electronics {
- cargo: "cargo.electronics"
-}
-}
+SiiNunit{ cargo_def : .electronics { cargo: "cargo.electronics" } }
