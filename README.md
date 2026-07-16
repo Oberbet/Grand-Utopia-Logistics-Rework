@@ -48,49 +48,41 @@ A **Enois** (presente nas cidades portuárias) foi configurada como **importador
 | Café, Açúcar, Suco de Laranja | Vinho, Queijo |
 | Etanol, Minério de Ferro, Soja | Máquinas, Eletrônicos, Peças |
 
+### Fase 4 — Especialização de Distribuidoras ✔️
+
+Todas as 27 distribuidoras foram segmentadas por categoria:
+
+| Cadeia | Distribuidoras | Cidades | Cargas |
+|--------|---------------|---------|--------|
+| 🥩 Carnes | crm, ladoga, rimaf | 7 | 7 tipos de carne |
+| 🧀 Laticínios | casania, rocheron, rosmark | 6 | 7 laticínios |
+| 🌾 Grãos/Cereais | domdepo, globeur, sag_tre | 11 | 6 grãos |
+| 🍎 Frutas/Verduras | log_atlan, low_field, suprema | 11 | 14 hortifrúti |
+| ❄️ Congelados | trameri, universsim, zelenye | 10 | 5 congelados |
+| 🚗 Veículos | totoche, tdf | 8 | 10 veículos/peças |
+| 🏗️ Construção | transacantal, trasmatech, grandouest | 25 | 12 materiais |
+| ⛽ Química | sjlog, lisette_log, nos_pat | 22 | 13 químicos |
+| 🪑 Madeira/Móveis | lostboys, teamzephyr, syllurgy | 14 | 9 madeira/móveis |
+| 🛒 Alimentos | **euskaltrans** | **23** 🚀 | 27 itens supermercado |
+
+> **euskaltrans:** Hub alimentício que abastece supermercados em 23 cidades. Leva alimentos, bebidas, laticínios, carnes, grãos, frutas, roupas, material de escritório e produtos de limpeza — tudo que um hipermercado precisa.
+
 ---
 
-## 🚧 O que está em desenvolvimento (WIP)
-
-### Fase 4 — Especialização de Distribuidoras 🔄
-
-Atualmente, todas as transportadoras têm a mesma lista genérica de cargas. Estamos especializando cada uma num segmento específico:
-
-| Cadeia | Distribuidoras | Cidades |
-|--------|---------------|---------|
-| 🥩 Carnes | crm, ladoga, rimaf | 2+2+3 |
-| 🧀 Laticínios | casania, rocheron, rosmark | 3+1+2 |
-| 🌾 Grãos/Cereais | domdepo, globeur, sag_tre | 7+3+1 |
-| 🍎 Frutas/Verduras | log_atlan, low_field, suprema | 3+6+2 |
-| ❄️ Congelados | trameri, universsim, zelenye | 4+5+1 |
-| 🛒 **Alimentos + Supermercado** | **euskaltrans** | **23** 🚀 |
-| 🚗 Veículos | totoche, tdf | 4+4 |
-| 🏗️ Construção | transacantal, trasmatech, grandouest | 9+10+6 |
-| ⛽ Química | sjlog, lisette_log, nos_pat | 5+5+12 |
-| 🪑 Madeira/Móveis | lostboys, teamzephyr, syllurgy | 6+5+3 |
-| 🇧🇷 Importadora | **enois** | Portos |
-
-> **euskaltrans:** Alimentos + itens de supermercado (bebidas, laticínios, carnes, frutas, grãos, roupas, material de escritório, produtos de limpeza). Abastece supermercados e mercados locais em 23 cidades.
-
-**27 empresas sendo especializadas. WIP.**
+## 🚧 Em desenvolvimento
 
 ### Fase 5 — Penistone como petroleira 🛢️
-
-A empresa Penistone (Windfield) será convertida de loja genérica para petroleira/distribuidora de combustíveis.
-
-### Fase 6 — Gocamping
-
-A gocamping (Kamelot, Foxhaven) será readequada conforme avaliação do cenário no mapa.
+### Fase 6 — Gocamping (readequação conforme cenário)
 
 ---
 
 ## 📦 Instalação
 
-1. **Baixe** o arquivo `.scs` da [aba Releases](https://github.com/Oberbet/Grand-Utopia-Logistics-Rework/releases) ou da Steam Workshop (assim que publicado)
+1. **Baixe** o arquivo `.scs` da [aba Releases](https://github.com/Oberbet/Grand-Utopia-Logistics-Rework/releases) ou da [Steam Workshop]()
 2. **Copie** para `Documents/Euro Truck Simulator 2/mod/`
 3. **Ative** no Gerenciador de Mods com prioridade **MAIOR que o Grand Utopia** (mod mais abaixo na lista)
 
-> ⚠️ **Sempre baixe do repositório oficial ou da Steam Workshop.** Evite download de sites terceiros — você pode baixar uma versão desatualizada ou modificada sem seu conhecimento.
+> ⚠️ **Sempre baixe do repositório oficial ou da Steam Workshop.** Evite download de sites terceiros.
 
 ### Ordem de carregamento
 
@@ -99,8 +91,9 @@ A gocamping (Kamelot, Foxhaven) será readequada conforme avaliação do cenári
   Grand Utopia (mapa base)
 
 [base — maior prioridade]
-  Grand Utopia Logistics Rework
+  Grand Utopia Logistics Rework ← este mod
   Akokan Island (se tiver)
+  Patrons Island (se tiver)
   Outros mods
 ```
 
@@ -136,10 +129,10 @@ Consulte o arquivo [`MAPA_LOGISTICO.md`](MAPA_LOGISTICO.md) para diagramas detal
 ## 📊 Progresso Geral
 
 ```
-Fase 1 (Ativar fantasmas)    ████████████████████ 100%
-Fase 2 (Cadeias funcionais)  ████████████████████ 100%
-Fase 3 (Enois importadora)   ████████████████████ 100%
-Fase 4 (Especialização)      ██████░░░░░░░░░░░░░░  30% (WIP)
+Fase 1 (Ativar fantasmas)    ████████████████████ 100% ✔️
+Fase 2 (Cadeias funcionais)  ████████████████████ 100% ✔️
+Fase 3 (Enois importadora)   ████████████████████ 100% ✔️
+Fase 4 (Especialização)      ████████████████████ 100% ✔️
 Fase 5 (Penistone)           ░░░░░░░░░░░░░░░░░░░░   0%
 Fase 6 (Gocamping)           ░░░░░░░░░░░░░░░░░░░░   0%
 ```
@@ -156,6 +149,7 @@ Este mod é **open source**. Contribuições são bem-vindas!
 Grand-Utopia-Logistics-Rework/
 ├── README.md
 ├── manifest.sii
+├── thumbnail.png
 ├── MAPA_LOGISTICO.md
 │
 └── def/
@@ -196,8 +190,7 @@ cargo_def : .almond {
 **No Linux (bash):**
 
 ```bash
-# Cria in/out para uma transportadora
-for cargo in almonds apples beans beef beverages; do
+for cargo in almonds apples beans; do
   echo 'SiiNunit{ cargo_def : .'$cargo' { cargo: "cargo.'$cargo'" } }' > def/company/minha_empresa/in/$cargo.sii
   echo 'SiiNunit{ cargo_def : .'$cargo' { cargo: "cargo.'$cargo'" } }' > def/company/minha_empresa/out/$cargo.sii
 done
@@ -206,8 +199,7 @@ done
 **No Windows (PowerShell):**
 
 ```powershell
-# Cria in/out para uma transportadora
-$cargas = @("almonds","apples","beans","beef","beverages")
+$cargas = @("almonds","apples","beans")
 foreach ($c in $cargas) {
   $content = "SiiNunit{ cargo_def : .$c { cargo: `"cargo.$c`" } }"
   $content | Out-File -FilePath "def/company/minha_empresa/in/$c.sii" -Encoding ascii
@@ -220,7 +212,6 @@ foreach ($c in $cargas) {
 **No Linux:**
 
 ```bash
-# Na raiz do projeto
 cd Grand-Utopia-Logistics-Rework
 zip -r ../Grand-Utopia-Logistics-Rework-v1.0.0-beta.scs . -x ".git/*"
 ```
@@ -228,20 +219,17 @@ zip -r ../Grand-Utopia-Logistics-Rework-v1.0.0-beta.scs . -x ".git/*"
 **No Windows (PowerShell):**
 
 ```powershell
-# Na raiz do projeto
-Compress-Archive -Path * -DestinationPath ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.zip
-# Renomeie .zip para .scs
-Rename-Item ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.zip ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.scs
+Compress-Archive -Path * -DestinationPath ..\Grand-Utopia-Logistics-Rework.zip
+Rename-Item ..\Grand-Utopia-Logistics-Rework.zip ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.scs
 ```
 
-**No Windows (7-Zip — recomendado):**
+**No Windows (7-Zip):**
 
 ```powershell
-# Se tiver 7-Zip instalado em C:\Program Files\7-Zip\
 & "C:\Program Files\7-Zip\7z.exe" a -tzip ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.scs * -xr!".git"
 ```
 
-> O arquivo `.scs` é um `.zip` renomeado. O ETS2 aceita ambos os formatos.
+> O arquivo `.scs` é um `.zip` renomeado. O ETS2 aceita ambos.
 
 ---
 
