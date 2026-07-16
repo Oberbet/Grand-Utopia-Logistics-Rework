@@ -1,7 +1,6 @@
-
 # 🚛 Grand Utopia Logistics Rework
 
-> *Corrigindo a economia do Grand Utopia sem modificar uma única empresa — apenas ajustando o que cada uma produz e consome.*
+> *Corrigindo a economia do Grand Utopia — ativando empresas fantasmas, criando cadeias logísticas e especializando distribuidoras.*
 
 ---
 
@@ -9,169 +8,116 @@
 
 **Grand Utopia Logistics Rework** é um mod de correção econômica para o mapa **Grand Utopia** (por MyGodness).
 
-O Grand Utopia é um mapa espetacular — 268 empresas, 49 cidades, 7.500 km² de estradas meticulosamente construídas. Mas a economia do mapa tem um problema: **muitas empresas existem visualmente (prefabs 3D bonitos, skins personalizadas) mas não geram nem consomem cargas** — são "empresas fantasmas" na economia.
+O Grand Utopia é um mapa espetacular — 268 empresas, 49 cidades, 7.500 km² de estradas meticulosamente construídas. Mas **46% das empresas estavam mortas na economia**: existiam visualmente mas não geravam nem consumiam cargas.
 
-Este mod **não adiciona nem remove empresas**. Ele **corrige os inputs e outputs** de cada empresa existente para que:
-
-- ✅ Toda empresa tenha um propósito na economia
-- ✅ Cadeias logísticas façam sentido (fazenda → indústria → mercado → consumidor)
-- ✅ Cidades tenham fretes de **IDA e VOLTA** (não apenas exportação)
-- ✅ Regiões inteiras (como Mygotopia) ganhem vida econômica
+Este mod **não adiciona nem remove empresas**. Ele corrige os inputs e outputs de cada empresa para que **tudo tenha um propósito logístico**.
 
 ---
 
-## 🎯 Filosofia
+## ✅ O que o mod já faz
+
+### Fase 1 — Ressuscitar empresas fantasmas ✔️
+
+**156 empresas** que estavam completamente mortas na economia foram ativadas:
+
+- **Mygotopia completa** — Kamelot, Windfield, Foxhaven, Liberty Bay, Bad Water, Two Rivers, Bully, Oakwood, Westbank agora têm empresas funcionais
+- **Ilha Principal** — dezenas de cidades com indústrias, fazendas e comércios ativados
+- **Indústrias pesadas**: siderurgia, refinaria, química, estaleiros, fábrica de caminhões
+- **Agronegócio**: fazendas, pecuária, pedreiras, pescarias, serrarias
+- **Comércio**: supermercados, lojas de departamento, concessionárias, delicatessens
+- **Transporte**: dezenas de transportadoras conectando tudo
+
+### Fase 2 — Cadeias logísticas funcionais ✔️
+
+Cadeias produtivas completas foram estabelecidas:
 
 ```
-NÃO criamos empresas novas.
-NÃO modificamos prefabs, logos, ou skins.
-NÃO alteramos o mapa visualmente.
-
-Apenas CORRIGIMOS o que cada empresa PRODUZ e CONSOME.
-Tudo que você vê no jogo continua EXATAMENTE igual.
-Só que agora os fretes fazem sentido.
+Fazenda → Distribuidora de Carnes → Supermercados
+Serraria → Distribuidora de Móveis → Lojas
+Refinaria → Distribuidora Química → Postos + Indústrias
+Pedreira → Distribuidora de Construção → Construtoras
+Pesca → Distribuidora de Congelados → Peixarias + Mercados
 ```
 
----
+### Fase 3 — Enois como Importadora 🇧🇷 ✔️
 
-## 🔍 Diagnóstico
+A **Enois** (presente nas cidades portuárias) foi configurada como **importadora de produtos brasileiros**:
 
-### Situação original
-
-Das 268 empresas do Grand Utopia (excluindo VTCs de jogadores):
-
-| Status | Quantidade | % |
-|--------|-----------|-----|
-| ✅ Funcionais (cargas balanceadas) | 113 | 42% |
-| ❌ Fantasmas (sem nenhuma carga) | 122 | 46% |
-| ⚠️ Só importam (ex: postos, mercados) | 7 | 3% |
-| ⚠️ Só exportam | 3 | 1% |
-
-### O que é "fantasma" vs "só importa"
-
-É importante entender: **nem toda empresa fantasma precisa ser ativada**.
-
-- **Postos de combustível** (`mago`, `noxia`) — faz sentido só importarem. Um posto recebe gasolina e diesel, não produz nada. É correto estar como "só importa".
-- **Mercados** (`orelia_mkt`, `blumen`, `jim_tps_mkt`) — recebem alimentos e produtos, produzem apenas lixo/recicláveis. É correto.
-- **Empresas fantasmas** — algumas são **estações de ônibus/rodoviárias** aguardando a SCS liberar a DLC de ônibus. Se ativadas, precisam de carga de "passageiros" (invisível) com rota exclusiva estação → estação.
-- **Empresas fantasmas produtivas** — madeireiras, fábricas, construtoras, estaleiros. **ESSAS são prioridade.**
-
-> ⚠️ **Nota sobre estações de ônibus:** O Grand Utopia possui prefabs de rodoviárias que o MyGodness posicionou no mapa aguardando futura DLC de ônibus da SCS. Se formos ativá-las, será necessário criar uma carga especial "passageiros" (invisível, sem modelo 3D) com rota exclusiva entre estações — nunca para transportadoras ou portos.
+| Importa do Brasil | Exporta para o Brasil |
+|------------------|---------------------|
+| Café, Açúcar, Suco de Laranja | Vinho, Queijo |
+| Etanol, Minério de Ferro, Soja | Máquinas, Eletrônicos, Peças |
 
 ---
 
-## 🗺️ Plano de Correção
+## 🚧 O que está em desenvolvimento (WIP)
 
-### Fase 1 — Mygotopia: Kamelot (em andamento)
+### Fase 4 — Especialização de Distribuidoras 🔄
 
-Prioridade máxima. Kamelot é a cidade inicial do autor e atualmente está morta.
+Atualmente, todas as transportadoras têm a mesma lista genérica de cargas. Estamos especializando cada uma num segmento específico:
 
-| Empresa | Cidade | Problema | Correção |
-|---------|--------|----------|----------|
-| **boisserie** | Kamelot | Fantasma | Serraria (recebe toras, produz madeira processada) |
-| **wilnet_trans** | Kamelot | Fantasma | Transportadora regional |
-| **gocamping** | Kamelot, Foxhaven | Desbalanceado (25 in / 5 out) | Equipamentos de camping/lazer |
+| Cadeia | Distribuidoras | Cidades |
+|--------|---------------|---------|
+| 🥩 Carnes | crm, ladoga, rimaf | 2+2+3 |
+| 🧀 Laticínios | casania, rocheron, rosmark | 3+1+2 |
+| 🌾 Grãos/Cereais | domdepo, globeur, sag_tre | 7+3+1 |
+| 🍎 Frutas/Verduras | log_atlan, low_field, suprema | 3+6+2 |
+| ❄️ Congelados | trameri, universsim, zelenye | 4+5+1 |
+| 🛒 **Alimentos + Supermercado** | **euskaltrans** | **23** 🚀 |
+| 🚗 Veículos | totoche, tdf | 4+4 |
+| 🏗️ Construção | transacantal, trasmatech, grandouest | 9+10+6 |
+| ⛽ Química | sjlog, lisette_log, nos_pat | 5+5+12 |
+| 🪑 Madeira/Móveis | lostboys, teamzephyr, syllurgy | 6+5+3 |
+| 🇧🇷 Importadora | **enois** | Portos |
 
-**Não precisa mexer:**
-- `mago` (Kamelot) — posto de combustível. Só importar está correto.
-- `noxia` (Kamelot) — química. Só importar está correto.
+> **euskaltrans:** Alimentos + itens de supermercado (bebidas, laticínios, carnes, frutas, grãos, roupas, material de escritório, produtos de limpeza). Abastece supermercados e mercados locais em 23 cidades.
 
-### Fase 2 — Mygotopia: Windfield
+**27 empresas sendo especializadas. WIP.**
 
-Ativar empresas da capital portuária que estão mortas.
+### Fase 5 — Penistone como petroleira 🛢️
 
-| Empresa | Correção |
-|---------|----------|
-| **sanbuilders** | Construtora (só importa: cimento, tijolos, aço) |
-| **c_navale** | Estaleiro (recebe aço, produz embarcações) |
-| **blt_yacht** | Fabricante de iates |
-| **ika_bohag** | Móveis e decoração |
+A empresa Penistone (Windfield) será convertida de loja genérica para petroleira/distribuidora de combustíveis.
 
-**Não mexer:**
-- `scania_dlr` e `volvo_dlr` — concessionárias. Só importam peças. Correto.
-- `sporklift` — pode ser estação de ônibus. Aguardar definição.
-- `supercesta` — supermercado. Só importa. Correto.
+### Fase 6 — Gocamping
 
-### Fase 3 — Mygotopia: Demais cidades
-
-Foxhaven, Liberty Bay, Bad Water, Two Rivers, Bully, Oakwood, Westbank.
-
-### Fase 4 — Ilha Principal: Cidades grandes
-
-Tours, Pérignat, Gavroche, Rivenchy, Monteil.
-
-### Fase 5 — Ilha Principal: Cidades menores e vilarejos
-
-### Fase 6 — Balanceamento fino
-
-Ajustar quantidades, criar rotas regionais dentro de Mygotopia para resolver o problema de "só exporta, nunca importa".
+A gocamping (Kamelot, Foxhaven) será readequada conforme avaliação do cenário no mapa.
 
 ---
 
 ## 📦 Instalação
 
-1. **Baixe** o arquivo `.scs` da [aba Releases](https://github.com/Oberbet/Grand-Utopia-Logistics-Rework/releases)
+1. **Baixe** o arquivo `.scs` da [aba Releases](https://github.com/Oberbet/Grand-Utopia-Logistics-Rework/releases) ou da Steam Workshop (assim que publicado)
 2. **Copie** para `Documents/Euro Truck Simulator 2/mod/`
-3. **Ative** no Gerenciador de Mods com o mod **abaixo** do Grand Utopia na lista (prioridade maior)
+3. **Ative** no Gerenciador de Mods com prioridade **MAIOR que o Grand Utopia** (mod mais abaixo na lista)
 
-### Ordem de carregamento recomendada
+> ⚠️ **Sempre baixe do repositório oficial ou da Steam Workshop.** Evite download de sites terceiros — você pode baixar uma versão desatualizada ou modificada sem seu conhecimento.
+
+### Ordem de carregamento
 
 ```
-[topo da lista — menor prioridade]
-1. Grand Utopia (mapa base)
+[topo — menor prioridade]
+  Grand Utopia (mapa base)
 
-[base da lista — maior prioridade]
-2. Grand Utopia Logistics Rework ← seu mod
-3. Akokan Island (se tiver)
-4. Outros mods compatíveis
+[base — maior prioridade]
+  Grand Utopia Logistics Rework
+  Akokan Island (se tiver)
+  Outros mods
 ```
 
 ---
 
 ## 🤝 Compatibilidade
 
-- **Requer:** Grand Utopia (qualquer versão 1.54+)
-- **Compatível com:** Akokan Island, Patrons Island (addons oficiais)
-- **NÃO compatível com:** Outros mods que modifiquem as mesmas empresas (cuidado ao combinar com outros reworks de economia)
-- **Conflitos conhecidos:** Nenhum até o momento
+- ✅ **Requer:** Grand Utopia (qualquer versão 1.54+)
+- ✅ **Compatível com:** Akokan Island, Patrons Island
+- ✅ **Compatível com:** Qualquer mod que NÃO modifique as mesmas empresas
+- ⚠️ **Evite:** Outros mods que modifiquem a economia do Grand Utopia
 
 ---
 
-## 🛠️ Desenvolvimento
+## 🗺️ Mapa Logístico
 
-### Estrutura do projeto
-
-```
-Grand-Utopia-Logistics-Rework/
-├── README.md                     ← Este arquivo
-├── manifest.sii                  ← Identificação do mod
-├── DIAGNOSTICO_COMPLETO.md       ← Análise detalhada da economia
-│
-└── def/
-    └── company/
-        ├── boisserie/            ← Empresa corrigida
-        │   ├── in/               ← Cargas que ela RECEBE
-        │   └── out/              ← Cargas que ela PRODUZ
-        ├── wilnet_trans/
-        └── ... (demais)
-```
-
-### Formato dos arquivos
-
-Cada carga é um arquivo `.sii` de 4 linhas:
-
-```siilanguage
-SiiNunit
-{
-cargo_def : .logs {
- cargo: "cargo.logs"
-}
-}
-```
-
-- O nome do arquivo (`logs.sii`) define o nome curto
-- `cargo_def : .logs` — identificador interno (use o mesmo nome do arquivo)
-- `cargo: "cargo.logs"` — referência à carga global (já existe no jogo)
+Consulte o arquivo [`MAPA_LOGISTICO.md`](MAPA_LOGISTICO.md) para diagramas detalhados de cada cadeia produtiva.
 
 ---
 
@@ -183,13 +129,124 @@ cargo_def : .logs {
 
 ---
 
-## 📊 Progresso
+> *"Grand Utopia é lindo. Merece uma economia à altura."*
+
+---
+
+## 📊 Progresso Geral
 
 ```
-Fase 1 (Kamelot)      ░░░░░░░░░░░░░░░░░░░░   0%
-Fase 2 (Windfield)    ░░░░░░░░░░░░░░░░░░░░   0%
-Fase 3 (Mygotopia resto)░░░░░░░░░░░░░░░░░░   0%
-Fase 4 (Ilha princ.)  ░░░░░░░░░░░░░░░░░░░░   0%
-Fase 5 (Vilarejos)    ░░░░░░░░░░░░░░░░░░░░   0%
-Fase 6 (Balanceamento)░░░░░░░░░░░░░░░░░░░░   0%
+Fase 1 (Ativar fantasmas)    ████████████████████ 100%
+Fase 2 (Cadeias funcionais)  ████████████████████ 100%
+Fase 3 (Enois importadora)   ████████████████████ 100%
+Fase 4 (Especialização)      ██████░░░░░░░░░░░░░░  30% (WIP)
+Fase 5 (Penistone)           ░░░░░░░░░░░░░░░░░░░░   0%
+Fase 6 (Gocamping)           ░░░░░░░░░░░░░░░░░░░░   0%
 ```
+
+---
+
+## 🛠️ Desenvolvimento e Contribuição
+
+Este mod é **open source**. Contribuições são bem-vindas!
+
+### Estrutura do projeto
+
+```
+Grand-Utopia-Logistics-Rework/
+├── README.md
+├── manifest.sii
+├── MAPA_LOGISTICO.md
+│
+└── def/
+    └── company/
+        ├── [empresa]/
+        │   ├── in/         ← Cargas que RECEBE
+        │   └── out/        ← Cargas que PRODUZ
+        └── ...
+```
+
+### Como contribuir
+
+1. Faça um fork do repositório
+2. Crie uma branch: `git checkout -b feature/nova-correcao`
+3. Commit suas mudanças: `git commit -m "Corrige empresa X"`
+4. Push: `git push origin feature/nova-correcao`
+5. Abra um Pull Request
+
+### Formato dos arquivos
+
+Cada carga é um arquivo `.sii` de 4 linhas:
+
+```siilanguage
+SiiNunit
+{
+cargo_def : .almond {
+ cargo: "cargo.almond"
+}
+}
+```
+
+- Nome do arquivo = nome da carga (ex: `almond.sii`)
+- `cargo_def : .almond` = identificador interno (mesmo nome)
+- `cargo: "cargo.almond"` = referência à carga global
+
+### Automação — Criar arquivos em massa
+
+**No Linux (bash):**
+
+```bash
+# Cria in/out para uma transportadora
+for cargo in almonds apples beans beef beverages; do
+  echo 'SiiNunit{ cargo_def : .'$cargo' { cargo: "cargo.'$cargo'" } }' > def/company/minha_empresa/in/$cargo.sii
+  echo 'SiiNunit{ cargo_def : .'$cargo' { cargo: "cargo.'$cargo'" } }' > def/company/minha_empresa/out/$cargo.sii
+done
+```
+
+**No Windows (PowerShell):**
+
+```powershell
+# Cria in/out para uma transportadora
+$cargas = @("almonds","apples","beans","beef","beverages")
+foreach ($c in $cargas) {
+  $content = "SiiNunit{ cargo_def : .$c { cargo: `"cargo.$c`" } }"
+  $content | Out-File -FilePath "def/company/minha_empresa/in/$c.sii" -Encoding ascii
+  $content | Out-File -FilePath "def/company/minha_empresa/out/$c.sii" -Encoding ascii
+}
+```
+
+### Gerar .scs para distribuição
+
+**No Linux:**
+
+```bash
+# Na raiz do projeto
+cd Grand-Utopia-Logistics-Rework
+zip -r ../Grand-Utopia-Logistics-Rework-v1.0.0-beta.scs . -x ".git/*"
+```
+
+**No Windows (PowerShell):**
+
+```powershell
+# Na raiz do projeto
+Compress-Archive -Path * -DestinationPath ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.zip
+# Renomeie .zip para .scs
+Rename-Item ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.zip ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.scs
+```
+
+**No Windows (7-Zip — recomendado):**
+
+```powershell
+# Se tiver 7-Zip instalado em C:\Program Files\7-Zip\
+& "C:\Program Files\7-Zip\7z.exe" a -tzip ..\Grand-Utopia-Logistics-Rework-v1.0.0-beta.scs * -xr!".git"
+```
+
+> O arquivo `.scs` é um `.zip` renomeado. O ETS2 aceita ambos os formatos.
+
+---
+
+## 📜 Licença
+
+Distribuição livre. Uso, modificação e compartilhamento permitidos sem restrições. Para garantir a versão mais atualizada e estável, **baixe sempre do repositório oficial no GitHub ou da Steam Workshop**.
+
+Créditos à comunidade Grand Utopia são apreciados mas não obrigatórios.
