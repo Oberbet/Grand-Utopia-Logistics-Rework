@@ -1,0 +1,1 @@
+SiiNunit{ cargo_def : .general_cargo { cargo: "cargo.general_cargo" } }
