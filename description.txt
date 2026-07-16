@@ -1,0 +1,10 @@
+[h1]Grand Utopia Logistics Rework[/h1]
+[i]Subtítulo[/i]
+
+[h2]✅ O que o mod faz[/h2]
+[list]
+[*]156 empresas ativadas
+[*]Cadeias logísticas
+[*]Distribuidoras especializadas
+[*]Enois importadora
+[/list]

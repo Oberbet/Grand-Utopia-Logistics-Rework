@@ -6,7 +6,7 @@ mod_manifest: .manifest
     author: "Oberbet"
     version: "1.0.0"
     icon: "mod_icon.jpeg"
-    description: "Corrige a economia do Grand Utopia — empresas fantasmas ganham vida, rotas regionais, cadeias logísticas coerentes"
+    description_file: "description.txt"
     compatible_versions[]: "1.54.*"
     compatible_versions[]: "1.55.*"
     compatible_versions[]: "1.60.*"
