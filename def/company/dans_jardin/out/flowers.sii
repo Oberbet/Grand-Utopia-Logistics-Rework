@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .flowers {
+ cargo: "cargo.flowers"
+}
+}

@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .pots_tools {
+ cargo: "cargo.pots_tools"
+}
+}
