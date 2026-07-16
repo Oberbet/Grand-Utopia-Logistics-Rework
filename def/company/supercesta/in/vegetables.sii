@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .vegetables {
- cargo: "cargo.vegetables"
-}
-}

@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .asphalt_miller {
- cargo: "cargo.asphalt_miller"
-}
-}

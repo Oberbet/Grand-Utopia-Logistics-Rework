@@ -1,6 +1,0 @@
-SiiNunit
-{
-cargo_def : .paint {
- cargo: "cargo.paint"
-}
-}
