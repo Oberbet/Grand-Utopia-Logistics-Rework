@@ -1,0 +1,15 @@
+Grand Utopia Logistics Rework
+
+Corrige a economia do Grand Utopia — 156 empresas ativadas, cadeias logísticas, distribuição especializada.
+
+Este mod não adiciona nem remove empresas. Apenas corrige inputs e outputs para que tudo tenha propósito logístico.
+
+O que faz:
+- 156 empresas fantasmas ativadas
+- Cadeias produtivas completas
+- 27 distribuidoras especializadas
+- Enois como importadora brasileira
+- euskaltrans como hub alimentício em 23 cidades
+
+Requer Grand Utopia (1.54+).
+Colocar com prioridade maior que o mapa base.
