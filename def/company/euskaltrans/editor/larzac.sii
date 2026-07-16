@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .larzac {
+ city: larzac
+ prefab: dlc_fr_13
+}
+}
