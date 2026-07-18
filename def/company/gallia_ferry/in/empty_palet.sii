@@ -1,6 +1,1 @@
-SiiNunit
-{
-cargo_def : .empty_palet {
- cargo: "cargo.empty_palet"
-}
-}
+SiiNunit{ cargo_def : .empty_palet { cargo: "cargo.empty_palet" } }
