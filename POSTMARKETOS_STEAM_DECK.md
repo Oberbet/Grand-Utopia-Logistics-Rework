@@ -250,10 +250,10 @@ distrobox enter pmos-deck -- bash -lc '
     -drive file=20260828-0134-postmarketOS-v26.06-phosh-29.1-generic-x86_64-lts.img,format=raw,if=none,id=hd0 \
     -device ich9-ahci,id=ahci \
     -device ide-hd,drive=hd0,bus=ahci.0 \
-    -device virtio-vga-gl \
+    -device virtio-vga-gl,xres=1280,yres=800 \
     -display gtk,gl=on \
     -device qemu-xhci \
-    -device usb-tablet \
+    -device virtio-tablet-pci \
     -nic user,model=virtio-net-pci
 '
 ```
@@ -262,8 +262,8 @@ distrobox enter pmos-deck -- bash -lc '
 - `-machine q35,accel=kvm -cpu host` → máquina moderna acelerada por hardware.
 - pflash OVMF (CODE read-only + VARS gravável) → boot UEFI, obrigatório para essas imagens.
 - `-device ich9-ahci` + `ide-hd` → disco como SATA: driver presente em qualquer kernel x86 (é o mais garantido; se quiser mais velocidade, troque por virtio-blk — veja seção 11).
-- `-device virtio-vga-gl -display gtk,gl=on` → GPU virtual 3D com virgl.
-- `-device qemu-xhci -device usb-tablet` → mouse absoluto (o touchscreen do Deck move o cursor da VM; trackpads também funcionam).
+- `-device virtio-vga-gl,xres=1280,yres=800` + `-display gtk,gl=on` → GPU virtual 3D com virgl, **travada na resolução nativa do Deck** (mapeamento do cursor 1:1, sem descentralização).
+- `-device virtio-tablet-pci` → ponteiro absoluto virtio: o cursor do guest fica **exatamente** onde está o cursor do Deck. (O antigo `usb-tablet` dessincroniza em alguns guests, deixando o clique torto — use `PMOS_POINTER=usb` só como fallback.)
 - `-nic user` → rede NAT: o guest já sai com DHCP e internet usando a rede do Deck (DNS via 10.0.2.3).
 
 **O que você deve ver:**
@@ -275,6 +275,7 @@ distrobox enter pmos-deck -- bash -lc '
 **Controles:**
 - `Ctrl+Alt+G` → captura/solta o mouse na janela da VM.
 - `Ctrl+Alt+F` → tela cheia (útil no Deck).
+- **Toque no touchscreen do Deck:** o touchscreen do Deck é I2C-HID e **não pode ser "passado" para a VM via USB** — dentro do guest ele sempre vai agir como *mouse* (mover o dedo = mover o cursor). Para o toque "clicar", confira no KDE do Deck: **Configurações do Sistema → Dispositivos de Entrada → Touchscreen → "Tap to click"** habilitado. Com o ponteiro `virtio-tablet-pci`, o cursor do guest acompanha o dedo **sem descentralização**.
 - Para desligar: use o menu de energia dentro do Phosh (deslize de cima) ou no terminal da VM `sudo poweroff`. Evite fechar a janela à força.
 
 **Erros previstos no primeiro boot:**
@@ -308,10 +309,10 @@ distrobox enter pmos-deck -- bash -lc '
     -drive file=20260828-0141-postmarketOS-v26.06-gnome-mobile-4-generic-x86_64-lts.img,format=raw,if=none,id=hd0 \
     -device ich9-ahci,id=ahci \
     -device ide-hd,drive=hd0,bus=ahci.0 \
-    -device virtio-vga-gl \
+    -device virtio-vga-gl,xres=1280,yres=800 \
     -display gtk,gl=on \
     -device qemu-xhci \
-    -device usb-tablet \
+    -device virtio-tablet-pci \
     -nic user,model=virtio-net-pci
 '
 ```
@@ -340,10 +341,10 @@ distrobox enter pmos-deck -- bash -lc '
     -drive file=20260828-0145-postmarketOS-v26.06-plasma-mobile-6-generic-x86_64-lts.img,format=raw,if=none,id=hd0 \
     -device ich9-ahci,id=ahci \
     -device ide-hd,drive=hd0,bus=ahci.0 \
-    -device virtio-vga-gl \
+    -device virtio-vga-gl,xres=1280,yres=800 \
     -display gtk,gl=on \
     -device qemu-xhci \
-    -device usb-tablet \
+    -device virtio-tablet-pci \
     -nic user,model=virtio-net-pci
 '
 ```
@@ -402,7 +403,8 @@ Variáveis de ambiente opcionais:
 | 16 | Container sumiu após update do SteamOS | distrobox do host atualizou e perdeu o container | `distrobox list`; se faltar, recrie com o mesmo nome (as imagens em `~/pmos` ficam) |
 | 17 | `qemu-system-x86_64: command not found` dentro do container | pacotes não instalados | repita o `pacman -S qemu-desktop edk2-ovmf mesa libglvnd` |
 | 18 | VMs não bootam depois de muito tempo paradas | imagem "suja" de testes | recopie a imagem original ou use overlay (seção 12) |
-| 19 | Toque não funciona na VM | sem dispositivo touch virtual | mouse é o esperado: touchscreen do Deck move o cursor (usb-tablet) |
+| 19 | Toque não funciona na VM | touchscreen do Deck é I2C-HID — não dá para passar como USB | esperado: o toque age como mouse; habilite "Tap to click" no KDE do Deck (Dispositivos de Entrada → Touchscreen) |
+| 22 | Cursor descentralizado / clique torto (precisa arrastar o mouse para clicar) | ponteiro `usb-tablet` dessincronizado ou resolução do guest ≠ janela | use `-device virtio-tablet-pci` (padrão do script) e `xres=1280,yres=800` no vídeo; se persistir, `PMOS_POINTER=usb` como fallback |
 | 20 | Quer rodar em monitor externo | — | use a dock; a janela QEMU acompanha o KDE normalmente |
 | 21 | `cannot set shmsize when running in the host IPC Namespace` ao criar o container | `--shm-size` + `--ipc host` (padrão do distrobox) | remova `--shm-size` do `--additional-flags` e recrie o container |
 

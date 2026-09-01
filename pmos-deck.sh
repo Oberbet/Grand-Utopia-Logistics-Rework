@@ -17,6 +17,8 @@
 #   PMOS_SMP=4     CPUs virtuais
 #   PMOS_DISK=virtio   usa virtio-blk no lugar de SATA (mais rápido, menos compatível)
 #   PMOS_PINNED=1  usa as URLs fixas (build 20260828) em vez de descobrir a mais nova
+#   PMOS_POINTER=usb  usa usb-tablet em vez do ponteiro virtio (fallback p/ dessincronização)
+#   PMOS_XRES/PMOS_YRES=1280/800  resolução do display virtual (nativa do Deck)
 #
 # Validado em 01/09/2026 (imagens postmarketOS v26.06, QEMU 11.x, SteamOS 3.5+).
 # Veja o guia completo em POSTMARKETOS_STEAM_DECK.md.
@@ -198,8 +200,17 @@ cmd_run() {
     vga="virtio-vga"; disp="gtk"
   fi
 
+  # Ponteiro absoluto virtio: cursor do guest fica alinhado ao cursor do Deck.
+  # (usb-tablet dessincroniza em alguns guests — use PMOS_POINTER=usb só como fallback.)
+  local ptr="virtio-tablet-pci"
+  if [ "${PMOS_POINTER:-}" = "usb" ]; then ptr="usb-tablet"; fi
+
+  # Trava o display virtual na resolução nativa do Deck (1280x800) p/ mapeamento 1:1.
+  vga="$vga,xres=${PMOS_XRES:-1280},yres=${PMOS_YRES:-800}"
+
   export PMOS_UI="$ui" PMOS_BASE="$BASE_DIR" PMOS_RAM="$ram" PMOS_SMP="$smp" \
          PMOS_ACCEL="$accel" PMOS_CPU="$cpu" PMOS_VGA="$vga" PMOS_DISP="$disp" \
+         PMOS_PTR="$ptr" \
          PMOS_DISK_MODE="${PMOS_DISK:-sata}" PMOS_AUDIO="${PMOS_AUDIO:-0}"
 
   # Script interno: roda DENTRO do container (distrobox compartilha $HOME, então
@@ -260,7 +271,7 @@ exec qemu-system-x86_64 \
   -device "$PMOS_VGA" \
   -display "$PMOS_DISP" \
   -device qemu-xhci \
-  -device usb-tablet \
+  -device "$PMOS_PTR" \
   -nic user,model=virtio-net-pci \
   "${AUDIO_ARGS[@]}"
 INNER
