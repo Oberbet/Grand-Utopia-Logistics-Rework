@@ -125,20 +125,21 @@ distrobox create \
   --name pmos-deck \
   --image archlinux:latest \
   --yes \
-  --additional-flags "--device /dev/kvm --device /dev/dri --shm-size=1g"
+  --additional-flags "--device /dev/kvm --device /dev/dri"
 ```
 
 **O que cada flag faz:**
 - `--additional-flags` → repassa flags para o `podman create` por baixo.
 - `--device /dev/kvm` → **obrigatório**: expõe a virtualização ao container (sem isso o QEMU não acelera).
 - `--device /dev/dri` → expõe o render node do GPU (Radeon 680M do Deck) para a janela do QEMU renderizar com GL.
-- `--shm-size=1g` → evita falta de `/dev/shm` para o renderizador 3D (virgl).
+- ~~`--shm-size=1g`~~ **não use**: o distrobox compartilha o namespace IPC com o host (`--ipc host`) e o podman rejeita `--shm-size` nesse caso, com o erro `cannot set shmsize when running in the host IPC Namespace` — a criação do container falha na hora. O tamanho padrão (64 MB) é suficiente para o QEMU.
 
 **Esperado:** download da imagem Arch (`docker.io/library/archlinux:latest`, ~200 MB) e mensagem de criação com sucesso.
 
 **Erros previstos:**
 - `Error: stat /dev/kvm: no such file or directory` → o `/dev/kvm` não existe no host (faça Passo 0.2, Cenário B).
 - `Error: stat /dev/dri: no such file or directory` → `/dev/dri` ausente; recrie o container sem essa flag (a janela ainda abre, com renderização por software).
+- `Error: invalid config provided: cannot set shmsize when running in the {host } IPC Namespace` → você passou `--shm-size` no `--additional-flags`; o distrobox usa `--ipc host` e o podman não permite os dois juntos. Remova `--shm-size` do comando (a versão atual do guia/script já não usa).
 - Demorar muito no pull → é normal na primeira vez (rede do Deck); não interrompa.
 
 **Verifique que o container existe e entre nele:**
@@ -403,6 +404,7 @@ Variáveis de ambiente opcionais:
 | 18 | VMs não bootam depois de muito tempo paradas | imagem "suja" de testes | recopie a imagem original ou use overlay (seção 12) |
 | 19 | Toque não funciona na VM | sem dispositivo touch virtual | mouse é o esperado: touchscreen do Deck move o cursor (usb-tablet) |
 | 20 | Quer rodar em monitor externo | — | use a dock; a janela QEMU acompanha o KDE normalmente |
+| 21 | `cannot set shmsize when running in the host IPC Namespace` ao criar o container | `--shm-size` + `--ipc host` (padrão do distrobox) | remova `--shm-size` do `--additional-flags` e recrie o container |
 
 ---
 

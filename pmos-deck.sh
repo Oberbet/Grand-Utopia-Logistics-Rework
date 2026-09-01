@@ -155,7 +155,10 @@ cmd_setup() {
   if distrobox list 2>/dev/null | grep -qw "$CONTAINER"; then
     say "container '$CONTAINER' já existe"
   else
-    local flags="--shm-size=1g"
+    # NOTA: não use --shm-size aqui — o distrobox roda com --ipc host (compartilha
+    # o namespace IPC com o SteamOS) e o podman rejeita --shm-size nesse caso:
+    # "cannot set shmsize when running in the host IPC Namespace". O padrão (64 MB) basta.
+    local flags=""
     if [ -e /dev/kvm ]; then flags="$flags --device /dev/kvm"; else warn "/dev/kvm ausente — a VM rodará sem aceleração"; fi
     if [ -e /dev/dri ]; then flags="$flags --device /dev/dri"; else warn "/dev/dri ausente — janela sem aceleração 3D"; fi
     distrobox create --name "$CONTAINER" --image archlinux:latest --yes --additional-flags "$flags"
